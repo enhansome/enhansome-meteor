@@ -1,0 +1,1819 @@
+{
+  "items": [
+    {
+      "description": "Helpers and expensions for collections",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aldeed:collection2",
+          "description": "Automatic validation of insert and update operations on the client and server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T19:12:07Z",
+            "owner": "Meteor-Community-Packages",
+            "repo": "meteor-collection2",
+            "stars": 1016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matb33:collection-hooks",
+          "description": "Extends Mongo.Collection with before/after hooks for insert/update/remove/find/findOne.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T23:11:46Z",
+            "owner": "Meteor-Community-Packages",
+            "repo": "meteor-collection-hooks",
+            "stars": 656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jagi:astronomy",
+          "description": "The Model layer for Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-24T08:22:39Z",
+            "owner": "jagi",
+            "repo": "meteor-astronomy",
+            "stars": 604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-schema",
+          "description": "A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T17:00:40Z",
+            "owner": "longshotlabs",
+            "repo": "simpl-schema",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reywood:publish-composite",
+          "description": "publish a set of related documents from various collections using a reactive join.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:07:55Z",
+            "owner": "Meteor-Community-Packages",
+            "repo": "meteor-publish-composite",
+            "stars": 548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dburles:collection-helpers",
+          "description": "Transform your collections with helpers that you define.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-09T23:12:47Z",
+            "owner": "dburles",
+            "repo": "meteor-collection-helpers",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cultofcoders:grapher",
+          "description": "Grapher: Meteor Collection Joins + Reactive GraphQL like queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-12T13:10:35Z",
+            "owner": "cult-of-coders",
+            "repo": "grapher",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sakulstra:aggregate",
+          "description": "Add proper aggregation support for Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-15T18:04:00Z",
+            "owner": "sakulstra",
+            "repo": "meteor-aggregate",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quave:collections",
+          "description": "Create collections in a standard way.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-04-05T18:47:38Z",
+            "owner": "quavedev",
+            "repo": "collections",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Collections"
+    },
+    {
+      "description": "Helpers for templates",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uniforms",
+          "description": "Bunch of React components and helpers to easily generate and validate forms. Seamlessly integrate with .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-12T11:11:31Z",
+            "owner": "vazco",
+            "repo": "uniforms",
+            "stars": 2104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aldeed:autoform",
+          "description": "UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-02T04:22:19Z",
+            "owner": "Meteor-Community-Packages",
+            "repo": "meteor-autoform",
+            "stars": 1430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aldeed:template-extension",
+          "description": "A Meteor package: Replace already defined templates, inherit helpers and events from other templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-03T15:29:57Z",
+            "owner": "longshotlabs",
+            "repo": "meteor-template-extension",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ostrio:templatehelpers",
+          "description": "Utility helpers for your Blaze templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-09T20:00:13Z",
+            "owner": "veliovgroup",
+            "repo": "Meteor-Template-helpers",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kadira:blaze-layout",
+          "description": "Layout Manager for Blaze (works well with Meteor FlowRouter)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-15T20:32:23Z",
+            "owner": "TeamGrid",
+            "repo": "blaze-layout",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Forms and Templates"
+    },
+    {
+      "description": "Tools for handling users and authentication",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "accounts-js",
+          "description": "A suite of packages aims to provide all the tools you need to build a flexible authentication and accounts management solution for your application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-03-08T10:44:12Z",
+            "owner": "accounts-js",
+            "repo": "accounts",
+            "stars": 1501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alanning:roles",
+          "description": "Roles support for the built-in accounts packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-30T08:39:05Z",
+            "owner": "Meteor-Community-Packages",
+            "repo": "meteor-roles",
+            "stars": 913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-user-status",
+          "description": "Keeps track of users and their meta data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-19T14:42:23Z",
+            "owner": "Meteor-Community-Packages",
+            "repo": "meteor-user-status",
+            "stars": 556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "accounts-ui",
+          "description": "Accounts UI for React in Meteor 1.3+.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-05-12T12:21:11Z",
+            "owner": "e-Potek",
+            "repo": "accounts-ui",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Users and Authentication"
+    },
+    {
+      "description": "Tools for administrating your Meteor apps",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yogiben:admin",
+          "description": "A complete admin dashboard solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2017-06-23T14:24:08Z",
+            "owner": "yogiben",
+            "repo": "meteor-admin",
+            "stars": 822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "houston:admin",
+          "description": "A zero-config, Django Admin-like admin for Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2017-05-16T03:18:01Z",
+            "owner": "gterrono",
+            "repo": "houston",
+            "stars": 802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zodern:pure-admin",
+          "description": "An isolated, customizable admin panel for Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-31T01:27:17Z",
+            "owner": "zodern",
+            "repo": "meteor-pure-admin",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Administration"
+    },
+    {
+      "description": "Tools for monitoring your Meteor apps",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "monti-apm-agent",
+          "description": "Performance Monitoring for Meteor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-06T22:10:02Z",
+            "owner": "monti-apm",
+            "repo": "monti-apm-agent",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lmachens:kadira",
+          "description": "Performance Monitoring for Meteor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-25T18:52:34Z",
+            "owner": "lmachens",
+            "repo": "kadira",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kschingiz:meteor-elastic-apm",
+          "description": "Perfomance Monitoring for Meteor based on Elastic APM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-02-12T09:39:35Z",
+            "owner": "kschingiz",
+            "repo": "meteor-elastic-apm",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Monitoring"
+    },
+    {
+      "description": "Tools for speeding up your Meteor apps",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cultofcoders:redis-oplog",
+          "description": "Redis Oplog implementation to fully replace MongoDB Oplog in Meteor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-27T10:50:00Z",
+            "owner": "cult-of-coders",
+            "repo": "redis-oplog",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "staringatlights:fast-render",
+          "description": "An active fork of fast-render",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-29T18:49:48Z",
+            "owner": "abecks",
+            "repo": "meteor-fast-render",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maestroqadev:pub-sub-lite",
+          "description": "Transform publications to be non-reactive.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-07-10T13:19:09Z",
+            "owner": "adtribute",
+            "repo": "pub-sub-lite",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "epotek:method-cache",
+          "description": "Meteor method caching using DataLoader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-15T02:57:15Z",
+            "owner": "e-Potek",
+            "repo": "method-cache",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "artillery-engine-meteor",
+          "description": "Artillery load testing for MeteorJS applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-02T16:15:39Z",
+            "owner": "kschingiz",
+            "repo": "artillery-engine-meteor",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Performance"
+    },
+    {
+      "description": "Tools for deploying and maintaining Meteor apps",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "meteor-up",
+          "description": "Meteor Deployments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-20T21:27:27Z",
+            "owner": "zodern",
+            "repo": "meteor-up",
+            "stars": 1268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "demeteorizer",
+          "description": "Converts a Meteor app into a \"standard\" Node.js application",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-17T23:56:09Z",
+            "owner": "XervoIO",
+            "repo": "demeteorizer",
+            "stars": 701
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "percolate:migrations",
+          "description": "Simple migration system for Meteor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-21T17:22:03Z",
+            "owner": "meteor",
+            "repo": "meteor-migrations",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pm2-meteor",
+          "description": "Simplest way to deploy, scale and run Meteor Apps with PM2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2022-04-28T07:50:19Z",
+            "owner": "andruschka",
+            "repo": "pm2-meteor",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mup-aws-beanstalk",
+          "description": "Deploy Meteor apps to AWS Elastic Beanstalk using Meteor Up",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-02T13:05:40Z",
+            "owner": "meteor-up",
+            "repo": "mup-aws-beanstalk",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-azure",
+          "description": "Automate Meteor deployments on Azure App Service",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-08T21:58:21Z",
+            "owner": "fractal-code",
+            "repo": "meteor-azure",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-kubernetes-guide",
+          "description": "Deploy a Meteor app with Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-05-06T23:34:22Z",
+            "owner": "Gregivy",
+            "repo": "meteor-kubernetes-guide",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-hero",
+          "description": "Deploy MeteorJS applications for free with one command utilizing Heroku's service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T10:50:43Z",
+            "owner": "jkrup",
+            "repo": "meteor-hero",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-google-cloud",
+          "description": "Automate Meteor deployments on Google Cloud App Engine Flexible",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T20:42:13Z",
+            "owner": "edvisor-io",
+            "repo": "meteor-google-cloud",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waveshosting",
+          "description": "Web application to manage meteor deployments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-10T15:46:48Z",
+            "owner": "nicolaslopezj",
+            "repo": "waveshosting",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yamup",
+          "description": "Deploy Meteor apps to your own Ubuntu server (EC2, ...) without dockers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-21T23:34:40Z",
+            "owner": "bordalix",
+            "repo": "yamup",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteorhacks:cluster",
+          "description": "Clustering solution for Meteor with load balancing and service discovery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-07T10:15:44Z",
+            "owner": "lmachens",
+            "repo": "cluster",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Deployment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "meteor-base",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-09T18:35:20Z",
+            "owner": "disney",
+            "repo": "meteor-base",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docker-meteor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-06-04T19:06:14Z",
+            "owner": "tozd",
+            "repo": "docker-meteor",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-docker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T17:56:12Z",
+            "owner": "meteor-up",
+            "repo": "meteor-docker",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "Docker Images"
+    },
+    {
+      "description": "Routers for Blaze",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iron:router",
+          "description": "A router that works on the server and the browser, designed specifically for Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-11T01:07:51Z",
+            "owner": "iron-meteor",
+            "repo": "iron-router",
+            "stars": 1963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ostrio:flow-router-extra",
+          "description": "Carefully extended package. Up-to-date version with support of latest Meteor's releases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-19T12:15:00Z",
+            "owner": "veliovgroup",
+            "repo": "flow-router",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteorhacks:picker",
+          "description": "Server Side Router for Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-21T06:44:57Z",
+            "owner": "meteorhacks",
+            "repo": "picker",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "msavin:parrot",
+          "description": "Web router specially designed for building SPAs using Meteor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-28T21:01:26Z",
+            "owner": "msavin",
+            "repo": "Parrot",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "Routers"
+    },
+    {
+      "description": "Tools for Meteor offline support",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ground:db",
+          "description": "GroundDB is a thin layer providing Meteor offline database and methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T09:30:57Z",
+            "owner": "Meteor-Community-Packages",
+            "repo": "ground-db",
+            "stars": 569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-service-worker",
+          "description": "Meteor specific service worker implementaion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-23T15:09:44Z",
+            "owner": "ilan-schemoul",
+            "repo": "meteor-service-worker",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "npdev:collections",
+          "description": "An easy way to create offline collections with SSR for Meteor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-12-14T06:21:01Z",
+            "owner": "CaptainN",
+            "repo": "npdev-collections",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quave:pwa",
+          "description": "A Meteor package that allows you to configure your PWA.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-30T03:54:42Z",
+            "owner": "quavedev",
+            "repo": "pwa",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Offline"
+    },
+    {
+      "description": "Testing tools",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "meteortesting:mocha",
+          "description": "Mocha test driver package for Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-28T09:55:06Z",
+            "owner": "Meteor-Community-Packages",
+            "repo": "meteor-mocha",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lmieulet:meteor-coverage",
+          "description": "Test coverage for Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-09-11T13:52:06Z",
+            "owner": "serut",
+            "repo": "meteor-coverage",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "antwaremx:meteorman",
+          "description": "Meteorman: A DDP Client with GUI to test Meteor methods and publications (like Postman).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-07-31T07:09:50Z",
+            "owner": "antwaremx",
+            "repo": "meteorman",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hubroedu:mocha",
+          "description": "Decaffed cultofcoders:mocha fork.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-24T18:18:35Z",
+            "owner": "hubroedu",
+            "repo": "meteor-mocha",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "Handling files in Meteor",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ostrio:files",
+          "description": "Upload files via DDP, HTTP and WebRTC/DC. To Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T20:16:48Z",
+            "owner": "veliovgroup",
+            "repo": "Meteor-Files",
+            "stars": 1115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netanelgilad:excel",
+          "description": "Parsing and generating excel files (xlsx, xls).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-11-14T04:40:37Z",
+            "owner": "netanelgilad",
+            "repo": "meteor-excel",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@reactioncommerce/file-collections",
+          "description": "Reaction FileCollections is a set of NPM packages that provide the ability to support file uploads, storage, and downloads in Node and Meteor apps, and in browser JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-09-21T12:51:10Z",
+            "owner": "reactioncommerce",
+            "repo": "reaction-file-collections",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mikkelking:slingshot",
+          "description": "Upload files directly to AWS S3, Google Cloud Storage and others in meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-19T21:51:06Z",
+            "owner": "Back2Dev",
+            "repo": "meteor-slingshot",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Files"
+    },
+    {
+      "description": "Search, sort and paginate related tools",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "matteodem:easy-search",
+          "description": "Easy-to-use search with Blaze Components (+ Elastic Search Support)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-20T07:23:20Z",
+            "owner": "matteodem",
+            "repo": "meteor-easy-search",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alethes:pages",
+          "description": "Out of the box Meteor pagination.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2019-12-13T12:22:46Z",
+            "owner": "alethes",
+            "repo": "meteor-pages",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmeasday:publish-counts",
+          "description": "Publish the count of a cursor, in real time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-20T14:30:24Z",
+            "owner": "meteor",
+            "repo": "publish-counts",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteorhacks:search-source",
+          "description": "Reactive Data Source for Search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-01T04:20:31Z",
+            "owner": "meteorhacks",
+            "repo": "search-source",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "percolate:find-from-publication",
+          "description": "Enable finding all documents that have been published by a given publication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-28T13:13:40Z",
+            "owner": "versolearning",
+            "repo": "find-from-publication",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-publish-join",
+          "description": "A performant NPM package for publishing non-reactive or aggregated values.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-31T09:45:36Z",
+            "owner": "nlhuykhang",
+            "repo": "meteor-publish-join",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Search, sort and paginate"
+    },
+    {
+      "description": "Mobile Development",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "driftyco:ionic",
+          "description": "Official Ionic support for Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T20:38:48Z",
+            "owner": "ionic-team",
+            "repo": "ionic-framework",
+            "stars": 52616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteoric:ionic",
+          "description": "Ionic components for Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-15T01:20:46Z",
+            "owner": "meteoric",
+            "repo": "meteor-ionic",
+            "stars": 1503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "martijnwalraven:meteor-ios",
+          "description": "Integrates native iOS apps with the Meteor platform through DDP.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2016-07-30T10:51:23Z",
+            "owner": "martijnwalraven",
+            "repo": "meteor-ios",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "delight-im/Android-DDP",
+          "description": "DDP for clients on Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-07-12T16:32:49Z",
+            "owner": "delight-im",
+            "repo": "Android-DDP",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "okland:accounts-phone",
+          "description": "A login service based on mobile phone number for Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-08-31T13:34:32Z",
+            "owner": "okland",
+            "repo": "accounts-phone",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-react-native",
+          "description": "Meteor client for React Native matching Meteor Spec.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-10T17:51:27Z",
+            "owner": "meteorrn",
+            "repo": "meteor-react-native",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-push",
+          "description": "Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-23T21:00:50Z",
+            "owner": "activitree",
+            "repo": "meteor-push",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "okland:camera-ui",
+          "description": "Meteor package for taking photos with user interface, one function call on desktop and mobile. Allows to choose between camera to photoLibrary on mobile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-25T09:24:13Z",
+            "owner": "okland",
+            "repo": "camera-ui",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "percolatestudio/cordova-plugin-safe-reload",
+          "description": "Cordova plugin to watch and recover after a broken Meteor Hot Code Push.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-02-11T13:40:19Z",
+            "owner": "percolatestudio",
+            "repo": "cordova-plugin-safe-reload",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quave:universal-links",
+          "description": "A Meteor package that allows you to expose your native iOS settings to enable Universal Links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-14T12:04:47Z",
+            "owner": "quavedev",
+            "repo": "universal-links",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Mobile"
+    },
+    {
+      "description": "Data Visualization in Meteor: charts, maps, tables, etc.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aldeed:tabular",
+          "description": "Reactive datatables for large or small datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-25T21:39:35Z",
+            "owner": "Meteor-Community-Packages",
+            "repo": "meteor-tabular",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aslagle:reactive-table",
+          "description": "Reactive table for Meteor, using Blaze.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-30T08:11:14Z",
+            "owner": "aslagle",
+            "repo": "reactive-table",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "luixal:meteor-apexcharts",
+          "description": "Reactive ApexCharts library packaged for Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-11-11T19:33:45Z",
+            "owner": "luixal",
+            "repo": "meteor-apexcharts",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "luixal:blaze-paginated-custom-list",
+          "description": "Reactive and paginated item list.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-01-07T19:39:58Z",
+            "owner": "luixal",
+            "repo": "meteor-blaze-paginated-custom-list",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Data Visualization"
+    },
+    {
+      "description": "Analytics",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "okgrow:analytics",
+          "description": "Google Analytics, Mixpanel, KISSmetrics (and more) integration for meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-22T22:01:31Z",
+            "owner": "okgrow",
+            "repo": "analytics",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quave:analytics",
+          "description": "A Meteor package that allows you to send your page views and more to Google Analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-14T15:29:15Z",
+            "owner": "quavedev",
+            "repo": "analytics",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Analytics"
+    },
+    {
+      "description": "Cron Jobs in Meteor",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "percolate:synced-cron",
+          "description": "Cron system for Meteor. It supports syncronizing jobs between multiple processes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-18T12:05:35Z",
+            "owner": "meteor",
+            "repo": "meteor-synced-cron",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "msavin:sjobs",
+          "description": "A Meteor-first jobs queue / task scheduler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-31T00:38:18Z",
+            "owner": "msavin",
+            "repo": "SteveJobs",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ostrio:cron-jobs",
+          "description": "Package with similar API to native and methods, but synced between all running Meteor (NodeJS) instances.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2019-06-19T22:23:01Z",
+            "owner": "veliovgroup",
+            "repo": "Meteor-CRON-jobs",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Cron Jobs"
+    },
+    {
+      "description": "Debugging Tools",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "msavin:mongol",
+          "description": "Visual Editing Tool for Meteor for MongoDB Collections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-07-10T18:12:00Z",
+            "owner": "msavin",
+            "repo": "Mongol-meteor-explore-minimongo-devtools",
+            "stars": 817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "msavin:jetsetter",
+          "description": "Visual Get/Set Tool for Meteor Session Variables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-07-07T18:56:52Z",
+            "owner": "msavin",
+            "repo": "JetSetter",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-devtools-evolved",
+          "description": "A chrome extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-23T02:26:44Z",
+            "owner": "leonardoventurini",
+            "repo": "meteor-devtools-evolved",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "babrahams:constellation",
+          "description": "An extensible dev console for Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-07-22T03:51:41Z",
+            "owner": "JackAdams",
+            "repo": "constellation-distro",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Debugging Tools"
+    },
+    {
+      "description": "Scaffolding",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iron-cli",
+          "description": "A scaffolding command line tool for Meteor applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-02-03T10:44:06Z",
+            "owner": "iron-meteor",
+            "repo": "iron-cli",
+            "stars": 637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maka-cli",
+          "description": "Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-10T13:52:36Z",
+            "owner": "maka-io",
+            "repo": "maka-cli",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Scaffolding"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "matteodem - meteor-boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-26T10:25:19Z",
+            "owner": "matteodem",
+            "repo": "meteor-boilerplate",
+            "stars": 818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pup",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-07T22:35:41Z",
+            "owner": "cleverbeagle",
+            "repo": "pup",
+            "stars": 551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CaptainN - meteor-react-starter",
+          "description": "A starter project on Meteor with React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T03:58:18Z",
+            "owner": "CaptainN",
+            "repo": "meteor-react-starter",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Boilerplate"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wekan",
+          "description": "Open source Trello-like kanban.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T21:15:02Z",
+            "owner": "wekan",
+            "repo": "wekan",
+            "stars": 21027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VulcanJS",
+          "description": "A toolkit to quickly build apps with React, GraphQL & Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-07-22T11:54:00Z",
+            "owner": "VulcanJS",
+            "repo": "Vulcan",
+            "stars": 7902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nosqlclient",
+          "description": "MongoDB management tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-15T07:45:24Z",
+            "owner": "nosqlclient",
+            "repo": "nosqlclient",
+            "stars": 3469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coauthor",
+          "description": "Coauthor supercollaboration/discussion forum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2026-07-22T15:50:17Z",
+            "owner": "edemaine",
+            "repo": "coauthor",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unchained Shop",
+          "description": "Open source Commerce platform developed with Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:48:41Z",
+            "owner": "unchainedshop",
+            "repo": "unchained",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "radgrad2",
+          "description": "Meteor based education management system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T04:17:03Z",
+            "owner": "radgrad",
+            "repo": "radgrad2",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Open source apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "meteor-universe-i18n",
+          "description": "Internationalization package for React and Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-08T23:31:27Z",
+            "owner": "Meteor-Community-Packages",
+            "repo": "meteor-universe-i18n",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-accounts-t9n",
+          "description": "Translations for meteor account's error messages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2025-09-10T08:59:31Z",
+            "owner": "softwarerero",
+            "repo": "meteor-accounts-t9n",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meteor-Internationalization",
+          "description": "Super-Lightweight and fast i18n isomorphic driver for Meteor with support of placeholders.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-05T12:49:45Z",
+            "owner": "veliovgroup",
+            "repo": "Meteor-Internationalization",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Internationalization"
+    },
+    {
+      "description": "Alternative Front End Frameworks to Blaze",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Angular",
+          "description": "Working with Angular and Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2023-05-02T13:59:03Z",
+            "owner": "Urigo",
+            "repo": "angular-meteor",
+            "stars": 2335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asteroid",
+          "description": "An alternative client for a Meteor backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-08-01T14:00:09Z",
+            "owner": "mondora",
+            "repo": "asteroid",
+            "stars": 729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Famo.us",
+          "description": "Famo.us and Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-07-27T07:11:10Z",
+            "owner": "gadicc",
+            "repo": "meteor-famous-views",
+            "stars": 329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angular 2",
+          "description": "Working with Angular 2 and Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-10-16T06:44:35Z",
+            "owner": "Urigo",
+            "repo": "angular2-meteor",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frozeman:build-client",
+          "description": "A tool to bundle the client part of a Meteor app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-03T17:47:15Z",
+            "owner": "frozeman",
+            "repo": "meteor-build-client",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ddp.js",
+          "description": "Isomorphic JavaScript DDP client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-17T10:47:24Z",
+            "owner": "mondora",
+            "repo": "ddp.js",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svelte",
+          "description": "Build cybernetically enhanced web apps with Meteor and Svelte.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-19T17:18:11Z",
+            "owner": "zodern",
+            "repo": "melte",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elm",
+          "description": "elm as the view layer for a meteor based project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elm",
+            "last_commit": "2022-12-11T05:57:28Z",
+            "owner": "ni-ko-o-kin",
+            "repo": "meteor-elm-example",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Front End Frameworks"
+    },
+    {
+      "description": "Alternative Databases for MongoDB",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "simple:rethink",
+          "description": "RethinkDB integration for Meteor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-07-02T05:03:19Z",
+            "owner": "Slava",
+            "repo": "meteor-rethinkdb",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "numtel:pg",
+          "description": "Reactive PostgreSQL for Meteor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-08-12T19:44:14Z",
+            "owner": "numtel",
+            "repo": "meteor-pg",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ostrio:neo4jdriver",
+          "description": "Neo4j Driver for Meteor, with support of GrapheneDB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2017-02-10T03:56:59Z",
+            "owner": "veliovgroup",
+            "repo": "ostrio-neo4jdriver",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vlasky:mysql",
+          "description": "Reactive MySQL for Meteor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-18T03:18:08Z",
+            "owner": "vlasky",
+            "repo": "meteor-mysql",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-pg",
+          "description": "New and improved PostgreSQL support for Meteor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-29T10:34:38Z",
+            "owner": "Richie765",
+            "repo": "meteor-pg",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Alternative Databases"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Blaze",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-12-07T18:31:03Z",
+            "owner": "arggh",
+            "repo": "awesome-blaze",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Meteor Developers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-15T09:51:06Z",
+            "owner": "harryadel",
+            "repo": "awesome-meteor-developers",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Related"
+    },
+    {
+      "description": "Your contributions are always welcome!\nThank you @gillesfabio for creating this repo!",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:27:34.671Z",
+    "original_repository": "Urigo/awesome-meteor",
+    "original_repository_sha": "070dad0cb587e98ad40d252a9659d8bdcab68772",
+    "enhanced_repository": "enhansome/enhansome-meteor",
+    "enhanced_repository_description": null,
+    "title": "Awesome Meteor with stars"
+  }
+}
