@@ -655,7 +655,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T17:56:12Z",
+            "last_commit": "2026-08-14T14:55:06Z",
             "owner": "meteor-up",
             "repo": "meteor-docker",
             "stars": 53
@@ -1013,7 +1013,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T20:38:48Z",
+            "last_commit": "2026-08-14T20:26:51Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
             "stars": 52616
@@ -1447,10 +1447,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T21:15:02Z",
+            "last_commit": "2026-08-14T15:46:39Z",
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21027
+            "stars": 21026
           }
         },
         {
@@ -1809,7 +1809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:27:34.671Z",
+    "last_updated": "2026-08-14T21:01:13.469Z",
     "original_repository": "Urigo/awesome-meteor",
     "original_repository_sha": "070dad0cb587e98ad40d252a9659d8bdcab68772",
     "enhanced_repository": "enhansome/enhansome-meteor",
