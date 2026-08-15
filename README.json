@@ -1013,10 +1013,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:26:51Z",
+            "last_commit": "2026-08-14T23:45:43Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52616
+            "stars": 52619
           }
         },
         {
@@ -1447,10 +1447,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T15:46:39Z",
+            "last_commit": "2026-08-15T20:33:29Z",
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21026
+            "stars": 21028
           }
         },
         {
@@ -1809,7 +1809,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:01:13.469Z",
+    "last_updated": "2026-08-15T20:57:18.081Z",
     "original_repository": "Urigo/awesome-meteor",
     "original_repository_sha": "070dad0cb587e98ad40d252a9659d8bdcab68772",
     "enhanced_repository": "enhansome/enhansome-meteor",
