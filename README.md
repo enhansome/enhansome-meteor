@@ -154,7 +154,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Routers for Blaze*
 
-* [iron:router](https://github.com/iron-meteor/iron-router) ⭐ 1,963 | 🐛 300 | 🌐 JavaScript | 📅 2017-11-11 - A router that works on the server and the browser, designed specifically for Meteor.
+* [iron:router](https://github.com/iron-meteor/iron-router) ⭐ 1,962 | 🐛 300 | 🌐 JavaScript | 📅 2017-11-11 - A router that works on the server and the browser, designed specifically for Meteor.
 * [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router) ⭐ 202 | 🐛 3 | 🌐 JavaScript | 📅 2026-05-19 - Carefully extended `flow-router` package. Up-to-date version with support of latest Meteor's releases.
 * [meteorhacks:picker](https://github.com/meteorhacks/picker) ⭐ 180 | 🐛 30 | 🌐 JavaScript | 📅 2018-03-21 - Server Side Router for Meteor.
 * [msavin:parrot](https://github.com/msavin/Parrot) ⭐ 74 | 🐛 2 | 🌐 JavaScript | 📅 2018-02-28 - Web router specially designed for building SPAs using Meteor
@@ -196,7 +196,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Search, sort and paginate related tools*
 
-* [matteodem:easy-search](https://github.com/matteodem/meteor-easy-search) ⭐ 431 | 🐛 33 | 🌐 JavaScript | 📅 2025-05-20 - Easy-to-use search with Blaze Components (+ Elastic Search Support)
+* [matteodem:easy-search](https://github.com/matteodem/meteor-easy-search) ⭐ 428 | 🐛 33 | 🌐 JavaScript | 📅 2025-05-20 - Easy-to-use search with Blaze Components (+ Elastic Search Support)
 * [alethes:pages](https://github.com/alethes/meteor-pages) ⭐ 399 | 🐛 75 | 🌐 CoffeeScript | 📅 2019-12-13 - Out of the box Meteor pagination.
 * [tmeasday:publish-counts](https://github.com/percolatestudio/publish-counts) ⭐ 200 | 🐛 17 | 🌐 JavaScript | 📅 2024-03-20 - Publish the count of a cursor, in real time.
 * [meteorhacks:search-source](https://github.com/meteorhacks/search-source) ⭐ 145 | 🐛 42 | 🌐 JavaScript | 📅 2020-10-01 - Reactive Data Source for Search.
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,619 | 🐛 618 | 🌐 TypeScript | 📅 2026-08-14 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,620 | 🐛 617 | 🌐 TypeScript | 📅 2026-08-16 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,503 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,211 | 🐛 592 | 🌐 Shell | 📅 2026-08-11 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,230 | 🐛 595 | 🌐 Shell | 📅 2026-08-16 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,11 +277,11 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,028 | 🐛 339 | 🌐 JavaScript | 📅 2026-08-15 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,028 | 🐛 337 | 🌐 JavaScript | 📅 2026-08-16 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,469 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 273 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-07-22 - Coauthor supercollaboration/discussion forum.
-* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 202 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-13 - Open source Commerce platform developed with Meteor.
+* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 203 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-13 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
 * [Rocket.Chat](https://rocket.chat/) - Realtime chat application built with Meteor.
 
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
