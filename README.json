@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11591774,
             "language": "JavaScript",
             "last_commit": "2026-08-17T02:34:07Z",
             "owner": "Meteor-Community-Packages",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10413561,
             "language": "JavaScript",
             "last_commit": "2026-08-17T02:39:03Z",
             "owner": "Meteor-Community-Packages",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30525892,
             "language": "JavaScript",
             "last_commit": "2023-08-24T08:22:39Z",
             "owner": "jagi",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62351270,
             "language": "TypeScript",
             "last_commit": "2026-08-11T17:00:40Z",
             "owner": "longshotlabs",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16650846,
             "language": "JavaScript",
             "last_commit": "2026-01-21T23:07:55Z",
             "owner": "Meteor-Community-Packages",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15544452,
             "language": "JavaScript",
             "last_commit": "2024-12-09T23:12:47Z",
             "owner": "dburles",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68206889,
             "language": "JavaScript",
             "last_commit": "2024-08-12T13:10:35Z",
             "owner": "cult-of-coders",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132330478,
             "language": "JavaScript",
             "last_commit": "2022-02-15T18:04:00Z",
             "owner": "sakulstra",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 254858443,
             "language": "JavaScript",
             "last_commit": "2024-04-05T18:47:38Z",
             "owner": "quavedev",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58462216,
             "language": "TypeScript",
             "last_commit": "2026-01-12T11:11:31Z",
             "owner": "vazco",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11591855,
             "language": "JavaScript",
             "last_commit": "2026-04-02T04:22:19Z",
             "owner": "Meteor-Community-Packages",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22545208,
             "language": "JavaScript",
             "last_commit": "2017-03-03T15:29:57Z",
             "owner": "longshotlabs",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30079129,
             "language": "JavaScript",
             "last_commit": "2026-05-09T20:00:13Z",
             "owner": "veliovgroup",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85069920,
             "language": "JavaScript",
             "last_commit": "2019-02-15T20:32:23Z",
             "owner": "TeamGrid",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70207011,
             "language": "TypeScript",
             "last_commit": "2024-03-08T10:44:12Z",
             "owner": "accounts-js",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7452866,
             "language": "JavaScript",
             "last_commit": "2026-03-30T08:39:05Z",
             "owner": "Meteor-Community-Packages",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10854196,
             "language": "JavaScript",
             "last_commit": "2026-05-19T14:42:23Z",
             "owner": "Meteor-Community-Packages",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152219694,
             "language": "JavaScript",
             "last_commit": "2022-05-12T12:21:11Z",
             "owner": "e-Potek",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23456411,
             "language": "CoffeeScript",
             "last_commit": "2017-06-23T14:24:08Z",
             "owner": "yogiben",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11060795,
             "language": "CoffeeScript",
             "last_commit": "2017-05-16T03:18:01Z",
             "owner": "gterrono",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42207530,
             "language": "TypeScript",
             "last_commit": "2023-08-31T01:27:17Z",
             "owner": "zodern",
@@ -328,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126417207,
             "language": "JavaScript",
             "last_commit": "2026-07-06T22:10:02Z",
             "owner": "monti-apm",
@@ -342,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102624430,
             "language": "JavaScript",
             "last_commit": "2019-11-25T18:52:34Z",
             "owner": "lmachens",
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240226615,
             "language": null,
             "last_commit": "2020-02-12T09:39:35Z",
             "owner": "kschingiz",
@@ -376,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72449523,
             "language": "JavaScript",
             "last_commit": "2025-03-27T10:50:00Z",
             "owner": "cult-of-coders",
@@ -390,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73941800,
             "language": "JavaScript",
             "last_commit": "2020-06-29T18:49:48Z",
             "owner": "abecks",
@@ -404,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 271109843,
             "language": "JavaScript",
             "last_commit": "2020-07-10T13:19:09Z",
             "owner": "adtribute",
@@ -418,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186988059,
             "language": "JavaScript",
             "last_commit": "2023-12-15T02:57:15Z",
             "owner": "e-Potek",
@@ -432,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239958477,
             "language": "JavaScript",
             "last_commit": "2023-03-02T16:15:39Z",
             "owner": "kschingiz",
@@ -452,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47165187,
             "language": "JavaScript",
             "last_commit": "2026-02-20T21:27:27Z",
             "owner": "zodern",
@@ -466,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8402497,
             "language": "JavaScript",
             "last_commit": "2017-04-17T23:56:09Z",
             "owner": "XervoIO",
@@ -480,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15802298,
             "language": "JavaScript",
             "last_commit": "2026-02-21T17:22:03Z",
             "owner": "meteor",
@@ -494,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44382091,
             "language": "CoffeeScript",
             "last_commit": "2022-04-28T07:50:19Z",
             "owner": "andruschka",
@@ -508,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109873658,
             "language": "JavaScript",
             "last_commit": "2024-05-02T13:05:40Z",
             "owner": "meteor-up",
@@ -522,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66355382,
             "language": "JavaScript",
             "last_commit": "2024-12-08T21:58:21Z",
             "owner": "fractal-code",
@@ -536,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185285167,
             "language": null,
             "last_commit": "2019-05-06T23:34:22Z",
             "owner": "Gregivy",
@@ -550,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209657646,
             "language": "JavaScript",
             "last_commit": "2023-01-04T10:50:43Z",
             "owner": "jkrup",
@@ -564,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184220782,
             "language": "JavaScript",
             "last_commit": "2023-01-03T20:42:13Z",
             "owner": "edvisor-io",
@@ -578,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 403992183,
             "language": "JavaScript",
             "last_commit": "2022-01-10T15:46:48Z",
             "owner": "nicolaslopezj",
@@ -592,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113217047,
             "language": "JavaScript",
             "last_commit": "2026-01-21T23:34:40Z",
             "owner": "bordalix",
@@ -606,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82186546,
             "language": "JavaScript",
             "last_commit": "2017-05-07T10:15:44Z",
             "owner": "lmachens",
@@ -617,7 +658,7 @@
       "title": "Deployment"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -626,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135494942,
             "language": "Shell",
             "last_commit": "2026-07-09T18:35:20Z",
             "owner": "disney",
@@ -640,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28102379,
             "language": "Shell",
             "last_commit": "2025-06-04T19:06:14Z",
             "owner": "tozd",
@@ -654,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114410908,
             "language": "Shell",
             "last_commit": "2026-08-14T14:55:06Z",
             "owner": "meteor-up",
@@ -674,6 +718,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10755256,
             "language": "JavaScript",
             "last_commit": "2017-11-11T01:07:51Z",
             "owner": "iron-meteor",
@@ -688,6 +733,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48135003,
             "language": "JavaScript",
             "last_commit": "2026-05-19T12:15:00Z",
             "owner": "veliovgroup",
@@ -702,6 +748,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28027325,
             "language": "JavaScript",
             "last_commit": "2018-03-21T06:44:57Z",
             "owner": "meteorhacks",
@@ -716,6 +763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66724811,
             "language": "JavaScript",
             "last_commit": "2018-02-28T21:01:26Z",
             "owner": "msavin",
@@ -736,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11569488,
             "language": "JavaScript",
             "last_commit": "2026-08-17T13:12:22Z",
             "owner": "Meteor-Community-Packages",
@@ -750,6 +799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61832433,
             "language": "JavaScript",
             "last_commit": "2024-03-23T15:09:44Z",
             "owner": "ilan-schemoul",
@@ -764,6 +814,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194135705,
             "language": "JavaScript",
             "last_commit": "2020-12-14T06:21:01Z",
             "owner": "CaptainN",
@@ -778,6 +829,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 266116829,
             "language": "JavaScript",
             "last_commit": "2020-07-30T03:54:42Z",
             "owner": "quavedev",
@@ -798,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53978406,
             "language": "JavaScript",
             "last_commit": "2026-07-28T09:55:06Z",
             "owner": "Meteor-Community-Packages",
@@ -812,6 +865,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 54708593,
             "language": "JavaScript",
             "last_commit": "2025-09-11T13:52:06Z",
             "owner": "lmieulet",
@@ -826,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 304097122,
             "language": "Vue",
             "last_commit": "2026-07-31T07:09:50Z",
             "owner": "antwaremx",
@@ -840,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143733446,
             "language": "JavaScript",
             "last_commit": "2018-10-24T18:18:35Z",
             "owner": "hubroedu",
@@ -860,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34061425,
             "language": "JavaScript",
             "last_commit": "2026-07-27T20:16:48Z",
             "owner": "veliovgroup",
@@ -874,6 +931,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25360596,
             "language": "JavaScript",
             "last_commit": "2016-11-14T04:40:37Z",
             "owner": "netanelgilad",
@@ -888,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 120924570,
             "language": "JavaScript",
             "last_commit": "2022-09-21T12:51:10Z",
             "owner": "reactioncommerce",
@@ -902,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308715389,
             "language": "JavaScript",
             "last_commit": "2025-07-19T21:51:06Z",
             "owner": "Back2Dev",
@@ -922,6 +982,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14641855,
             "language": "JavaScript",
             "last_commit": "2025-05-20T07:23:20Z",
             "owner": "matteodem",
@@ -936,6 +997,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13857571,
             "language": "CoffeeScript",
             "last_commit": "2019-12-13T12:22:46Z",
             "owner": "alethes",
@@ -950,6 +1012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16370796,
             "language": "JavaScript",
             "last_commit": "2024-03-20T14:30:24Z",
             "owner": "meteor",
@@ -964,6 +1027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28386297,
             "language": "JavaScript",
             "last_commit": "2020-10-01T04:20:31Z",
             "owner": "meteorhacks",
@@ -978,6 +1042,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24445007,
             "language": "JavaScript",
             "last_commit": "2019-05-28T13:13:40Z",
             "owner": "versolearning",
@@ -992,6 +1057,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76137913,
             "language": "JavaScript",
             "last_commit": "2018-07-31T09:45:36Z",
             "owner": "nlhuykhang",
@@ -1012,8 +1078,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:49:15Z",
+            "last_commit": "2026-08-19T12:27:23Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
             "stars": 52618
@@ -1026,6 +1093,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28011613,
             "language": "JavaScript",
             "last_commit": "2022-08-15T01:20:46Z",
             "owner": "meteoric",
@@ -1040,6 +1108,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 20612157,
             "language": "Objective-C",
             "last_commit": "2016-07-30T10:51:23Z",
             "owner": "martijnwalraven",
@@ -1054,6 +1123,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26413916,
             "language": "Java",
             "last_commit": "2018-07-12T16:32:49Z",
             "owner": "delight-im",
@@ -1068,6 +1138,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30291210,
             "language": "JavaScript",
             "last_commit": "2016-08-31T13:34:32Z",
             "owner": "okland",
@@ -1082,6 +1153,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160400975,
             "language": "JavaScript",
             "last_commit": "2025-12-10T17:51:27Z",
             "owner": "meteorrn",
@@ -1096,6 +1168,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151471046,
             "language": "JavaScript",
             "last_commit": "2024-06-23T21:00:50Z",
             "owner": "activitree",
@@ -1110,6 +1183,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39784952,
             "language": "JavaScript",
             "last_commit": "2017-09-25T09:24:13Z",
             "owner": "okland",
@@ -1124,6 +1198,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31698030,
             "language": "JavaScript",
             "last_commit": "2016-02-11T13:40:19Z",
             "owner": "percolatestudio",
@@ -1138,6 +1213,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265590274,
             "language": "JavaScript",
             "last_commit": "2020-08-14T12:04:47Z",
             "owner": "quavedev",
@@ -1158,6 +1234,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25895705,
             "language": "JavaScript",
             "last_commit": "2026-03-25T21:39:35Z",
             "owner": "Meteor-Community-Packages",
@@ -1172,6 +1249,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16115693,
             "language": "JavaScript",
             "last_commit": "2024-01-30T08:11:14Z",
             "owner": "aslagle",
@@ -1186,6 +1264,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 154020659,
             "language": "JavaScript",
             "last_commit": "2018-11-11T19:33:45Z",
             "owner": "luixal",
@@ -1200,6 +1279,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 74231428,
             "language": "JavaScript",
             "last_commit": "2018-01-07T19:39:58Z",
             "owner": "luixal",
@@ -1220,6 +1300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29874694,
             "language": "JavaScript",
             "last_commit": "2019-01-22T22:01:31Z",
             "owner": "okgrow",
@@ -1234,6 +1315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293596603,
             "language": "JavaScript",
             "last_commit": "2021-07-14T15:29:15Z",
             "owner": "quavedev",
@@ -1254,6 +1336,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19746088,
             "language": "JavaScript",
             "last_commit": "2024-01-18T12:05:35Z",
             "owner": "meteor",
@@ -1268,6 +1351,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70101827,
             "language": "JavaScript",
             "last_commit": "2024-10-31T00:38:18Z",
             "owner": "msavin",
@@ -1282,6 +1366,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 52055082,
             "language": null,
             "last_commit": "2019-06-19T22:23:01Z",
             "owner": "veliovgroup",
@@ -1302,6 +1387,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30937302,
             "language": "JavaScript",
             "last_commit": "2019-07-10T18:12:00Z",
             "owner": "msavin",
@@ -1316,6 +1402,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32814124,
             "language": "JavaScript",
             "last_commit": "2015-07-07T18:56:52Z",
             "owner": "msavin",
@@ -1330,6 +1417,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 239652204,
             "language": "TypeScript",
             "last_commit": "2026-04-23T02:26:44Z",
             "owner": "leonardoventurini",
@@ -1344,6 +1432,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38739813,
             "language": "JavaScript",
             "last_commit": "2021-07-22T03:51:41Z",
             "owner": "JackAdams",
@@ -1364,6 +1453,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18188739,
             "language": "JavaScript",
             "last_commit": "2020-02-03T10:44:06Z",
             "owner": "iron-meteor",
@@ -1378,6 +1468,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 341899704,
             "language": null,
             "last_commit": "2025-12-10T13:52:36Z",
             "owner": "maka-io",
@@ -1389,7 +1480,7 @@
       "title": "Scaffolding"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1398,6 +1489,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12710850,
             "language": "JavaScript",
             "last_commit": "2026-01-26T10:25:19Z",
             "owner": "matteodem",
@@ -1412,6 +1504,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74712781,
             "language": "JavaScript",
             "last_commit": "2023-03-07T22:35:41Z",
             "owner": "cleverbeagle",
@@ -1426,6 +1519,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130807252,
             "language": "JavaScript",
             "last_commit": "2023-01-07T03:58:18Z",
             "owner": "CaptainN",
@@ -1437,7 +1531,7 @@
       "title": "Boilerplate"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1446,11 +1540,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16089035,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T20:34:43Z",
+            "last_commit": "2026-08-19T10:48:09Z",
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21040
+            "stars": 21058
           }
         },
         {
@@ -1460,6 +1555,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 5710848,
             "language": "JavaScript",
             "last_commit": "2025-07-22T11:54:00Z",
             "owner": "VulcanJS",
@@ -1474,11 +1570,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51250586,
             "language": "JavaScript",
             "last_commit": "2023-08-15T07:45:24Z",
             "owner": "nosqlclient",
             "repo": "nosqlclient",
-            "stars": 3468
+            "stars": 3469
           }
         },
         {
@@ -1488,6 +1585,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48146083,
             "language": "CoffeeScript",
             "last_commit": "2026-07-22T15:50:17Z",
             "owner": "edemaine",
@@ -1502,8 +1600,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160796624,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T10:55:52Z",
+            "last_commit": "2026-08-19T09:35:32Z",
             "owner": "unchainedshop",
             "repo": "unchained",
             "stars": 202
@@ -1516,6 +1615,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153334541,
             "language": "TypeScript",
             "last_commit": "2023-03-04T04:17:03Z",
             "owner": "radgrad",
@@ -1527,7 +1627,7 @@
       "title": "Open source apps"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1536,6 +1636,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42237577,
             "language": "TypeScript",
             "last_commit": "2026-01-08T23:31:27Z",
             "owner": "Meteor-Community-Packages",
@@ -1550,6 +1651,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16848466,
             "language": "CoffeeScript",
             "last_commit": "2025-09-10T08:59:31Z",
             "owner": "softwarerero",
@@ -1564,6 +1666,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29973373,
             "language": "JavaScript",
             "last_commit": "2023-04-05T12:49:45Z",
             "owner": "veliovgroup",
@@ -1584,6 +1687,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23021810,
             "language": "Dockerfile",
             "last_commit": "2023-05-02T13:59:03Z",
             "owner": "Urigo",
@@ -1598,6 +1702,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18508949,
             "language": "JavaScript",
             "last_commit": "2017-08-01T14:00:09Z",
             "owner": "mondora",
@@ -1612,6 +1717,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18756879,
             "language": "JavaScript",
             "last_commit": "2016-07-27T07:11:10Z",
             "owner": "gadicc",
@@ -1626,6 +1732,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40969713,
             "language": null,
             "last_commit": "2017-10-16T06:44:35Z",
             "owner": "Urigo",
@@ -1640,6 +1747,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34872780,
             "language": "JavaScript",
             "last_commit": "2026-03-03T17:47:15Z",
             "owner": "frozeman",
@@ -1654,6 +1762,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18156958,
             "language": "JavaScript",
             "last_commit": "2018-03-17T10:47:24Z",
             "owner": "mondora",
@@ -1668,6 +1777,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292896843,
             "language": "JavaScript",
             "last_commit": "2025-03-19T17:18:11Z",
             "owner": "zodern",
@@ -1682,6 +1792,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211110994,
             "language": "Elm",
             "last_commit": "2022-12-11T05:57:28Z",
             "owner": "ni-ko-o-kin",
@@ -1702,6 +1813,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34434221,
             "language": "JavaScript",
             "last_commit": "2016-07-02T05:03:19Z",
             "owner": "Slava",
@@ -1716,6 +1828,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34038686,
             "language": "JavaScript",
             "last_commit": "2015-08-12T19:44:14Z",
             "owner": "numtel",
@@ -1730,6 +1843,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27217425,
             "language": "CoffeeScript",
             "last_commit": "2017-02-10T03:56:59Z",
             "owner": "veliovgroup",
@@ -1744,6 +1858,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61287929,
             "language": "JavaScript",
             "last_commit": "2026-02-18T03:18:08Z",
             "owner": "vlasky",
@@ -1758,6 +1873,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62157860,
             "language": "JavaScript",
             "last_commit": "2017-06-29T10:34:38Z",
             "owner": "Richie765",
@@ -1769,48 +1885,68 @@
       "title": "Alternative Databases"
     },
     {
-      "description": "",
+      "description": "Where to discover new Meteor things",
       "items": [
         {
-          "node_type": "item",
-          "title": "Awesome Blaze",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Blaze",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157056832,
+                "language": null,
+                "last_commit": "2019-12-07T18:31:03Z",
+                "owner": "arggh",
+                "repo": "awesome-blaze",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Meteor Developers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214409950,
+                "language": null,
+                "last_commit": "2023-03-15T09:51:06Z",
+                "owner": "harryadel",
+                "repo": "awesome-meteor-developers",
+                "stars": 10
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2019-12-07T18:31:03Z",
-            "owner": "arggh",
-            "repo": "awesome-blaze",
-            "stars": 29
-          }
+          "node_type": "group",
+          "title": "Related"
         },
         {
-          "node_type": "item",
-          "title": "Awesome Meteor Developers",
-          "description": null,
           "children": [],
+          "description": "Your contributions are always welcome!\nThank you @gillesfabio for creating this repo!",
+          "node_type": "item",
           "repo_info": {
             "archived": false,
+            "id": 21043164,
             "language": null,
-            "last_commit": "2023-03-15T09:51:06Z",
-            "owner": "harryadel",
-            "repo": "awesome-meteor-developers",
-            "stars": 10
-          }
+            "last_commit": "2022-03-31T06:03:05Z",
+            "owner": "Urigo",
+            "repo": "awesome-meteor",
+            "stars": 1412
+          },
+          "title": "Contributing"
         }
       ],
-      "title": "Related"
-    },
-    {
-      "description": "Your contributions are always welcome!\nThank you @gillesfabio for creating this repo!",
-      "items": [],
-      "title": "Contributing"
+      "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:58:07.375Z",
+    "last_updated": "2026-08-19T12:41:10.651Z",
     "original_repository": "Urigo/awesome-meteor",
+    "original_repository_id": 21043164,
     "original_repository_sha": "070dad0cb587e98ad40d252a9659d8bdcab68772",
     "enhanced_repository": "enhansome/enhansome-meteor",
     "enhanced_repository_description": null,
