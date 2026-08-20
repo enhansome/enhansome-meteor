@@ -67,7 +67,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [aldeed:collection2](https://github.com/aldeed/meteor-collection2/) ⭐ 1,016 | 🐛 41 | 🌐 JavaScript | 📅 2026-08-17 - Automatic validation of insert and update operations on the client and server.
 * [matb33:collection-hooks](https://github.com/Meteor-Community-Packages/meteor-collection-hooks) ⭐ 656 | 🐛 50 | 🌐 JavaScript | 📅 2026-08-17 - Extends Mongo.Collection with before/after hooks for insert/update/remove/find/findOne.
 * [jagi:astronomy](https://github.com/jagi/meteor-astronomy/) ⭐ 604 | 🐛 47 | 🌐 JavaScript | 📅 2023-08-24 - The Model layer for Meteor.
-* [simple-schema](https://github.com/aldeed/simple-schema-js) ⭐ 561 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-11 - A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects.
+* [simple-schema](https://github.com/aldeed/simple-schema-js) ⭐ 561 | 🐛 116 | 🌐 TypeScript | 📅 2026-08-20 - A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects.
 * [reywood:publish-composite](https://github.com/Meteor-Community-Packages/meteor-publish-composite) ⭐ 548 | 🐛 16 | 🌐 JavaScript | 📅 2026-01-21 - publish a set of related documents from various collections using a reactive join.
 * [dburles:collection-helpers](https://github.com/dburles/meteor-collection-helpers/) ⭐ 495 | 🐛 12 | 🌐 JavaScript | 📅 2024-12-09 – Transform your collections with helpers that you define.
 * [cultofcoders:grapher](https://github.com/cult-of-coders/grapher) ⭐ 276 | 🐛 67 | 🌐 JavaScript | 📅 2024-08-12 - Grapher: Meteor Collection Joins + Reactive GraphQL like queries.
@@ -86,7 +86,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Helpers for templates*
 
 * [uniforms](https://github.com/vazco/uniforms) ⭐ 2,104 | 🐛 30 | 🌐 TypeScript | 📅 2026-01-12 - Bunch of React components and helpers to easily generate and validate forms. [Seamlessly integrate with `simpl-schema`](https://uniforms.tools/docs/installation).
-* [aldeed:autoform](https://github.com/aldeed/meteor-autoform) ⭐ 1,430 | 🐛 24 | 🌐 JavaScript | 📅 2026-04-02 - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
+* [aldeed:autoform](https://github.com/aldeed/meteor-autoform) ⭐ 1,428 | 🐛 24 | 🌐 JavaScript | 📅 2026-04-02 - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
 * [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) ⭐ 219 | 🐛 5 | 🌐 JavaScript | 📅 2017-03-03 - A Meteor package: Replace already defined templates, inherit helpers and events from other templates.
 * [ostrio:templatehelpers](https://github.com/VeliovGroup/Meteor-Template-helpers) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-09 - Utility helpers for your Blaze templates.
 * [kadira:blaze-layout](https://github.com/TeamGrid/blaze-layout) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2019-02-15 - Layout Manager for Blaze (works well with Meteor FlowRouter)
@@ -95,7 +95,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for handling users and authentication*
 
-* [accounts-js](https://github.com/accounts-js/accounts) ⭐ 1,501 | 🐛 63 | 🌐 TypeScript | 📅 2024-03-08 - A suite of packages aims to provide all the tools you need to build a flexible authentication and accounts management solution for your application.
+* [accounts-js](https://github.com/accounts-js/accounts) ⭐ 1,502 | 🐛 63 | 🌐 TypeScript | 📅 2024-03-08 - A suite of packages aims to provide all the tools you need to build a flexible authentication and accounts management solution for your application.
 * [alanning:roles](https://github.com/Meteor-Community-Packages/meteor-roles) ⭐ 913 | 🐛 46 | 🌐 JavaScript | 📅 2026-03-30 - Roles support for the built-in accounts packages.
 * [meteor-user-status](https://github.com/Meteor-Community-Packages/meteor-user-status) ⭐ 556 | 🐛 41 | 🌐 JavaScript | 📅 2026-05-19 - Keeps track of users and their meta data.
 * [accounts-ui](https://github.com/e-Potek/accounts-ui/) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-12 - Accounts UI for React in Meteor 1.3+.
@@ -155,7 +155,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Routers for Blaze*
 
 * [iron:router](https://github.com/iron-meteor/iron-router) ⭐ 1,962 | 🐛 300 | 🌐 JavaScript | 📅 2017-11-11 - A router that works on the server and the browser, designed specifically for Meteor.
-* [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router) ⭐ 202 | 🐛 3 | 🌐 JavaScript | 📅 2026-05-19 - Carefully extended `flow-router` package. Up-to-date version with support of latest Meteor's releases.
+* [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router) ⭐ 202 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-19 - Carefully extended `flow-router` package. Up-to-date version with support of latest Meteor's releases.
 * [meteorhacks:picker](https://github.com/meteorhacks/picker) ⭐ 180 | 🐛 30 | 🌐 JavaScript | 📅 2018-03-21 - Server Side Router for Meteor.
 * [msavin:parrot](https://github.com/msavin/Parrot) ⭐ 74 | 🐛 2 | 🌐 JavaScript | 📅 2018-02-28 - Web router specially designed for building SPAs using Meteor
 
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,620 | 🐛 589 | 🌐 TypeScript | 📅 2026-08-19 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,621 | 🐛 596 | 🌐 TypeScript | 📅 2026-08-20 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,503 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,269 | 🐛 599 | 🌐 Shell | 📅 2026-08-17 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,271 | 🐛 594 | 🌐 Shell | 📅 2026-08-20 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,11 +277,11 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,058 | 🐛 336 | 🌐 JavaScript | 📅 2026-08-19 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,059 | 🐛 338 | 🌐 JavaScript | 📅 2026-08-19 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,469 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 273 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-07-22 - Coauthor supercollaboration/discussion forum.
-* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 202 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-19 - Open source Commerce platform developed with Meteor.
+* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 202 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-20 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
 * [Rocket.Chat](https://rocket.chat/) - Realtime chat application built with Meteor.
 
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

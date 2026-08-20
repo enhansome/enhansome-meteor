@@ -57,7 +57,7 @@
             "archived": false,
             "id": 62351270,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T17:00:40Z",
+            "last_commit": "2026-08-20T07:10:19Z",
             "owner": "longshotlabs",
             "repo": "simpl-schema",
             "stars": 561
@@ -171,7 +171,7 @@
             "last_commit": "2026-04-02T04:22:19Z",
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-autoform",
-            "stars": 1430
+            "stars": 1428
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2024-03-08T10:44:12Z",
             "owner": "accounts-js",
             "repo": "accounts",
-            "stars": 1501
+            "stars": 1502
           }
         },
         {
@@ -1080,10 +1080,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T19:50:20Z",
+            "last_commit": "2026-08-20T20:49:00Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52620
+            "stars": 52621
           }
         },
         {
@@ -1545,7 +1545,7 @@
             "last_commit": "2026-08-19T14:09:34Z",
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21058
+            "stars": 21059
           }
         },
         {
@@ -1602,7 +1602,7 @@
             "archived": false,
             "id": 160796624,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T13:50:56Z",
+            "last_commit": "2026-08-20T15:43:17Z",
             "owner": "unchainedshop",
             "repo": "unchained",
             "stars": 202
@@ -1944,7 +1944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:59:56.551Z",
+    "last_updated": "2026-08-20T21:01:47.245Z",
     "original_repository": "Urigo/awesome-meteor",
     "original_repository_id": 21043164,
     "original_repository_sha": "070dad0cb587e98ad40d252a9659d8bdcab68772",
