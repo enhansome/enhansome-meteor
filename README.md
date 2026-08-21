@@ -131,7 +131,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for deploying and maintaining Meteor apps*
 
-* [meteor-up](https://github.com/zodern/meteor-up) ⭐ 1,268 | 🐛 226 | 🌐 JavaScript | 📅 2026-02-20 – Meteor Deployments.
+* [meteor-up](https://github.com/zodern/meteor-up) ⭐ 1,267 | 🐛 226 | 🌐 JavaScript | 📅 2026-02-20 – Meteor Deployments.
 * [demeteorizer](https://github.com/onmodulus/demeteorizer) ⭐ 701 | 🐛 15 | 🌐 JavaScript | 📅 2017-04-17 - Converts a Meteor app into a "standard" Node.js application
 * [percolate:migrations](https://github.com/percolatestudio/meteor-migrations) ⭐ 243 | 🐛 17 | 🌐 JavaScript | 📅 2026-02-21 - Simple migration system for Meteor
 * [pm2-meteor](https://github.com/andruschka/pm2-meteor) ⭐ 160 | 🐛 39 | 🌐 CoffeeScript | 📅 2022-04-28 - Simplest way to deploy, scale and run Meteor Apps with PM2.
@@ -148,7 +148,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [meteor-base](https://github.com/disney/meteor-base) ⭐ 273 | 🐛 1 | 🌐 Shell | 📅 2026-07-09
 * [docker-meteor](https://github.com/tozd/docker-meteor) ⭐ 54 | 🐛 0 | 🌐 Shell | 📅 2025-06-04
-* [meteor-docker](https://github.com/zodern/meteor-docker) ⭐ 53 | 🐛 5 | 🌐 Shell | 📅 2026-08-14
+* [meteor-docker](https://github.com/zodern/meteor-docker) ⭐ 53 | 🐛 6 | 🌐 Shell | 📅 2026-08-14
 
 ## Routers
 
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,621 | 🐛 596 | 🌐 TypeScript | 📅 2026-08-20 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,621 | 🐛 593 | 🌐 TypeScript | 📅 2026-08-21 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,503 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,271 | 🐛 594 | 🌐 Shell | 📅 2026-08-20 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,299 | 🐛 612 | 🌐 Shell | 📅 2026-08-20 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,11 +277,11 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,059 | 🐛 338 | 🌐 JavaScript | 📅 2026-08-19 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,058 | 🐛 336 | 🌐 JavaScript | 📅 2026-08-21 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,469 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 273 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-07-22 - Coauthor supercollaboration/discussion forum.
-* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 202 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-20 - Open source Commerce platform developed with Meteor.
+* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 202 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-21 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
 * [Rocket.Chat](https://rocket.chat/) - Realtime chat application built with Meteor.
 
@@ -343,7 +343,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Tutorials
 
-* [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial) ⭐ 5,088 | 🐛 239 | 🌐 C++ | 📅 2026-08-19
+* [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial) ⭐ 5,088 | 🐛 239 | 🌐 C++ | 📅 2026-08-21
 * [When a Meteor finally hits production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b) - Blog post about deploying Meteor apps
 * [Transform any Meteor App into a PWA](https://dev.to/jankapunkt/transform-any-meteor-app-into-a-pwa-4k44)
 
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

@@ -486,7 +486,7 @@
             "last_commit": "2026-02-20T21:27:27Z",
             "owner": "zodern",
             "repo": "meteor-up",
-            "stars": 1268
+            "stars": 1267
           }
         },
         {
@@ -1080,7 +1080,7 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T20:49:00Z",
+            "last_commit": "2026-08-21T20:48:31Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
             "stars": 52621
@@ -1542,10 +1542,10 @@
             "archived": false,
             "id": 16089035,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T14:09:34Z",
+            "last_commit": "2026-08-21T11:45:24Z",
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21059
+            "stars": 21058
           }
         },
         {
@@ -1602,7 +1602,7 @@
             "archived": false,
             "id": 160796624,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T15:43:17Z",
+            "last_commit": "2026-08-21T10:02:56Z",
             "owner": "unchainedshop",
             "repo": "unchained",
             "stars": 202
@@ -1944,7 +1944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:01:47.245Z",
+    "last_updated": "2026-08-21T20:58:44.003Z",
     "original_repository": "Urigo/awesome-meteor",
     "original_repository_id": 21043164,
     "original_repository_sha": "070dad0cb587e98ad40d252a9659d8bdcab68772",
