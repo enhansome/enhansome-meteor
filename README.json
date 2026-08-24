@@ -672,7 +672,7 @@
             "last_commit": "2026-07-09T18:35:20Z",
             "owner": "disney",
             "repo": "meteor-base",
-            "stars": 273
+            "stars": 274
           }
         },
         {
@@ -735,7 +735,7 @@
             "archived": false,
             "id": 48135003,
             "language": "JavaScript",
-            "last_commit": "2026-05-19T12:15:00Z",
+            "last_commit": "2026-08-24T20:59:14Z",
             "owner": "veliovgroup",
             "repo": "flow-router",
             "stars": 202
@@ -1080,10 +1080,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T03:12:14Z",
+            "last_commit": "2026-08-24T20:30:43Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52628
+            "stars": 52629
           }
         },
         {
@@ -1542,10 +1542,10 @@
             "archived": false,
             "id": 16089035,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T13:23:50Z",
+            "last_commit": "2026-08-24T20:23:38Z",
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21059
+            "stars": 21062
           }
         },
         {
@@ -2054,7 +2054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:10:46.468Z",
+    "last_updated": "2026-08-24T21:04:00.958Z",
     "original_repository": "Urigo/awesome-meteor",
     "original_repository_id": 21043164,
     "original_repository_sha": "070dad0cb587e98ad40d252a9659d8bdcab68772",
