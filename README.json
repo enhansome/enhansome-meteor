@@ -1080,10 +1080,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T22:11:45Z",
+            "last_commit": "2026-08-24T03:12:14Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52627
+            "stars": 52628
           }
         },
         {
@@ -1542,7 +1542,7 @@
             "archived": false,
             "id": 16089035,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T18:50:42Z",
+            "last_commit": "2026-08-24T13:23:50Z",
             "owner": "wekan",
             "repo": "wekan",
             "stars": 21059
@@ -1560,7 +1560,7 @@
             "last_commit": "2025-07-22T11:54:00Z",
             "owner": "VulcanJS",
             "repo": "Vulcan",
-            "stars": 7900
+            "stars": 7901
           }
         },
         {
@@ -1602,7 +1602,7 @@
             "archived": false,
             "id": 160796624,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T10:02:56Z",
+            "last_commit": "2026-08-24T07:57:41Z",
             "owner": "unchainedshop",
             "repo": "unchained",
             "stars": 202
@@ -1891,6 +1891,116 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Meteor Cookbook",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9414021,
+                "language": "Shell",
+                "last_commit": "2022-01-04T03:06:50Z",
+                "owner": "node-on-fhir",
+                "repo": "cookbook",
+                "stars": 1665
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Phusion Passenger: Meteor tutorial",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5625,
+                "language": "C++",
+                "last_commit": "2026-08-24T01:18:01Z",
+                "owner": "phusion",
+                "repo": "passenger",
+                "stars": 5088
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Unofficial Meteor FAQ",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5407995,
+                "language": null,
+                "last_commit": "2019-10-04T07:27:50Z",
+                "owner": "oortcloud",
+                "repo": "unofficial-meteor-faq",
+                "stars": 947
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Websites"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Meteor Community Organization Slack Channel",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174374744,
+                "language": null,
+                "last_commit": "2022-12-09T08:55:53Z",
+                "owner": "Meteor-Community-Packages",
+                "repo": "organization",
+                "stars": 40
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Social"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Meteor Jobs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 216198141,
+                "language": null,
+                "last_commit": "2025-06-19T14:38:41Z",
+                "owner": "harryadel",
+                "repo": "awesome-meteor-jobs",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Work Opportunities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Awesome Blaze",
               "description": null,
               "children": [],
@@ -1944,7 +2054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:57:40.641Z",
+    "last_updated": "2026-08-24T14:10:46.468Z",
     "original_repository": "Urigo/awesome-meteor",
     "original_repository_id": 21043164,
     "original_repository_sha": "070dad0cb587e98ad40d252a9659d8bdcab68772",
