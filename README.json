@@ -735,7 +735,7 @@
             "archived": false,
             "id": 48135003,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T20:59:14Z",
+            "last_commit": "2026-08-24T21:17:53Z",
             "owner": "veliovgroup",
             "repo": "flow-router",
             "stars": 202
@@ -1083,7 +1083,7 @@
             "last_commit": "2026-08-24T20:30:43Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52629
+            "stars": 52632
           }
         },
         {
@@ -1542,10 +1542,10 @@
             "archived": false,
             "id": 16089035,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T20:23:38Z",
+            "last_commit": "2026-08-25T01:43:35Z",
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21062
+            "stars": 21064
           }
         },
         {
@@ -1920,7 +1920,7 @@
                 "archived": false,
                 "id": 5625,
                 "language": "C++",
-                "last_commit": "2026-08-24T01:18:01Z",
+                "last_commit": "2026-08-25T02:53:13Z",
                 "owner": "phusion",
                 "repo": "passenger",
                 "stars": 5088
@@ -2054,7 +2054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:04:00.958Z",
+    "last_updated": "2026-08-25T06:10:29.274Z",
     "original_repository": "Urigo/awesome-meteor",
     "original_repository_id": 21043164,
     "original_repository_sha": "070dad0cb587e98ad40d252a9659d8bdcab68772",
