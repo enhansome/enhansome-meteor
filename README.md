@@ -113,7 +113,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for monitoring your Meteor apps*
 
-* [monti-apm-agent](https://github.com/monti-apm/monti-apm-agent) ⭐ 48 | 🐛 15 | 🌐 JavaScript | 📅 2026-07-06 - Performance Monitoring for Meteor
+* [monti-apm-agent](https://github.com/monti-apm/monti-apm-agent) ⭐ 48 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-26 - Performance Monitoring for Meteor
 * [lmachens:kadira](https://github.com/lmachens/kadira) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2019-11-25 - Performance Monitoring for Meteor
 * [kschingiz:meteor-elastic-apm](https://github.com/kschingiz/meteor-elastic-apm) ⭐ 3 | 🐛 0 | 📅 2020-02-12 - Perfomance Monitoring for Meteor based on Elastic APM
 
@@ -121,7 +121,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for speeding up your Meteor apps*
 
-* [cultofcoders:redis-oplog](https://github.com/cult-of-coders/redis-oplog) ⭐ 389 | 🐛 72 | 🌐 JavaScript | 📅 2025-03-27 - Redis Oplog implementation to fully replace MongoDB Oplog in Meteor
+* [cultofcoders:redis-oplog](https://github.com/cult-of-coders/redis-oplog) ⭐ 389 | 🐛 71 | 🌐 JavaScript | 📅 2025-03-27 - Redis Oplog implementation to fully replace MongoDB Oplog in Meteor
 * [staringatlights:fast-render](https://github.com/abecks/meteor-fast-render) ⭐ 58 | 🐛 9 | 🌐 JavaScript | 📅 2020-06-29 - An active fork of fast-render
 * [maestroqadev:pub-sub-lite](https://github.com/adtribute/pub-sub-lite) ⚠️ Archived - Transform publications to be non-reactive.
 * [epotek:method-cache](https://github.com/e-Potek/method-cache) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2023-12-15 - Meteor method caching using DataLoader
@@ -146,7 +146,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Docker Images
 
-* [meteor-base](https://github.com/disney/meteor-base) ⭐ 274 | 🐛 1 | 🌐 Shell | 📅 2026-07-09
+* [meteor-base](https://github.com/disney/meteor-base) ⭐ 274 | 🐛 0 | 🌐 Shell | 📅 2026-08-26
 * [docker-meteor](https://github.com/tozd/docker-meteor) ⭐ 54 | 🐛 0 | 🌐 Shell | 📅 2025-06-04
 * [meteor-docker](https://github.com/zodern/meteor-docker) ⭐ 53 | 🐛 6 | 🌐 Shell | 📅 2026-08-14
 
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,631 | 🐛 594 | 🌐 TypeScript | 📅 2026-08-25 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,629 | 🐛 592 | 🌐 TypeScript | 📅 2026-08-26 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,503 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -254,14 +254,14 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,373 | 🐛 575 | 🌐 Shell | 📅 2026-08-25 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,396 | 🐛 577 | 🌐 Shell | 📅 2026-08-25 - Completion for the meteor command.
 
 ## Scaffolding
 
 *Scaffolding*
 
 * [iron-cli](https://github.com/iron-meteor/iron-cli) ⭐ 637 | 🐛 25 | 🌐 JavaScript | 📅 2020-02-03 - A scaffolding command line tool for Meteor applications.
-* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2025-12-10 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
+* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2026-08-26 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
 * [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor.
 
 ## Tooling
@@ -277,11 +277,11 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,067 | 🐛 280 | 🌐 JavaScript | 📅 2026-08-25 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,066 | 🐛 281 | 🌐 JavaScript | 📅 2026-08-27 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,469 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 273 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-07-22 - Coauthor supercollaboration/discussion forum.
-* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 202 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-25 - Open source Commerce platform developed with Meteor.
+* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 202 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-26 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
 * [Rocket.Chat](https://rocket.chat/) - Realtime chat application built with Meteor.
 
@@ -343,7 +343,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Tutorials
 
-* [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial) ⭐ 5,088 | 🐛 234 | 🌐 C++ | 📅 2026-08-25
+* [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial) ⭐ 5,088 | 🐛 234 | 🌐 C++ | 📅 2026-08-26
 * [When a Meteor finally hits production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b) - Blog post about deploying Meteor apps
 * [Transform any Meteor App into a PWA](https://dev.to/jankapunkt/transform-any-meteor-app-into-a-pwa-4k44)
 
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
