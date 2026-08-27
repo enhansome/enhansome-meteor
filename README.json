@@ -1080,10 +1080,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T23:10:43Z",
+            "last_commit": "2026-08-27T00:55:36Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52629
+            "stars": 52632
           }
         },
         {
@@ -1470,7 +1470,7 @@
             "archived": false,
             "id": 341899704,
             "language": null,
-            "last_commit": "2026-08-26T23:37:18Z",
+            "last_commit": "2026-08-27T03:04:14Z",
             "owner": "maka-io",
             "repo": "maka-cli",
             "stars": 0
@@ -1542,7 +1542,7 @@
             "archived": false,
             "id": 16089035,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T00:03:38Z",
+            "last_commit": "2026-08-27T08:41:32Z",
             "owner": "wekan",
             "repo": "wekan",
             "stars": 21066
@@ -1602,10 +1602,10 @@
             "archived": false,
             "id": 160796624,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T15:17:54Z",
+            "last_commit": "2026-08-27T10:08:32Z",
             "owner": "unchainedshop",
             "repo": "unchained",
-            "stars": 202
+            "stars": 203
           }
         },
         {
@@ -2054,9 +2054,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:04:24.325Z",
-    "original_repository": "Urigo/awesome-meteor",
-    "original_repository_id": 21043164,
+    "last_updated": "2026-08-27T11:49:56.996Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 21043164,
+      "language": null,
+      "last_commit": "2022-03-31T06:03:05Z",
+      "owner": "Urigo",
+      "repo": "awesome-meteor",
+      "stars": 1412
+    },
     "original_repository_sha": "070dad0cb587e98ad40d252a9659d8bdcab68772",
     "enhanced_repository": "enhansome/enhansome-meteor",
     "enhanced_repository_description": null,
