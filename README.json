@@ -16,7 +16,8 @@
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-collection2",
             "stars": 1016
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-collection-hooks",
             "stars": 656
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "jagi",
             "repo": "meteor-astronomy",
             "stars": 604
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "longshotlabs",
             "repo": "simpl-schema",
             "stars": 561
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-publish-composite",
             "stars": 548
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "dburles",
             "repo": "meteor-collection-helpers",
             "stars": 495
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "cult-of-coders",
             "repo": "grapher",
             "stars": 276
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "sakulstra",
             "repo": "meteor-aggregate",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "quavedev",
             "repo": "collections",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Collections"
@@ -157,7 +166,8 @@
             "owner": "vazco",
             "repo": "uniforms",
             "stars": 2104
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-autoform",
             "stars": 1428
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "longshotlabs",
             "repo": "meteor-template-extension",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "veliovgroup",
             "repo": "Meteor-Template-helpers",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "TeamGrid",
             "repo": "blaze-layout",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Forms and Templates"
@@ -238,7 +252,8 @@
             "owner": "accounts-js",
             "repo": "accounts",
             "stars": 1502
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-roles",
             "stars": 913
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-user-status",
             "stars": 556
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "e-Potek",
             "repo": "accounts-ui",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Users and Authentication"
@@ -304,7 +322,8 @@
             "owner": "yogiben",
             "repo": "meteor-admin",
             "stars": 822
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "gterrono",
             "repo": "houston",
             "stars": 802
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "zodern",
             "repo": "meteor-pure-admin",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Administration"
@@ -355,7 +376,8 @@
             "owner": "monti-apm",
             "repo": "monti-apm-agent",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "lmachens",
             "repo": "kadira",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "kschingiz",
             "repo": "meteor-elastic-apm",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Monitoring"
@@ -406,7 +430,8 @@
             "owner": "cult-of-coders",
             "repo": "redis-oplog",
             "stars": 389
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -421,7 +446,8 @@
             "owner": "abecks",
             "repo": "meteor-fast-render",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -436,7 +462,8 @@
             "owner": "adtribute",
             "repo": "pub-sub-lite",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -451,7 +478,8 @@
             "owner": "e-Potek",
             "repo": "method-cache",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -466,7 +494,8 @@
             "owner": "kschingiz",
             "repo": "artillery-engine-meteor",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Performance"
@@ -487,7 +516,8 @@
             "owner": "zodern",
             "repo": "meteor-up",
             "stars": 1267
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -502,7 +532,8 @@
             "owner": "XervoIO",
             "repo": "demeteorizer",
             "stars": 701
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -517,7 +548,8 @@
             "owner": "meteor",
             "repo": "meteor-migrations",
             "stars": 243
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -532,7 +564,8 @@
             "owner": "andruschka",
             "repo": "pm2-meteor",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -547,7 +580,8 @@
             "owner": "meteor-up",
             "repo": "mup-aws-beanstalk",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -562,7 +596,8 @@
             "owner": "fractal-code",
             "repo": "meteor-azure",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -577,7 +612,8 @@
             "owner": "Gregivy",
             "repo": "meteor-kubernetes-guide",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -592,7 +628,8 @@
             "owner": "jkrup",
             "repo": "meteor-hero",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -607,7 +644,8 @@
             "owner": "edvisor-io",
             "repo": "meteor-google-cloud",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -622,7 +660,8 @@
             "owner": "nicolaslopezj",
             "repo": "waveshosting",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -637,7 +676,8 @@
             "owner": "bordalix",
             "repo": "yamup",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -652,7 +692,8 @@
             "owner": "lmachens",
             "repo": "cluster",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Deployment"
@@ -673,7 +714,8 @@
             "owner": "disney",
             "repo": "meteor-base",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -688,7 +730,8 @@
             "owner": "tozd",
             "repo": "docker-meteor",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -703,7 +746,8 @@
             "owner": "meteor-up",
             "repo": "meteor-docker",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Docker Images"
@@ -724,7 +768,8 @@
             "owner": "iron-meteor",
             "repo": "iron-router",
             "stars": 1962
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -739,7 +784,8 @@
             "owner": "veliovgroup",
             "repo": "flow-router",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -754,7 +800,8 @@
             "owner": "meteorhacks",
             "repo": "picker",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -769,7 +816,8 @@
             "owner": "msavin",
             "repo": "Parrot",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Routers"
@@ -790,7 +838,8 @@
             "owner": "Meteor-Community-Packages",
             "repo": "ground-db",
             "stars": 569
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -805,7 +854,8 @@
             "owner": "ilan-schemoul",
             "repo": "meteor-service-worker",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -820,7 +870,8 @@
             "owner": "CaptainN",
             "repo": "npdev-collections",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -835,7 +886,8 @@
             "owner": "quavedev",
             "repo": "pwa",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Offline"
@@ -856,7 +908,8 @@
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-mocha",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -871,7 +924,8 @@
             "owner": "lmieulet",
             "repo": "meteor-coverage",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -886,7 +940,8 @@
             "owner": "antwaremx",
             "repo": "meteorman",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -901,7 +956,8 @@
             "owner": "hubroedu",
             "repo": "meteor-mocha",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Testing"
@@ -922,7 +978,8 @@
             "owner": "veliovgroup",
             "repo": "Meteor-Files",
             "stars": 1115
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -937,7 +994,8 @@
             "owner": "netanelgilad",
             "repo": "meteor-excel",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -952,7 +1010,8 @@
             "owner": "reactioncommerce",
             "repo": "reaction-file-collections",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -967,7 +1026,8 @@
             "owner": "Back2Dev",
             "repo": "meteor-slingshot",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Files"
@@ -988,7 +1048,8 @@
             "owner": "matteodem",
             "repo": "meteor-easy-search",
             "stars": 428
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1003,7 +1064,8 @@
             "owner": "alethes",
             "repo": "meteor-pages",
             "stars": 399
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1018,7 +1080,8 @@
             "owner": "meteor",
             "repo": "publish-counts",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1033,7 +1096,8 @@
             "owner": "meteorhacks",
             "repo": "search-source",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1048,7 +1112,8 @@
             "owner": "versolearning",
             "repo": "find-from-publication",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1063,7 +1128,8 @@
             "owner": "nlhuykhang",
             "repo": "meteor-publish-join",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Search, sort and paginate"
@@ -1080,11 +1146,12 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T00:55:36Z",
+            "last_commit": "2026-08-27T21:54:33Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52632
-          }
+            "stars": 52633
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1099,7 +1166,8 @@
             "owner": "meteoric",
             "repo": "meteor-ionic",
             "stars": 1503
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1182,8 @@
             "owner": "martijnwalraven",
             "repo": "meteor-ios",
             "stars": 735
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1129,7 +1198,8 @@
             "owner": "delight-im",
             "repo": "Android-DDP",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1144,7 +1214,8 @@
             "owner": "okland",
             "repo": "accounts-phone",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1159,7 +1230,8 @@
             "owner": "meteorrn",
             "repo": "meteor-react-native",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1174,7 +1246,8 @@
             "owner": "activitree",
             "repo": "meteor-push",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1189,7 +1262,8 @@
             "owner": "okland",
             "repo": "camera-ui",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1204,7 +1278,8 @@
             "owner": "percolatestudio",
             "repo": "cordova-plugin-safe-reload",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1219,7 +1294,8 @@
             "owner": "quavedev",
             "repo": "universal-links",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Mobile"
@@ -1240,7 +1316,8 @@
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-tabular",
             "stars": 360
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1255,7 +1332,8 @@
             "owner": "aslagle",
             "repo": "reactive-table",
             "stars": 327
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1270,7 +1348,8 @@
             "owner": "luixal",
             "repo": "meteor-apexcharts",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1285,7 +1364,8 @@
             "owner": "luixal",
             "repo": "meteor-blaze-paginated-custom-list",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Data Visualization"
@@ -1306,7 +1386,8 @@
             "owner": "okgrow",
             "repo": "analytics",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1321,7 +1402,8 @@
             "owner": "quavedev",
             "repo": "analytics",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Analytics"
@@ -1342,7 +1424,8 @@
             "owner": "meteor",
             "repo": "meteor-synced-cron",
             "stars": 494
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1357,7 +1440,8 @@
             "owner": "msavin",
             "repo": "SteveJobs",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1372,7 +1456,8 @@
             "owner": "veliovgroup",
             "repo": "Meteor-CRON-jobs",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Cron Jobs"
@@ -1393,7 +1478,8 @@
             "owner": "msavin",
             "repo": "Mongol-meteor-explore-minimongo-devtools",
             "stars": 817
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1408,7 +1494,8 @@
             "owner": "msavin",
             "repo": "JetSetter",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1423,7 +1510,8 @@
             "owner": "leonardoventurini",
             "repo": "meteor-devtools-evolved",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1438,7 +1526,8 @@
             "owner": "JackAdams",
             "repo": "constellation-distro",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Debugging Tools"
@@ -1459,7 +1548,8 @@
             "owner": "iron-meteor",
             "repo": "iron-cli",
             "stars": 637
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1470,11 +1560,12 @@
             "archived": false,
             "id": 341899704,
             "language": null,
-            "last_commit": "2026-08-27T03:04:14Z",
+            "last_commit": "2026-08-28T01:59:14Z",
             "owner": "maka-io",
             "repo": "maka-cli",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Scaffolding"
@@ -1495,7 +1586,8 @@
             "owner": "matteodem",
             "repo": "meteor-boilerplate",
             "stars": 818
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1510,7 +1602,8 @@
             "owner": "cleverbeagle",
             "repo": "pup",
             "stars": 551
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1525,7 +1618,8 @@
             "owner": "CaptainN",
             "repo": "meteor-react-starter",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Boilerplate"
@@ -1542,11 +1636,12 @@
             "archived": false,
             "id": 16089035,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T08:41:32Z",
+            "last_commit": "2026-08-28T04:12:43Z",
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21066
-          }
+            "stars": 21068
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1561,7 +1656,8 @@
             "owner": "VulcanJS",
             "repo": "Vulcan",
             "stars": 7900
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1576,7 +1672,8 @@
             "owner": "nosqlclient",
             "repo": "nosqlclient",
             "stars": 3469
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1591,7 +1688,8 @@
             "owner": "edemaine",
             "repo": "coauthor",
             "stars": 273
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1602,11 +1700,12 @@
             "archived": false,
             "id": 160796624,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:08:32Z",
+            "last_commit": "2026-08-27T13:35:41Z",
             "owner": "unchainedshop",
             "repo": "unchained",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1621,7 +1720,8 @@
             "owner": "radgrad",
             "repo": "radgrad2",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Open source apps"
@@ -1642,7 +1742,8 @@
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-universe-i18n",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1657,7 +1758,8 @@
             "owner": "softwarerero",
             "repo": "meteor-accounts-t9n",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1672,7 +1774,8 @@
             "owner": "veliovgroup",
             "repo": "Meteor-Internationalization",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Internationalization"
@@ -1693,7 +1796,8 @@
             "owner": "Urigo",
             "repo": "angular-meteor",
             "stars": 2335
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1708,7 +1812,8 @@
             "owner": "mondora",
             "repo": "asteroid",
             "stars": 729
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1723,7 +1828,8 @@
             "owner": "gadicc",
             "repo": "meteor-famous-views",
             "stars": 329
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1738,7 +1844,8 @@
             "owner": "Urigo",
             "repo": "angular2-meteor",
             "stars": 297
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1753,7 +1860,8 @@
             "owner": "frozeman",
             "repo": "meteor-build-client",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1768,7 +1876,8 @@
             "owner": "mondora",
             "repo": "ddp.js",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1783,7 +1892,8 @@
             "owner": "zodern",
             "repo": "melte",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1798,7 +1908,8 @@
             "owner": "ni-ko-o-kin",
             "repo": "meteor-elm-example",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Front End Frameworks"
@@ -1819,7 +1930,8 @@
             "owner": "Slava",
             "repo": "meteor-rethinkdb",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1834,7 +1946,8 @@
             "owner": "numtel",
             "repo": "meteor-pg",
             "stars": 299
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1849,7 +1962,8 @@
             "owner": "veliovgroup",
             "repo": "ostrio-neo4jdriver",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1864,7 +1978,8 @@
             "owner": "vlasky",
             "repo": "meteor-mysql",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         },
         {
           "node_type": "item",
@@ -1879,7 +1994,8 @@
             "owner": "Richie765",
             "repo": "meteor-pg",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Alternative Databases"
@@ -1902,7 +2018,8 @@
                 "owner": "node-on-fhir",
                 "repo": "cookbook",
                 "stars": 1665
-              }
+              },
+              "first_seen": "2026-08-28T04:28:25.409Z"
             }
           ],
           "description": null,
@@ -1924,7 +2041,8 @@
                 "owner": "phusion",
                 "repo": "passenger",
                 "stars": 5088
-              }
+              },
+              "first_seen": "2026-08-28T04:28:25.409Z"
             }
           ],
           "description": null,
@@ -1946,7 +2064,8 @@
                 "owner": "oortcloud",
                 "repo": "unofficial-meteor-faq",
                 "stars": 947
-              }
+              },
+              "first_seen": "2026-08-28T04:28:25.409Z"
             }
           ],
           "description": null,
@@ -1968,7 +2087,8 @@
                 "owner": "Meteor-Community-Packages",
                 "repo": "organization",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T04:28:25.409Z"
             }
           ],
           "description": null,
@@ -1990,7 +2110,8 @@
                 "owner": "harryadel",
                 "repo": "awesome-meteor-jobs",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T04:28:25.409Z"
             }
           ],
           "description": null,
@@ -2012,7 +2133,8 @@
                 "owner": "arggh",
                 "repo": "awesome-blaze",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T04:28:25.409Z"
             },
             {
               "node_type": "item",
@@ -2027,7 +2149,8 @@
                 "owner": "harryadel",
                 "repo": "awesome-meteor-developers",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T04:28:25.409Z"
             }
           ],
           "description": null,
@@ -2047,14 +2170,15 @@
             "repo": "awesome-meteor",
             "stars": 1412
           },
-          "title": "Contributing"
+          "title": "Contributing",
+          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:49:56.996Z",
+    "last_updated": "2026-08-28T04:28:25.409Z",
     "original_repository_info": {
       "archived": false,
       "id": 21043164,
