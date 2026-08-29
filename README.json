@@ -1146,10 +1146,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:54:33Z",
+            "last_commit": "2026-08-28T20:43:57Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52633
+            "stars": 52631
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1560,7 +1560,7 @@
             "archived": false,
             "id": 341899704,
             "language": null,
-            "last_commit": "2026-08-28T01:59:14Z",
+            "last_commit": "2026-08-29T00:54:56Z",
             "owner": "maka-io",
             "repo": "maka-cli",
             "stars": 0
@@ -1636,7 +1636,7 @@
             "archived": false,
             "id": 16089035,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T04:12:43Z",
+            "last_commit": "2026-08-28T15:21:02Z",
             "owner": "wekan",
             "repo": "wekan",
             "stars": 21068
@@ -2037,7 +2037,7 @@
                 "archived": false,
                 "id": 5625,
                 "language": "C++",
-                "last_commit": "2026-08-26T18:29:08Z",
+                "last_commit": "2026-08-28T11:28:52Z",
                 "owner": "phusion",
                 "repo": "passenger",
                 "stars": 5088
@@ -2178,7 +2178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:28:25.409Z",
+    "last_updated": "2026-08-29T02:54:37.630Z",
     "original_repository_info": {
       "archived": false,
       "id": 21043164,
