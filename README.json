@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Meteor package that extends Mongo.Collection to provide support for specifying a schema and then validating against that schema when inserting and updating.",
+            "homepage": "https://packosphere.com/aldeed/collection2",
             "id": 11591774,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T02:34:07Z",
+            "open_issues": 41,
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-collection2",
-            "stars": 1016
+            "stars": 1016,
+            "topics": [
+              "collection",
+              "database",
+              "hacktoberfest",
+              "meteor",
+              "meteorjs",
+              "mongo",
+              "mongodb",
+              "schema",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -26,12 +41,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meteor Collection Hooks",
+            "homepage": "https://atmospherejs.com/matb33/collection-hooks",
             "id": 10413561,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T02:39:03Z",
+            "open_issues": 50,
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-collection-hooks",
-            "stars": 656
+            "stars": 656,
+            "topics": [
+              "collections",
+              "hacktoberfest",
+              "hooks",
+              "meteor",
+              "mongodb"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -42,12 +68,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model layer for Meteor",
+            "homepage": "https://atmospherejs.com/jagi/astronomy",
             "id": 30525892,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-08-24T08:22:39Z",
+            "open_issues": 47,
             "owner": "jagi",
             "repo": "meteor-astronomy",
-            "stars": 604
+            "stars": 604,
+            "topics": [
+              "astronomy",
+              "javascript",
+              "meteor",
+              "model",
+              "mongodb",
+              "mvc",
+              "schema",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -58,12 +98,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects",
+            "homepage": "https://www.npmjs.com/package/simpl-schema",
             "id": 62351270,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T07:10:19Z",
+            "open_issues": 116,
             "owner": "longshotlabs",
             "repo": "simpl-schema",
-            "stars": 561
+            "stars": 561,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -74,12 +119,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meteor.publishComposite provides a flexible way to publish a set of related documents from various collections using a reactive join",
+            "homepage": "https://atmospherejs.com/reywood/publish-composite",
             "id": 16650846,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-21T23:07:55Z",
+            "open_issues": 16,
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-publish-composite",
-            "stars": 548
+            "stars": 548,
+            "topics": [
+              "hacktoberfest",
+              "meteor",
+              "mongodb"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -90,12 +144,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚙️ Meteor package that allows you to define helpers on your collections",
+            "homepage": "https://atmospherejs.com/dburles/collection-helpers",
             "id": 15544452,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-09T23:12:47Z",
+            "open_issues": 12,
             "owner": "dburles",
             "repo": "meteor-collection-helpers",
-            "stars": 495
+            "stars": 495,
+            "topics": [
+              "meteor",
+              "meteor-package"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -106,12 +168,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grapher: Meteor Collection Joins + Reactive GraphQL like queries",
+            "homepage": "https://atmospherejs.com/cultofcoders/grapher",
             "id": 68206889,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-12T13:10:35Z",
+            "open_issues": 67,
             "owner": "cult-of-coders",
             "repo": "grapher",
-            "stars": 276
+            "stars": 276,
+            "topics": [
+              "hacktoberfest",
+              "meteorjs"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -122,12 +192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proper MongoDB aggregations support for Meteor",
+            "homepage": null,
             "id": 132330478,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-02-15T18:04:00Z",
+            "open_issues": 4,
             "owner": "sakulstra",
             "repo": "meteor-aggregate",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -138,12 +213,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Utility package to create Meteor collections in a standard way",
+            "homepage": null,
             "id": 254858443,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-04-05T18:47:38Z",
+            "open_issues": 0,
             "owner": "quavedev",
             "repo": "collections",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "collections",
+              "meteor",
+              "meteor-package",
+              "mongodb"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -160,12 +245,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React library for building forms from any schema.",
+            "homepage": "https://uniforms.tools",
             "id": 58462216,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-12T11:11:31Z",
+            "open_issues": 30,
             "owner": "vazco",
             "repo": "uniforms",
-            "stars": 2104
+            "stars": 2103,
+            "topics": [
+              "component-library",
+              "components",
+              "form-builder",
+              "form-controls",
+              "forms",
+              "hacktoberfest",
+              "meteor",
+              "react",
+              "react-components",
+              "react-library"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -176,12 +277,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AutoForm is a Meteor package that adds UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.",
+            "homepage": null,
             "id": 11591855,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-02T04:22:19Z",
+            "open_issues": 24,
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-autoform",
-            "stars": 1428
+            "stars": 1428,
+            "topics": [
+              "autoform",
+              "autoform-bs",
+              "blaze",
+              "form-schemas",
+              "forms",
+              "hacktoberfest",
+              "insert-form",
+              "meteor",
+              "schema"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -192,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Meteor package: Replace already defined templates, inherit helpers and events from other templates",
+            "homepage": "https://atmospherejs.com/aldeed/template-extension",
             "id": 22545208,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-03-03T15:29:57Z",
+            "open_issues": 5,
             "owner": "longshotlabs",
             "repo": "meteor-template-extension",
-            "stars": 219
+            "stars": 219,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -208,12 +329,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template helpers for Session, logical operations and debug",
+            "homepage": "https://atmospherejs.com/ostrio/templatehelpers",
             "id": 30079129,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-09T20:00:13Z",
+            "open_issues": 0,
             "owner": "veliovgroup",
             "repo": "Meteor-Template-helpers",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "helpers",
+              "javascript",
+              "meteor",
+              "meteor-package",
+              "meteorjs",
+              "template",
+              "templating"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -224,12 +358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Layout Manager for Blaze (works well with Meteor FlowRouter)",
+            "homepage": null,
             "id": 85069920,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-02-15T20:32:23Z",
+            "open_issues": 0,
             "owner": "TeamGrid",
             "repo": "blaze-layout",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -246,12 +385,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fullstack authentication and accounts-management for Javascript.",
+            "homepage": "https://www.accountsjs.com/",
             "id": 70207011,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-03-08T10:44:12Z",
+            "open_issues": 63,
             "owner": "accounts-js",
             "repo": "accounts",
-            "stars": 1502
+            "stars": 1502,
+            "topics": [
+              "accounts",
+              "graphql",
+              "oauth",
+              "password",
+              "rest",
+              "sessions"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -262,12 +413,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Authorization package for Meteor, compatible with built-in accounts packages",
+            "homepage": "http://meteor-community-packages.github.io/meteor-roles/",
             "id": 7452866,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-30T08:39:05Z",
+            "open_issues": 46,
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-roles",
-            "stars": 913
+            "stars": 913,
+            "topics": [
+              "hacktoberfest",
+              "meteor"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -278,12 +437,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Track user connection state and inactivity in Meteor.",
+            "homepage": null,
             "id": 10854196,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-19T14:42:23Z",
+            "open_issues": 41,
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-user-status",
-            "stars": 556
+            "stars": 556,
+            "topics": [
+              "hacktoberfest",
+              "meteor"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -294,12 +461,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accounts UI for React in Meteor 1.3+",
+            "homepage": null,
             "id": 152219694,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-05-12T12:21:11Z",
+            "open_issues": 0,
             "owner": "e-Potek",
             "repo": "accounts-ui",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -316,12 +488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete admin dashboard solution",
+            "homepage": "https://atmospherejs.com/yogiben/admin",
             "id": 23456411,
             "language": "CoffeeScript",
+            "license": "GPL-3.0",
             "last_commit": "2017-06-23T14:24:08Z",
+            "open_issues": 171,
             "owner": "yogiben",
             "repo": "meteor-admin",
-            "stars": 822
+            "stars": 822,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -332,12 +509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A zero-config, Django Admin-like admin for Meteor",
+            "homepage": "https://atmospherejs.com/houston/admin",
             "id": 11060795,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2017-05-16T03:18:01Z",
+            "open_issues": 129,
             "owner": "gterrono",
             "repo": "houston",
-            "stars": 802
+            "stars": 802,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -348,12 +530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Isolated, customizable admin panel for Meteor",
+            "homepage": null,
             "id": 42207530,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-31T01:27:17Z",
+            "open_issues": 1,
             "owner": "zodern",
             "repo": "meteor-pure-admin",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -370,12 +557,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitor Meteor apps with Monti APM",
+            "homepage": "https://montiapm.com",
             "id": 126417207,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:32:10Z",
+            "open_issues": 15,
             "owner": "monti-apm",
             "repo": "monti-apm-agent",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -386,12 +578,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Performance Monitoring for Meteor",
+            "homepage": "https://kadira.io/platform/kadira-apm/overview",
             "id": 102624430,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-11-25T18:52:34Z",
+            "open_issues": 0,
             "owner": "lmachens",
             "repo": "kadira",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -402,12 +599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meteor Elastic APM integration",
+            "homepage": null,
             "id": 240226615,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-02-12T09:39:35Z",
+            "open_issues": 0,
             "owner": "kschingiz",
             "repo": "meteor-elastic-apm",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -424,12 +626,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redis Oplog implementation to fully replace MongoDB Oplog in Meteor",
+            "homepage": null,
             "id": 72449523,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-27T10:50:00Z",
+            "open_issues": 71,
             "owner": "cult-of-coders",
             "repo": "redis-oplog",
-            "stars": 389
+            "stars": 389,
+            "topics": [
+              "hacktoberfest",
+              "meteor",
+              "reactivity",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -440,12 +652,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Render you app even before the DDP connection is live. - magic?",
+            "homepage": null,
             "id": 73941800,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-06-29T18:49:48Z",
+            "open_issues": 9,
             "owner": "abecks",
             "repo": "meteor-fast-render",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -456,12 +673,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lighter (Method-based) pub/sub for Meteor",
+            "homepage": null,
             "id": 271109843,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-07-10T13:19:09Z",
+            "open_issues": 10,
             "owner": "adtribute",
             "repo": "pub-sub-lite",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -472,12 +694,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meteor method caching using DataLoader",
+            "homepage": null,
             "id": 186988059,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-12-15T02:57:15Z",
+            "open_issues": 1,
             "owner": "e-Potek",
             "repo": "method-cache",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -488,12 +715,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MeteorJS engine for Artillery load testing",
+            "homepage": null,
             "id": 239958477,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-02T16:15:39Z",
+            "open_issues": 9,
             "owner": "kschingiz",
             "repo": "artillery-engine-meteor",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -510,12 +742,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Production Quality Meteor Deployment to Anywhere",
+            "homepage": "http://meteor-up.com/",
             "id": 47165187,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-20T21:27:27Z",
+            "open_issues": 226,
             "owner": "zodern",
             "repo": "meteor-up",
-            "stars": 1267
+            "stars": 1267,
+            "topics": [
+              "deploy",
+              "docker",
+              "meteor",
+              "meteor-up",
+              "mup"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -526,12 +769,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Converts a Meteor app into a standard Node.js application.",
+            "homepage": "http://npm.im/demeteorizer",
             "id": 8402497,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-04-17T23:56:09Z",
+            "open_issues": 15,
             "owner": "XervoIO",
             "repo": "demeteorizer",
-            "stars": 701
+            "stars": 701,
+            "topics": [
+              "meteor",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -542,12 +793,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple migration system for Meteor",
+            "homepage": "https://atmospherejs.com/percolate/migrations",
             "id": 15802298,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-21T17:22:03Z",
+            "open_issues": 17,
             "owner": "meteor",
             "repo": "meteor-migrations",
-            "stars": 243
+            "stars": 243,
+            "topics": [
+              "hacktoberfest",
+              "meteor"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -558,12 +817,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simplest way to deploy, scale and run Meteor Apps with PM2.",
+            "homepage": "https://www.npmjs.com/package/pm2-meteor",
             "id": 44382091,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2022-04-28T07:50:19Z",
+            "open_issues": 39,
             "owner": "andruschka",
             "repo": "pm2-meteor",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -574,12 +838,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deploy Meteor apps to AWS Elastic Beanstalk using Meteor Up",
+            "homepage": null,
             "id": 109873658,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-05-02T13:05:40Z",
+            "open_issues": 45,
             "owner": "meteor-up",
             "repo": "mup-aws-beanstalk",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -590,12 +859,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automate Meteor deployments on Azure App Service",
+            "homepage": null,
             "id": 66355382,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-12-08T21:58:21Z",
+            "open_issues": 5,
             "owner": "fractal-code",
             "repo": "meteor-azure",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "azure",
+              "azure-app-service",
+              "deployment",
+              "hosting",
+              "meteor"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -606,12 +886,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 185285167,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-05-06T23:34:22Z",
+            "open_issues": 2,
             "owner": "Gregivy",
             "repo": "meteor-kubernetes-guide",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -622,12 +907,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instantly deploy your Meteor apps with `meteor-hero`",
+            "homepage": null,
             "id": 209657646,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-04T10:50:43Z",
+            "open_issues": 23,
             "owner": "jkrup",
             "repo": "meteor-hero",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "cli",
+              "deployment",
+              "docker",
+              "heroku",
+              "meteor",
+              "meteor-application",
+              "meteor-apps",
+              "npm-package"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -638,12 +937,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automate Meteor deployments on Google Cloud App Engine Flexible",
+            "homepage": null,
             "id": 184220782,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-03T20:42:13Z",
+            "open_issues": 21,
             "owner": "edvisor-io",
             "repo": "meteor-google-cloud",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "app-engine",
+              "deployment",
+              "gcp",
+              "google",
+              "hosting",
+              "meteor"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -654,12 +965,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 403992183,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-01-10T15:46:48Z",
+            "open_issues": 2,
             "owner": "nicolaslopezj",
             "repo": "waveshosting",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -670,12 +986,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet Another Meteor UP",
+            "homepage": null,
             "id": 113217047,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-21T23:34:40Z",
+            "open_issues": 3,
             "owner": "bordalix",
             "repo": "yamup",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -686,12 +1007,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clustering solution for Meteor with load balancing and service discovery",
+            "homepage": "https://meteorhacks.com/cluster-a-different-kind-of-load-balancer-for-meteor.html",
             "id": 82186546,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-07T10:15:44Z",
+            "open_issues": 0,
             "owner": "lmachens",
             "repo": "cluster",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -708,12 +1034,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Base Docker image for use by Meteor apps",
+            "homepage": null,
             "id": 135494942,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T17:14:54Z",
+            "open_issues": 0,
             "owner": "disney",
             "repo": "meteor-base",
-            "stars": 274
+            "stars": 274,
+            "topics": [
+              "docker",
+              "docker-image",
+              "meteor"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -724,12 +1059,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker image for Meteor. Read-only mirror of https://gitlab.com/tozd/docker/meteor",
+            "homepage": null,
             "id": 28102379,
             "language": "Shell",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-06-04T19:06:14Z",
+            "open_issues": 0,
             "owner": "tozd",
             "repo": "docker-meteor",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "docker",
+              "docker-image",
+              "meteor"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -740,12 +1084,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker image for Meteor.",
+            "homepage": null,
             "id": 114410908,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-14T14:55:06Z",
+            "open_issues": 6,
             "owner": "meteor-up",
             "repo": "meteor-docker",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "docker-image",
+              "meteor",
+              "meteor-up"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -762,12 +1115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A client and server side router designed specifically for Meteor.",
+            "homepage": null,
             "id": 10755256,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-11-11T01:07:51Z",
+            "open_issues": 300,
             "owner": "iron-meteor",
             "repo": "iron-router",
-            "stars": 1962
+            "stars": 1962,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -778,12 +1136,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Routing for Meteor.js apps",
+            "homepage": "https://packosphere.com/ostrio/flow-router-extra",
             "id": 48135003,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T21:17:53Z",
+            "open_issues": 0,
             "owner": "veliovgroup",
             "repo": "flow-router",
-            "stars": 202
+            "stars": 202,
+            "topics": [
+              "flow-router",
+              "javascript",
+              "meteor",
+              "meteor-package",
+              "meteorjs",
+              "routing"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -794,12 +1164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Server Side Router for Meteor",
+            "homepage": null,
             "id": 28027325,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-03-21T06:44:57Z",
+            "open_issues": 30,
             "owner": "meteorhacks",
             "repo": "picker",
-            "stars": 180
+            "stars": 180,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -810,12 +1185,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web router specially designed for building SPAs using Meteor",
+            "homepage": null,
             "id": 66724811,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-02-28T21:01:26Z",
+            "open_issues": 2,
             "owner": "msavin",
             "repo": "Parrot",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "meteor",
+              "navigation",
+              "parrot",
+              "router"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -832,12 +1217,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GroundDB is a thin layer providing Meteor offline database and methods",
+            "homepage": "https://atmospherejs.com/ground/db",
             "id": 11569488,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T13:12:22Z",
+            "open_issues": 66,
             "owner": "Meteor-Community-Packages",
             "repo": "ground-db",
-            "stars": 569
+            "stars": 569,
+            "topics": [
+              "database",
+              "ground",
+              "meteor",
+              "meteor-offline-database",
+              "offline"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -848,12 +1244,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An universal service worker for meteor apps",
+            "homepage": null,
             "id": 61832433,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-23T15:09:44Z",
+            "open_issues": 2,
             "owner": "ilan-schemoul",
             "repo": "meteor-service-worker",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "cache",
+              "meteor",
+              "offline",
+              "service-workers",
+              "workers"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -864,12 +1271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy way to create offline collections with SSR for Meteor",
+            "homepage": null,
             "id": 194135705,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-12-14T06:21:01Z",
+            "open_issues": 2,
             "owner": "CaptainN",
             "repo": "npdev-collections",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -880,12 +1292,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meteor package that allows you to configure your PWA",
+            "homepage": null,
             "id": 266116829,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-07-30T03:54:42Z",
+            "open_issues": 0,
             "owner": "quavedev",
             "repo": "pwa",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "meteor-package",
+              "pwa"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -902,12 +1322,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Mocha test driver package for Meteor 1.3+. This package reports server AND client test results in the server console and can be used for running tests on a CI server or locally.",
+            "homepage": "https://packosphere.com/meteortesting/mocha",
             "id": 53978406,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-28T09:55:06Z",
+            "open_issues": 37,
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-mocha",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "automated-testing",
+              "hacktoberfest",
+              "jasmine",
+              "meteor",
+              "meteorjs",
+              "mocha",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -918,12 +1351,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Server and client coverage for Meteor",
+            "homepage": null,
             "id": 54708593,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-11T13:52:06Z",
+            "open_issues": 12,
             "owner": "lmieulet",
             "repo": "meteor-coverage",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -934,12 +1372,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A DDP client with GUI (The Postman for Meteor)",
+            "homepage": null,
             "id": 304097122,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-07-31T07:09:50Z",
+            "open_issues": 1,
             "owner": "antwaremx",
             "repo": "meteorman",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "apps",
+              "ddp",
+              "ddp-client",
+              "gui",
+              "meteor",
+              "meteorjs",
+              "meteorman",
+              "postman",
+              "testing-tools",
+              "websocket-client"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -950,12 +1404,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write meteor package tests with mocha and run them in the browser or from the command line with spacejam.",
+            "homepage": "https://atmospherejs.com/practicalmeteor/mocha",
             "id": 143733446,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-10-24T18:18:35Z",
+            "open_issues": 0,
             "owner": "hubroedu",
             "repo": "meteor-mocha",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -972,12 +1431,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Upload files via DDP or HTTP to ☄️ Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.",
+            "homepage": "https://packosphere.com/ostrio/files",
             "id": 34061425,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-27T20:16:48Z",
+            "open_issues": 17,
             "owner": "veliovgroup",
             "repo": "Meteor-Files",
-            "stars": 1115
+            "stars": 1115,
+            "topics": [
+              "aws-s3",
+              "dropbox",
+              "file-sharing",
+              "file-upload",
+              "files",
+              "google-storage",
+              "gridfs",
+              "http",
+              "meteor",
+              "meteor-files",
+              "meteor-package",
+              "upload",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -988,12 +1466,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 25360596,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-11-14T04:40:37Z",
+            "open_issues": 13,
             "owner": "netanelgilad",
             "repo": "meteor-excel",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1004,12 +1487,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Reaction File Collection packages",
+            "homepage": null,
             "id": 120924570,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-09-21T12:51:10Z",
+            "open_issues": 20,
             "owner": "reactioncommerce",
             "repo": "reaction-file-collections",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1020,12 +1508,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Upload files directly to AWS S3, Google Cloud Storage and others in meteor",
+            "homepage": null,
             "id": 308715389,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-19T21:51:06Z",
+            "open_issues": 6,
             "owner": "Back2Dev",
             "repo": "meteor-slingshot",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -1042,12 +1535,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy-to-use search for Meteor with Blaze Components",
+            "homepage": null,
             "id": 14641855,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-20T07:23:20Z",
+            "open_issues": 33,
             "owner": "matteodem",
             "repo": "meteor-easy-search",
-            "stars": 428
+            "stars": 428,
+            "topics": [
+              "blaze-components",
+              "meteor",
+              "meteor-package",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1058,12 +1561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meteor pagination",
+            "homepage": null,
             "id": 13857571,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2019-12-13T12:22:46Z",
+            "open_issues": 75,
             "owner": "alethes",
             "repo": "meteor-pages",
-            "stars": 399
+            "stars": 399,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1074,12 +1582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meteor package to help you publish the count of a cursor, in real time",
+            "homepage": "https://atmospherejs.com/tmeasday/publish-counts",
             "id": 16370796,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-20T14:30:24Z",
+            "open_issues": 17,
             "owner": "meteor",
             "repo": "publish-counts",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1090,12 +1603,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reactive Data Source for Search",
+            "homepage": null,
             "id": 28386297,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-10-01T04:20:31Z",
+            "open_issues": 42,
             "owner": "meteorhacks",
             "repo": "search-source",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1106,12 +1624,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enable finding all documents that have been published by a given publication",
+            "homepage": null,
             "id": 24445007,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-05-28T13:13:40Z",
+            "open_issues": 3,
             "owner": "versolearning",
             "repo": "find-from-publication",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1122,12 +1645,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meteor publish join",
+            "homepage": null,
             "id": 76137913,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-07-31T09:45:36Z",
+            "open_issues": 2,
             "owner": "nlhuykhang",
             "repo": "meteor-publish-join",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -1144,12 +1672,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+            "homepage": "https://ionicframework.com",
             "id": 12256376,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:43:57Z",
+            "open_issues": 592,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52631
+            "stars": 52631,
+            "topics": [
+              "angular",
+              "capacitor",
+              "framework",
+              "frontend",
+              "ionic",
+              "ios",
+              "javascript",
+              "material-design",
+              "mobile",
+              "pwa",
+              "react",
+              "stencil",
+              "stenciljs",
+              "typescript",
+              "ui-components",
+              "vue",
+              "web",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1160,12 +1712,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ionic components for Meteor. No Angular!",
+            "homepage": "http://meteoric.github.io",
             "id": 28011613,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-08-15T01:20:46Z",
+            "open_issues": 137,
             "owner": "meteoric",
             "repo": "meteor-ionic",
-            "stars": 1503
+            "stars": 1503,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1176,12 +1733,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Meteor iOS integrates native iOS apps with the Meteor platform (http://www.meteor.com) through DDP",
+            "homepage": null,
             "id": 20612157,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2016-07-30T10:51:23Z",
+            "open_issues": 68,
             "owner": "martijnwalraven",
             "repo": "meteor-ios",
-            "stars": 735
+            "stars": 735,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1192,12 +1754,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[UNMAINTAINED] Meteor's Distributed Data Protocol (DDP) for clients on Android",
+            "homepage": null,
             "id": 26413916,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-07-12T16:32:49Z",
+            "open_issues": 22,
             "owner": "delight-im",
             "repo": "Android-DDP",
-            "stars": 274
+            "stars": 274,
+            "topics": [
+              "android",
+              "android-ddp",
+              "client",
+              "database",
+              "ddp",
+              "java",
+              "meteor",
+              "real-time",
+              "realtime"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1208,12 +1785,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A login service based on mobile phone number for Meteor",
+            "homepage": null,
             "id": 30291210,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-08-31T13:34:32Z",
+            "open_issues": 29,
             "owner": "okland",
             "repo": "accounts-phone",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1224,12 +1806,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meteor client for React Native matching Meteor Spec",
+            "homepage": "https://guide.meteor.com/react-native.html",
             "id": 160400975,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-10T17:51:27Z",
+            "open_issues": 7,
             "owner": "meteorrn",
             "repo": "meteor-react-native",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "cross-platform",
+              "ddp",
+              "fullstack-development",
+              "javascript",
+              "javascript-library",
+              "meteor",
+              "meteorjs",
+              "mobile-application-development",
+              "mobile-development",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1240,12 +1838,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meteor Push Notifications for Cordova and Web/PWA with Firebase (FCM).",
+            "homepage": null,
             "id": 151471046,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-23T21:00:50Z",
+            "open_issues": 10,
             "owner": "activitree",
             "repo": "meteor-push",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1256,12 +1859,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meteor package for taking photos with user interface, one function call on desktop and mobile. Allows to choose between camera to photoLibrary on mobile.",
+            "homepage": null,
             "id": 39784952,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-09-25T09:24:13Z",
+            "open_issues": 8,
             "owner": "okland",
             "repo": "camera-ui",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1272,12 +1880,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cordova plugin to watch and recover after a broken Meteor Hot Code Push.",
+            "homepage": null,
             "id": 31698030,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-02-11T13:40:19Z",
+            "open_issues": 2,
             "owner": "percolatestudio",
             "repo": "cordova-plugin-safe-reload",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1288,12 +1901,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meteor package that allows you to expose your native iOS settings to enable Universal Links.",
+            "homepage": null,
             "id": 265590274,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-08-14T12:04:47Z",
+            "open_issues": 0,
             "owner": "quavedev",
             "repo": "universal-links",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "cordova",
+              "ios",
+              "meteor-package",
+              "universal-links"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -1310,12 +1933,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reactive datatables for large or small datasets",
+            "homepage": "https://packosphere.com/aldeed/tabular",
             "id": 25895705,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-25T21:39:35Z",
+            "open_issues": 113,
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-tabular",
-            "stars": 360
+            "stars": 360,
+            "topics": [
+              "blaze",
+              "datatable",
+              "meteorjs",
+              "tabular",
+              "tabular-data"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1326,12 +1960,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reactive table designed for Meteor",
+            "homepage": "https://atmospherejs.com/aslagle/reactive-table",
             "id": 16115693,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-30T08:11:14Z",
+            "open_issues": 216,
             "owner": "aslagle",
             "repo": "reactive-table",
-            "stars": 327
+            "stars": 327,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1342,12 +1981,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Apexchart Meteor Package",
+            "homepage": null,
             "id": 154020659,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-11T19:33:45Z",
+            "open_issues": 0,
             "owner": "luixal",
             "repo": "meteor-apexcharts",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1358,12 +2002,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Paginated Custom List for Meteor and Blaze",
+            "homepage": null,
             "id": 74231428,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-01-07T19:39:58Z",
+            "open_issues": 0,
             "owner": "luixal",
             "repo": "meteor-blaze-paginated-custom-list",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "blaze",
+              "filters",
+              "javascript",
+              "js",
+              "list",
+              "listview",
+              "meteor",
+              "meteorjs",
+              "paginator",
+              "subscription"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -1380,12 +2040,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UNMAINTAINED! - Complete Google Analytics, Mixpanel, KISSmetrics (and more) integration for Meteor",
+            "homepage": "https://atmospherejs.com/okgrow/analytics",
             "id": 29874694,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-22T22:01:31Z",
+            "open_issues": 18,
             "owner": "okgrow",
             "repo": "analytics",
-            "stars": 214
+            "stars": 214,
+            "topics": [
+              "analytics",
+              "google-analytics",
+              "javascript",
+              "kissmetrics",
+              "meteor",
+              "mixpanel",
+              "segment"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1396,12 +2069,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Allows you to send your page views and more to Google Analytics",
+            "homepage": null,
             "id": 293596603,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-07-14T15:29:15Z",
+            "open_issues": 0,
             "owner": "quavedev",
             "repo": "analytics",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "analytics",
+              "google-analytics",
+              "meteor",
+              "meteor-package"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -1418,12 +2101,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple cron system for Meteor. It supports syncronizing jobs between multiple processes.",
+            "homepage": "https://atmospherejs.com/littledata/synced-cron",
             "id": 19746088,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-01-18T12:05:35Z",
+            "open_issues": 34,
             "owner": "meteor",
             "repo": "meteor-synced-cron",
-            "stars": 494
+            "stars": 494,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1434,12 +2124,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple jobs queue that just works (for Meteor.js)",
+            "homepage": null,
             "id": 70101827,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-31T00:38:18Z",
+            "open_issues": 10,
             "owner": "msavin",
             "repo": "SteveJobs",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "jobs",
+              "meteor",
+              "mongodb",
+              "queue",
+              "schedule",
+              "scheduled-tasks"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1450,12 +2152,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🏃‍♂️🤖  Task and jobs runner. With support of clusters or multiple meteor.js instances.",
+            "homepage": "https://atmospherejs.com/ostrio/cron-jobs",
             "id": 52055082,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2019-06-19T22:23:01Z",
+            "open_issues": 0,
             "owner": "veliovgroup",
             "repo": "Meteor-CRON-jobs",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "cluster",
+              "cron",
+              "cron-jobs",
+              "job-scheduler",
+              "jobs",
+              "meteor",
+              "meteor-package",
+              "scheduled-tasks",
+              "scheduler",
+              "task",
+              "tasks"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -1472,12 +2191,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-App MongoDB Editor for Meteor (Meteor DevTools)",
+            "homepage": "http://play.with.meteor.toys",
             "id": 30937302,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-07-10T18:12:00Z",
+            "open_issues": 4,
             "owner": "msavin",
             "repo": "Mongol-meteor-explore-minimongo-devtools",
-            "stars": 817
+            "stars": 817,
+            "topics": [
+              "devtool",
+              "devtools",
+              "insecure",
+              "meteor",
+              "meteor-package",
+              "meteor-toys",
+              "mongol",
+              "monogdb"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1488,12 +2221,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Get/Set Tool for Meteor Session Variables",
+            "homepage": null,
             "id": 32814124,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-07-07T18:56:52Z",
+            "open_issues": 3,
             "owner": "msavin",
             "repo": "JetSetter",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1504,12 +2242,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Meteor framework development tool belt, evolved.",
+            "homepage": null,
             "id": 239652204,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-23T02:26:44Z",
+            "open_issues": 29,
             "owner": "leonardoventurini",
             "repo": "meteor-devtools-evolved",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "ddp",
+              "meteor",
+              "minimongo"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1520,12 +2267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of packages to get started with Constellation",
+            "homepage": "http://constellation.taonova.com/demo",
             "id": 38739813,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-07-22T03:51:41Z",
+            "open_issues": 2,
             "owner": "JackAdams",
             "repo": "constellation-distro",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -1542,12 +2294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scaffolding command line tool for Meteor applications.",
+            "homepage": null,
             "id": 18188739,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-02-03T10:44:06Z",
+            "open_issues": 25,
             "owner": "iron-meteor",
             "repo": "iron-cli",
-            "stars": 637
+            "stars": 637,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1558,12 +2315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 341899704,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-29T00:54:56Z",
+            "open_issues": 0,
             "owner": "maka-io",
             "repo": "maka-cli",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -1580,12 +2342,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight boilerplate for meteor projects",
+            "homepage": "http://meteor-boilerplate.surge.sh/",
             "id": 12710850,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-26T10:25:19Z",
+            "open_issues": 10,
             "owner": "matteodem",
             "repo": "meteor-boilerplate",
-            "stars": 818
+            "stars": 818,
+            "topics": [
+              "boilerplate",
+              "javascript",
+              "meteor",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1596,12 +2368,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Ultimate Boilerplate for Products.",
+            "homepage": "https://cleverbeagle.com/pup",
             "id": 74712781,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-07T22:35:41Z",
+            "open_issues": 12,
             "owner": "cleverbeagle",
             "repo": "pup",
-            "stars": 551
+            "stars": 551,
+            "topics": [
+              "apollo",
+              "app",
+              "boilerplate",
+              "example",
+              "graphql",
+              "graphql-client",
+              "graphql-server",
+              "javascript",
+              "markdown",
+              "meteor",
+              "meteorjs",
+              "mongodb",
+              "nodejs",
+              "react",
+              "security",
+              "sitemap",
+              "ssr",
+              "styled-components",
+              "webhooks",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1612,12 +2410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A starter project on Meteor with React",
+            "homepage": null,
             "id": 130807252,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-07T03:58:18Z",
+            "open_issues": 5,
             "owner": "CaptainN",
             "repo": "meteor-react-starter",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -1634,12 +2437,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . PR source translation to imports/i18n/data/en.i18n.json, other translations at https://app.transifex.com/wekan/wekan",
+            "homepage": "https://wekan.fi",
             "id": 16089035,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T15:21:02Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:32:56Z",
+            "open_issues": 281,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21068
+            "stars": 21068,
+            "topics": [
+              "docker-image",
+              "foss",
+              "javascript",
+              "kanban",
+              "meteor",
+              "real-time",
+              "sandstorm",
+              "snapcraft",
+              "wekan"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1650,12 +2468,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🌋 A toolkit to quickly build apps with React, GraphQL & Meteor",
+            "homepage": "http://vulcanjs.org",
             "id": 5710848,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-22T11:54:00Z",
+            "open_issues": 0,
             "owner": "VulcanJS",
             "repo": "Vulcan",
-            "stars": 7900
+            "stars": 7900,
+            "topics": [
+              "graphql",
+              "hacktoberfest",
+              "meteor",
+              "react",
+              "server-rendering",
+              "toolkit"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1666,12 +2496,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform and self hosted, easy to use, intuitive mongodb management tool - Formerly Mongoclient",
+            "homepage": "https://www.nosqlclient.com",
             "id": 51250586,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2023-08-15T07:45:24Z",
+            "open_issues": 19,
             "owner": "nosqlclient",
             "repo": "nosqlclient",
-            "stars": 3469
+            "stars": 3469,
+            "topics": [
+              "cross-platform",
+              "database-management",
+              "docker",
+              "management",
+              "meteor",
+              "meteorjs",
+              "mongoclient",
+              "mongodb",
+              "mongodb-instance",
+              "mongodb-management",
+              "monitoring",
+              "nosql",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1682,12 +2531,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Coauthor supercollaboration/discussion forum",
+            "homepage": null,
             "id": 48146083,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2026-07-22T15:50:17Z",
+            "open_issues": 233,
             "owner": "edemaine",
             "repo": "coauthor",
-            "stars": 273
+            "stars": 273,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1698,12 +2552,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-Performance Headless Node.js ESM E-Commerce Framework",
+            "homepage": "https://unchained.shop",
             "id": 160796624,
             "language": "TypeScript",
+            "license": "EUPL-1.2",
             "last_commit": "2026-08-27T13:35:41Z",
+            "open_issues": 27,
             "owner": "unchainedshop",
             "repo": "unchained",
-            "stars": 203
+            "stars": 203,
+            "topics": [
+              "cart",
+              "digital-commerce",
+              "docker",
+              "e-commerce",
+              "graphql",
+              "headless",
+              "headless-commerce",
+              "javascript",
+              "marketplace",
+              "mongodb",
+              "node-js",
+              "open-source",
+              "shop",
+              "shopping-cart"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1714,12 +2588,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for RadGrad, Version 2",
+            "homepage": "https://radgrad.org",
             "id": 153334541,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-03-04T04:17:03Z",
+            "open_issues": 39,
             "owner": "radgrad",
             "repo": "radgrad2",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "meteor",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -1736,12 +2619,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Internationalization package for Meteor with React integration.",
+            "homepage": "https://atmospherejs.com/universe/i18n",
             "id": 42237577,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-08T23:31:27Z",
+            "open_issues": 6,
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-universe-i18n",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "hacktoberfest",
+              "i18n",
+              "internationalization",
+              "translation"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1752,12 +2645,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Translations for meteor account's error messages",
+            "homepage": null,
             "id": 16848466,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2025-09-10T08:59:31Z",
+            "open_issues": 0,
             "owner": "softwarerero",
             "repo": "meteor-accounts-t9n",
-            "stars": 84
+            "stars": 84,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1768,12 +2666,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🙊 Super-Lightweight and fast i18n isomorphic driver for Meteor with support of placeholders.",
+            "homepage": "https://packosphere.com/ostrio/i18n",
             "id": 29973373,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-04-05T12:49:45Z",
+            "open_issues": 0,
             "owner": "veliovgroup",
             "repo": "Meteor-Internationalization",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "driver",
+              "i18n",
+              "internationalization",
+              "javascript",
+              "js",
+              "localization",
+              "meteor",
+              "meteor-package",
+              "meteorjs"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -1790,12 +2703,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular and Meteor - The perfect stack",
+            "homepage": "https://www.angular-meteor.com/",
             "id": 23021810,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2023-05-02T13:59:03Z",
+            "open_issues": 25,
             "owner": "Urigo",
             "repo": "angular-meteor",
-            "stars": 2335
+            "stars": 2335,
+            "topics": [
+              "angular",
+              "angular-meteor",
+              "angular2-meteor",
+              "angularjs",
+              "meteor",
+              "node"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1806,12 +2731,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An alternative client for a Meteor backend",
+            "homepage": null,
             "id": 18508949,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-08-01T14:00:09Z",
+            "open_issues": 47,
             "owner": "mondora",
             "repo": "asteroid",
-            "stars": 729
+            "stars": 729,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1822,12 +2752,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Famous, the Meteor Way (with Reactive Blaze Templates/Views)",
+            "homepage": "http://famous-views.meteor.com/",
             "id": 18756879,
             "language": "JavaScript",
+            "license": "LGPL-3.0",
             "last_commit": "2016-07-27T07:11:10Z",
+            "open_issues": 51,
             "owner": "gadicc",
             "repo": "meteor-famous-views",
-            "stars": 329
+            "stars": 329,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1838,12 +2773,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular 2.0 and Meteor - the perfect stack",
+            "homepage": "http://www.angular-meteor.com/",
             "id": 40969713,
             "language": null,
+            "license": null,
             "last_commit": "2017-10-16T06:44:35Z",
+            "open_issues": 5,
             "owner": "Urigo",
             "repo": "angular2-meteor",
-            "stars": 297
+            "stars": 297,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1854,12 +2794,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to bundle the client part of a Meteor app.",
+            "homepage": null,
             "id": 34872780,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-03T17:47:15Z",
+            "open_issues": 3,
             "owner": "frozeman",
             "repo": "meteor-build-client",
-            "stars": 277
+            "stars": 277,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1870,12 +2815,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Isomorphic JavaScript DDP client",
+            "homepage": null,
             "id": 18156958,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-03-17T10:47:24Z",
+            "open_issues": 13,
             "owner": "mondora",
             "repo": "ddp.js",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1886,12 +2836,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Svelte compiler for Meteor with built in tracker integration and HMR",
+            "homepage": null,
             "id": 292896843,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-19T17:18:11Z",
+            "open_issues": 14,
             "owner": "zodern",
             "repo": "melte",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1902,12 +2857,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 211110994,
             "language": "Elm",
+            "license": null,
             "last_commit": "2022-12-11T05:57:28Z",
+            "open_issues": 9,
             "owner": "ni-ko-o-kin",
             "repo": "meteor-elm-example",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -1924,12 +2884,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RethinkDB integration for Meteor",
+            "homepage": "https://atmospherejs.com/simple/rethink",
             "id": 34434221,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-07-02T05:03:19Z",
+            "open_issues": 12,
             "owner": "Slava",
             "repo": "meteor-rethinkdb",
-            "stars": 302
+            "stars": 302,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1940,12 +2905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reactive PostgreSQL for Meteor",
+            "homepage": null,
             "id": 34038686,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-08-12T19:44:14Z",
+            "open_issues": 8,
             "owner": "numtel",
             "repo": "meteor-pg",
-            "stars": 299
+            "stars": 299,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1956,12 +2926,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Most advanced and efficient Neo4j REST API Driver, with support of https and GrapheneDB",
+            "homepage": "https://atmospherejs.com/ostrio/neo4jdriver",
             "id": 27217425,
             "language": "CoffeeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2017-02-10T03:56:59Z",
+            "open_issues": 0,
             "owner": "veliovgroup",
             "repo": "ostrio-neo4jdriver",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "driver",
+              "graphenedb",
+              "meteor",
+              "meteor-package",
+              "neo4j-database",
+              "neo4j-driver"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1972,12 +2954,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reactive MySQL for Meteor",
+            "homepage": null,
             "id": 61287929,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-18T03:18:08Z",
+            "open_issues": 1,
             "owner": "vlasky",
             "repo": "meteor-mysql",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         },
@@ -1988,12 +2975,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use PostgreSQL reactively in Meteor.",
+            "homepage": null,
             "id": 62157860,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-06-29T10:34:38Z",
+            "open_issues": 1,
             "owner": "Richie765",
             "repo": "meteor-pg",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "meteor",
+              "postgresql",
+              "reactive"
+            ]
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
         }
@@ -2012,12 +3008,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cookbook for Node on FHIR and the clinical Meteor.js build pipeline.  Create FDA, HIPPA, and HL7 compliant Javascript/Node applications!",
+                "homepage": "http://clinical.meteorapp.com",
                 "id": 9414021,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2022-01-04T03:06:50Z",
+                "open_issues": 31,
                 "owner": "node-on-fhir",
                 "repo": "cookbook",
-                "stars": 1665
+                "stars": 1665,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:25.409Z"
             }
@@ -2035,12 +3036,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast and robust web server and application server for Ruby, Python and Node.js",
+                "homepage": "https://www.phusionpassenger.com/",
                 "id": 5625,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:28:52Z",
+                "open_issues": 234,
                 "owner": "phusion",
                 "repo": "passenger",
-                "stars": 5088
+                "stars": 5088,
+                "topics": [
+                  "application-server",
+                  "appserver",
+                  "cloud",
+                  "nodejs",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T04:28:25.409Z"
             }
@@ -2058,12 +3070,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The unofficial Meteor FAQ",
+                "homepage": null,
                 "id": 5407995,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-10-04T07:27:50Z",
+                "open_issues": 20,
                 "owner": "oortcloud",
                 "repo": "unofficial-meteor-faq",
-                "stars": 947
+                "stars": 947,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:25.409Z"
             }
@@ -2081,12 +3098,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discussions on organization of the organization 🎩",
+                "homepage": "https://meteorjs.community/",
                 "id": 174374744,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-12-09T08:55:53Z",
+                "open_issues": 7,
                 "owner": "Meteor-Community-Packages",
                 "repo": "organization",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:25.409Z"
             }
@@ -2104,12 +3126,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exclusive Meteor only jobs",
+                "homepage": null,
                 "id": 216198141,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-06-19T14:38:41Z",
+                "open_issues": 0,
                 "owner": "harryadel",
                 "repo": "awesome-meteor-jobs",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:25.409Z"
             }
@@ -2127,12 +3154,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔥A curated list of awesome things related to Blaze",
+                "homepage": null,
                 "id": 157056832,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-12-07T18:31:03Z",
+                "open_issues": 3,
                 "owner": "arggh",
                 "repo": "awesome-blaze",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "blaze",
+                  "blazejs",
+                  "meteor",
+                  "meteor-framework",
+                  "meteor-package",
+                  "meteorjs"
+                ]
               },
               "first_seen": "2026-08-28T04:28:25.409Z"
             },
@@ -2143,12 +3182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Support your Meteor community!",
+                "homepage": null,
                 "id": 214409950,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-03-15T09:51:06Z",
+                "open_issues": 0,
                 "owner": "harryadel",
                 "repo": "awesome-meteor-developers",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:28:25.409Z"
             }
@@ -2163,12 +3207,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
+            "homepage": null,
             "id": 21043164,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-03-31T06:03:05Z",
+            "open_issues": 1,
             "owner": "Urigo",
             "repo": "awesome-meteor",
-            "stars": 1412
+            "stars": 1412,
+            "topics": []
           },
           "title": "Contributing",
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -2178,15 +3227,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:54:37.630Z",
+    "last_updated": "2026-08-29T04:31:03.969Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
+      "homepage": null,
       "id": 21043164,
       "language": null,
+      "license": "MIT",
       "last_commit": "2022-03-31T06:03:05Z",
+      "open_issues": 1,
       "owner": "Urigo",
       "repo": "awesome-meteor",
-      "stars": 1412
+      "stars": 1412,
+      "topics": []
     },
     "original_repository_sha": "070dad0cb587e98ad40d252a9659d8bdcab68772",
     "enhanced_repository": "enhansome/enhansome-meteor",
