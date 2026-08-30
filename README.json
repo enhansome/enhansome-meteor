@@ -2320,7 +2320,7 @@
             "id": 341899704,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-29T21:29:44Z",
+            "last_commit": "2026-08-30T21:06:06Z",
             "open_issues": 0,
             "owner": "maka-io",
             "repo": "maka-cli",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T21:06:55Z",
-            "open_issues": 280,
+            "last_commit": "2026-08-30T21:27:41Z",
+            "open_issues": 281,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21067,
+            "stars": 21068,
             "topics": [
               "docker-image",
               "foss",
@@ -2477,7 +2477,7 @@
             "open_issues": 0,
             "owner": "VulcanJS",
             "repo": "Vulcan",
-            "stars": 7900,
+            "stars": 7899,
             "topics": [
               "graphql",
               "hacktoberfest",
@@ -2561,7 +2561,7 @@
             "open_issues": 27,
             "owner": "unchainedshop",
             "repo": "unchained",
-            "stars": 203,
+            "stars": 201,
             "topics": [
               "cart",
               "digital-commerce",
@@ -3227,7 +3227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:47:18.830Z",
+    "last_updated": "2026-08-30T22:55:29.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",

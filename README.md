@@ -254,14 +254,14 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,443 | 🐛 576 | 🌐 Shell | 📅 2026-08-29 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,458 | 🐛 576 | 🌐 Shell | 📅 2026-08-30 - Completion for the meteor command.
 
 ## Scaffolding
 
 *Scaffolding*
 
 * [iron-cli](https://github.com/iron-meteor/iron-cli) ⭐ 637 | 🐛 25 | 🌐 JavaScript | 📅 2020-02-03 - A scaffolding command line tool for Meteor applications.
-* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2026-08-29 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
+* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2026-08-30 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
 * [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor.
 
 ## Tooling
@@ -277,11 +277,11 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,067 | 🐛 280 | 🌐 JavaScript | 📅 2026-08-29 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,068 | 🐛 281 | 🌐 JavaScript | 📅 2026-08-30 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,469 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 273 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-07-22 - Coauthor supercollaboration/discussion forum.
-* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 203 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-27 - Open source Commerce platform developed with Meteor.
+* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 201 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-27 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
 * [Rocket.Chat](https://rocket.chat/) - Realtime chat application built with Meteor.
 
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
