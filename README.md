@@ -86,7 +86,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Helpers for templates*
 
 * [uniforms](https://github.com/vazco/uniforms) ⭐ 2,103 | 🐛 30 | 🌐 TypeScript | 📅 2026-01-12 - Bunch of React components and helpers to easily generate and validate forms. [Seamlessly integrate with `simpl-schema`](https://uniforms.tools/docs/installation).
-* [aldeed:autoform](https://github.com/aldeed/meteor-autoform) ⭐ 1,428 | 🐛 24 | 🌐 JavaScript | 📅 2026-04-02 - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
+* [aldeed:autoform](https://github.com/aldeed/meteor-autoform) ⭐ 1,427 | 🐛 24 | 🌐 JavaScript | 📅 2026-04-02 - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
 * [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) ⭐ 219 | 🐛 5 | 🌐 JavaScript | 📅 2017-03-03 - A Meteor package: Replace already defined templates, inherit helpers and events from other templates.
 * [ostrio:templatehelpers](https://github.com/VeliovGroup/Meteor-Template-helpers) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-09 - Utility helpers for your Blaze templates.
 * [kadira:blaze-layout](https://github.com/TeamGrid/blaze-layout) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2019-02-15 - Layout Manager for Blaze (works well with Meteor FlowRouter)
@@ -254,14 +254,14 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,551 | 🐛 571 | 🌐 Shell | 📅 2026-09-04 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,555 | 🐛 492 | 🌐 Shell | 📅 2026-09-05 - Completion for the meteor command.
 
 ## Scaffolding
 
 *Scaffolding*
 
-* [iron-cli](https://github.com/iron-meteor/iron-cli) ⭐ 637 | 🐛 25 | 🌐 JavaScript | 📅 2020-02-03 - A scaffolding command line tool for Meteor applications.
-* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2026-09-04 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
+* [iron-cli](https://github.com/iron-meteor/iron-cli) ⭐ 636 | 🐛 25 | 🌐 JavaScript | 📅 2020-02-03 - A scaffolding command line tool for Meteor applications.
+* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2026-09-05 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
 * [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor.
 
 ## Tooling
@@ -277,7 +277,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,073 | 🐛 283 | 🌐 JavaScript | 📅 2026-09-04 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,073 | 🐛 281 | 🌐 JavaScript | 📅 2026-09-05 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,469 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 273 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-07-22 - Coauthor supercollaboration/discussion forum.
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

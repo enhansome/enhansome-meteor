@@ -286,7 +286,7 @@
             "open_issues": 24,
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-autoform",
-            "stars": 1428,
+            "stars": 1427,
             "topics": [
               "autoform",
               "autoform-bs",
@@ -2242,7 +2242,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "The Meteor framework development tool belt, evolved.",
+            "description": "Browser devtools for the Meteor.js framework",
             "homepage": null,
             "id": 239652204,
             "language": "TypeScript",
@@ -2303,7 +2303,7 @@
             "open_issues": 25,
             "owner": "iron-meteor",
             "repo": "iron-cli",
-            "stars": 637,
+            "stars": 636,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -2320,7 +2320,7 @@
             "id": 341899704,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-04T11:50:54Z",
+            "last_commit": "2026-09-05T18:45:35Z",
             "open_issues": 0,
             "owner": "maka-io",
             "repo": "maka-cli",
@@ -2442,8 +2442,8 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T17:14:48Z",
-            "open_issues": 283,
+            "last_commit": "2026-09-05T22:11:55Z",
+            "open_issues": 281,
             "owner": "wekan",
             "repo": "wekan",
             "stars": 21073,
@@ -2477,7 +2477,7 @@
             "open_issues": 0,
             "owner": "VulcanJS",
             "repo": "Vulcan",
-            "stars": 7898,
+            "stars": 7897,
             "topics": [
               "graphql",
               "hacktoberfest",
@@ -3227,7 +3227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:31:12.822Z",
+    "last_updated": "2026-09-05T22:16:26.610Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
