@@ -1124,7 +1124,7 @@
             "open_issues": 300,
             "owner": "iron-meteor",
             "repo": "iron-router",
-            "stars": 1962,
+            "stars": 1959,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -1440,7 +1440,7 @@
             "open_issues": 18,
             "owner": "veliovgroup",
             "repo": "Meteor-Files",
-            "stars": 1115,
+            "stars": 1116,
             "topics": [
               "aws-s3",
               "dropbox",
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T21:00:14Z",
-            "open_issues": 593,
+            "last_commit": "2026-09-08T22:34:51Z",
+            "open_issues": 596,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52648,
+            "stars": 52649,
             "topics": [
               "angular",
               "capacitor",
@@ -2320,7 +2320,7 @@
             "id": 341899704,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-07T22:33:54Z",
+            "last_commit": "2026-09-08T22:02:59Z",
             "open_issues": 0,
             "owner": "maka-io",
             "repo": "maka-cli",
@@ -2377,7 +2377,7 @@
             "open_issues": 12,
             "owner": "cleverbeagle",
             "repo": "pup",
-            "stars": 551,
+            "stars": 552,
             "topics": [
               "apollo",
               "app",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T19:09:32Z",
+            "last_commit": "2026-09-08T22:22:25Z",
             "open_issues": 281,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21075,
+            "stars": 21072,
             "topics": [
               "docker-image",
               "foss",
@@ -3042,7 +3042,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-09-06T20:54:03Z",
-                "open_issues": 234,
+                "open_issues": 235,
                 "owner": "phusion",
                 "repo": "passenger",
                 "stars": 5088,
@@ -3227,7 +3227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:59:20.623Z",
+    "last_updated": "2026-09-08T22:57:57.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
