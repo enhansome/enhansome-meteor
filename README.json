@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T22:53:29Z",
-            "open_issues": 595,
+            "last_commit": "2026-09-17T21:30:06Z",
+            "open_issues": 592,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52667,
+            "stars": 52670,
             "topics": [
               "angular",
               "capacitor",
@@ -2320,7 +2320,7 @@
             "id": 341899704,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-16T23:02:41Z",
+            "last_commit": "2026-09-17T22:23:39Z",
             "open_issues": 0,
             "owner": "maka-io",
             "repo": "maka-cli",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T18:52:37Z",
-            "open_issues": 167,
+            "last_commit": "2026-09-17T15:19:07Z",
+            "open_issues": 164,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21088,
+            "stars": 21089,
             "topics": [
               "docker-image",
               "foss",
@@ -3227,7 +3227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:14:20.582Z",
+    "last_updated": "2026-09-17T23:05:20.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
