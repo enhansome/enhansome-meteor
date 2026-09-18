@@ -254,7 +254,7 @@
             "open_issues": 30,
             "owner": "vazco",
             "repo": "uniforms",
-            "stars": 2102,
+            "stars": 2103,
             "topics": [
               "component-library",
               "components",
@@ -1677,8 +1677,8 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T21:30:06Z",
-            "open_issues": 592,
+            "last_commit": "2026-09-18T22:47:29Z",
+            "open_issues": 589,
             "owner": "ionic-team",
             "repo": "ionic-framework",
             "stars": 52670,
@@ -2320,7 +2320,7 @@
             "id": 341899704,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-17T22:23:39Z",
+            "last_commit": "2026-09-18T20:08:28Z",
             "open_issues": 0,
             "owner": "maka-io",
             "repo": "maka-cli",
@@ -2442,8 +2442,8 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T15:19:07Z",
-            "open_issues": 164,
+            "last_commit": "2026-09-18T04:40:27Z",
+            "open_issues": 166,
             "owner": "wekan",
             "repo": "wekan",
             "stars": 21089,
@@ -2505,7 +2505,7 @@
             "open_issues": 19,
             "owner": "nosqlclient",
             "repo": "nosqlclient",
-            "stars": 3468,
+            "stars": 3467,
             "topics": [
               "cross-platform",
               "database-management",
@@ -2540,7 +2540,7 @@
             "open_issues": 233,
             "owner": "edemaine",
             "repo": "coauthor",
-            "stars": 273,
+            "stars": 274,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -3041,7 +3041,7 @@
                 "id": 5625,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-14T10:04:38Z",
+                "last_commit": "2026-09-18T14:25:44Z",
                 "open_issues": 232,
                 "owner": "phusion",
                 "repo": "passenger",
@@ -3227,7 +3227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:05:20.522Z",
+    "last_updated": "2026-09-18T22:48:28.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
