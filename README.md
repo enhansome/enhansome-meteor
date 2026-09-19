@@ -95,7 +95,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for handling users and authentication*
 
-* [accounts-js](https://github.com/accounts-js/accounts) ⭐ 1,501 | 🐛 63 | 🌐 TypeScript | 📅 2024-03-08 - A suite of packages aims to provide all the tools you need to build a flexible authentication and accounts management solution for your application.
+* [accounts-js](https://github.com/accounts-js/accounts) ⭐ 1,502 | 🐛 63 | 🌐 TypeScript | 📅 2024-03-08 - A suite of packages aims to provide all the tools you need to build a flexible authentication and accounts management solution for your application.
 * [alanning:roles](https://github.com/Meteor-Community-Packages/meteor-roles) ⭐ 913 | 🐛 46 | 🌐 JavaScript | 📅 2026-09-16 - Roles support for the built-in accounts packages.
 * [meteor-user-status](https://github.com/Meteor-Community-Packages/meteor-user-status) ⭐ 556 | 🐛 41 | 🌐 JavaScript | 📅 2026-05-19 - Keeps track of users and their meta data.
 * [accounts-ui](https://github.com/e-Potek/accounts-ui/) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-12 - Accounts UI for React in Meteor 1.3+.
@@ -105,7 +105,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Tools for administrating your Meteor apps*
 
 * [yogiben:admin](https://github.com/yogiben/meteor-admin) ⭐ 822 | 🐛 171 | 🌐 CoffeeScript | 📅 2017-06-23 - A complete admin dashboard solution.
-* [houston:admin](https://github.com/gterrono/houston) ⭐ 801 | 🐛 129 | 🌐 CoffeeScript | 📅 2017-05-16 - A zero-config, Django Admin-like admin for Meteor.
+* [houston:admin](https://github.com/gterrono/houston) ⭐ 802 | 🐛 129 | 🌐 CoffeeScript | 📅 2017-05-16 - A zero-config, Django Admin-like admin for Meteor.
 * [zodern:pure-admin](https://github.com/zodern/meteor-pure-admin) ⭐ 20 | 🐛 1 | 🌐 TypeScript | 📅 2023-08-31 - An isolated, customizable admin panel for Meteor.
 * [Meteor Candy](https://www.meteorcandy.com/) - Fastest and easier way to add an admin panel to your app.
 
@@ -121,7 +121,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for speeding up your Meteor apps*
 
-* [cultofcoders:redis-oplog](https://github.com/cult-of-coders/redis-oplog) ⭐ 384 | 🐛 71 | 🌐 JavaScript | 📅 2025-03-27 - Redis Oplog implementation to fully replace MongoDB Oplog in Meteor
+* [cultofcoders:redis-oplog](https://github.com/cult-of-coders/redis-oplog) ⭐ 385 | 🐛 71 | 🌐 JavaScript | 📅 2025-03-27 - Redis Oplog implementation to fully replace MongoDB Oplog in Meteor
 * [staringatlights:fast-render](https://github.com/abecks/meteor-fast-render) ⭐ 58 | 🐛 9 | 🌐 JavaScript | 📅 2020-06-29 - An active fork of fast-render
 * [maestroqadev:pub-sub-lite](https://github.com/adtribute/pub-sub-lite) ⚠️ Archived - Transform publications to be non-reactive.
 * [epotek:method-cache](https://github.com/e-Potek/method-cache) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2023-12-15 - Meteor method caching using DataLoader
@@ -131,13 +131,13 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for deploying and maintaining Meteor apps*
 
-* [meteor-up](https://github.com/zodern/meteor-up) ⭐ 1,266 | 🐛 226 | 🌐 JavaScript | 📅 2026-02-20 – Meteor Deployments.
+* [meteor-up](https://github.com/zodern/meteor-up) ⭐ 1,267 | 🐛 226 | 🌐 JavaScript | 📅 2026-02-20 – Meteor Deployments.
 * [demeteorizer](https://github.com/onmodulus/demeteorizer) ⭐ 701 | 🐛 15 | 🌐 JavaScript | 📅 2017-04-17 - Converts a Meteor app into a "standard" Node.js application
 * [percolate:migrations](https://github.com/percolatestudio/meteor-migrations) ⭐ 243 | 🐛 17 | 🌐 JavaScript | 📅 2026-02-21 - Simple migration system for Meteor
 * [pm2-meteor](https://github.com/andruschka/pm2-meteor) ⭐ 160 | 🐛 39 | 🌐 CoffeeScript | 📅 2022-04-28 - Simplest way to deploy, scale and run Meteor Apps with PM2.
-* [mup-aws-beanstalk](https://github.com/zodern/mup-aws-beanstalk) ⭐ 123 | 🐛 45 | 🌐 JavaScript | 📅 2024-05-02 - Deploy Meteor apps to AWS Elastic Beanstalk using Meteor Up
+* [mup-aws-beanstalk](https://github.com/zodern/mup-aws-beanstalk) ⭐ 124 | 🐛 45 | 🌐 JavaScript | 📅 2024-05-02 - Deploy Meteor apps to AWS Elastic Beanstalk using Meteor Up
 * [meteor-azure](https://github.com/fractal-code/meteor-azure) ⭐ 66 | 🐛 5 | 🌐 JavaScript | 📅 2024-12-08 - Automate Meteor deployments on Azure App Service
-* [meteor-kubernetes-guide](https://github.com/Gregivy/meteor-kubernetes-guide) ⭐ 40 | 🐛 2 | 📅 2019-05-06 - Deploy a Meteor app with Kubernetes.
+* [meteor-kubernetes-guide](https://github.com/Gregivy/meteor-kubernetes-guide) ⭐ 41 | 🐛 2 | 📅 2019-05-06 - Deploy a Meteor app with Kubernetes.
 * [meteor-hero](https://github.com/jkrup/meteor-hero) ⭐ 38 | 🐛 23 | 🌐 JavaScript | 📅 2023-01-04 - Deploy MeteorJS applications for free with one command utilizing Heroku's service.
 * [meteor-google-cloud](https://github.com/EducationLink/meteor-google-cloud) ⭐ 29 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-03 - Automate Meteor deployments on Google Cloud App Engine Flexible
 * [waveshosting](https://github.com/nicolaslopezj/waveshosting) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-10 - Web application to manage meteor deployments.
@@ -146,9 +146,9 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Docker Images
 
-* [meteor-base](https://github.com/disney/meteor-base) ⭐ 273 | 🐛 0 | 🌐 Shell | 📅 2026-09-14
+* [meteor-base](https://github.com/disney/meteor-base) ⭐ 274 | 🐛 0 | 🌐 Shell | 📅 2026-09-14
 * [docker-meteor](https://github.com/tozd/docker-meteor) ⭐ 54 | 🐛 0 | 🌐 Shell | 📅 2025-06-04
-* [meteor-docker](https://github.com/zodern/meteor-docker) ⭐ 52 | 🐛 6 | 🌐 Shell | 📅 2026-08-14
+* [meteor-docker](https://github.com/zodern/meteor-docker) ⭐ 53 | 🐛 6 | 🌐 Shell | 📅 2026-08-14
 
 ## Routers
 
@@ -187,7 +187,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Handling files in Meteor*
 
-* [ostrio:files](https://github.com/VeliovGroup/Meteor-Files) ⭐ 1,115 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-08 - Upload files via DDP, HTTP and WebRTC/DC. To Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.
+* [ostrio:files](https://github.com/VeliovGroup/Meteor-Files) ⭐ 1,116 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-08 - Upload files via DDP, HTTP and WebRTC/DC. To Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.
 * [netanelgilad:excel](https://github.com/netanelgilad/meteor-excel) ⚠️ Archived - Parsing and generating excel files (xlsx, xls).
 * [@reactioncommerce/file-collections](https://github.com/reactioncommerce/reaction-file-collections) ⚠️ Archived - Reaction FileCollections is a set of NPM packages that provide the ability to support file uploads, storage, and downloads in Node and Meteor apps, and in browser JavaScript.
 * [mikkelking:slingshot](https://github.com/Back2bikes/meteor-slingshot) ⭐ 13 | 🐛 6 | 🌐 JavaScript | 📅 2025-07-19 - Upload files directly to AWS S3, Google Cloud Storage and others in meteor.
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,670 | 🐛 589 | 🌐 TypeScript | 📅 2026-09-18 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,669 | 🐛 590 | 🌐 TypeScript | 📅 2026-09-18 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,503 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -231,7 +231,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Analytics*
 
-* [okgrow:analytics](https://github.com/okgrow/analytics/) ⭐ 213 | 🐛 18 | 🌐 JavaScript | 📅 2019-01-22 - Google Analytics, Mixpanel, KISSmetrics (and more) integration for meteor.
+* [okgrow:analytics](https://github.com/okgrow/analytics/) ⭐ 214 | 🐛 18 | 🌐 JavaScript | 📅 2019-01-22 - Google Analytics, Mixpanel, KISSmetrics (and more) integration for meteor.
 * [quave:analytics](https://github.com/quavedev/analytics) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2021-07-14 - A Meteor package that allows you to send your page views and more to Google Analytics.
 
 ## Cron Jobs
@@ -254,14 +254,14 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,792 | 🐛 312 | 🌐 Shell | 📅 2026-09-18 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,804 | 🐛 314 | 🌐 Shell | 📅 2026-09-19 - Completion for the meteor command.
 
 ## Scaffolding
 
 *Scaffolding*
 
 * [iron-cli](https://github.com/iron-meteor/iron-cli) ⭐ 636 | 🐛 25 | 🌐 JavaScript | 📅 2020-02-03 - A scaffolding command line tool for Meteor applications.
-* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2026-09-18 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
+* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2026-09-19 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
 * [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor.
 
 ## Tooling
@@ -271,13 +271,13 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Boilerplate
 
 * [matteodem - meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate) ⭐ 818 | 🐛 10 | 🌐 JavaScript | 📅 2026-01-26
-* [Pup](https://github.com/cleverbeagle/pup) ⭐ 551 | 🐛 12 | 🌐 JavaScript | 📅 2023-03-07
-* [CaptainN - meteor-react-starter](https://github.com/CaptainN/meteor-react-starter) ⭐ 44 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-07 - A starter project on Meteor with React.
+* [Pup](https://github.com/cleverbeagle/pup) ⭐ 552 | 🐛 12 | 🌐 JavaScript | 📅 2023-03-07
+* [CaptainN - meteor-react-starter](https://github.com/CaptainN/meteor-react-starter) ⭐ 45 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-07 - A starter project on Meteor with React.
 * [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,089 | 🐛 166 | 🌐 JavaScript | 📅 2026-09-18 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,090 | 🐛 165 | 🌐 JavaScript | 📅 2026-09-19 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,467 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 274 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-07-22 - Coauthor supercollaboration/discussion forum.
@@ -314,7 +314,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [numtel:pg](https://github.com/numtel/meteor-pg) ⭐ 299 | 🐛 8 | 🌐 JavaScript | 📅 2015-08-12 - Reactive PostgreSQL for Meteor
 * [ostrio:neo4jdriver](https://github.com/VeliovGroup/ostrio-neo4jdriver/) ⭐ 52 | 🐛 0 | 🌐 CoffeeScript | 📅 2017-02-10 - Neo4j Driver for Meteor, with support of GrapheneDB
 * [vlasky:mysql](https://github.com/vlasky/meteor-mysql) ⭐ 39 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-18 - Reactive MySQL for Meteor
-* [meteor-pg](https://github.com/Richie765/meteor-pg) ⭐ 24 | 🐛 1 | 🌐 JavaScript | 📅 2017-06-29 - New and improved PostgreSQL support for Meteor
+* [meteor-pg](https://github.com/Richie765/meteor-pg) ⭐ 25 | 🐛 1 | 🌐 JavaScript | 📅 2017-06-29 - New and improved PostgreSQL support for Meteor
 
 # Resources
 
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

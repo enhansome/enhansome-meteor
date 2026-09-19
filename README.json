@@ -394,7 +394,7 @@
             "open_issues": 63,
             "owner": "accounts-js",
             "repo": "accounts",
-            "stars": 1501,
+            "stars": 1502,
             "topics": [
               "accounts",
               "graphql",
@@ -518,7 +518,7 @@
             "open_issues": 129,
             "owner": "gterrono",
             "repo": "houston",
-            "stars": 801,
+            "stars": 802,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -635,7 +635,7 @@
             "open_issues": 71,
             "owner": "cult-of-coders",
             "repo": "redis-oplog",
-            "stars": 384,
+            "stars": 385,
             "topics": [
               "hacktoberfest",
               "meteor",
@@ -751,7 +751,7 @@
             "open_issues": 226,
             "owner": "zodern",
             "repo": "meteor-up",
-            "stars": 1266,
+            "stars": 1267,
             "topics": [
               "deploy",
               "docker",
@@ -847,7 +847,7 @@
             "open_issues": 45,
             "owner": "meteor-up",
             "repo": "mup-aws-beanstalk",
-            "stars": 123,
+            "stars": 124,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -895,7 +895,7 @@
             "open_issues": 2,
             "owner": "Gregivy",
             "repo": "meteor-kubernetes-guide",
-            "stars": 40,
+            "stars": 41,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -1043,7 +1043,7 @@
             "open_issues": 0,
             "owner": "disney",
             "repo": "meteor-base",
-            "stars": 273,
+            "stars": 274,
             "topics": [
               "docker",
               "docker-image",
@@ -1093,7 +1093,7 @@
             "open_issues": 6,
             "owner": "meteor-up",
             "repo": "meteor-docker",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "docker-image",
               "meteor",
@@ -1440,7 +1440,7 @@
             "open_issues": 19,
             "owner": "veliovgroup",
             "repo": "Meteor-Files",
-            "stars": 1115,
+            "stars": 1116,
             "topics": [
               "aws-s3",
               "dropbox",
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T22:47:29Z",
-            "open_issues": 589,
+            "last_commit": "2026-09-18T23:24:11Z",
+            "open_issues": 590,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52670,
+            "stars": 52669,
             "topics": [
               "angular",
               "capacitor",
@@ -2049,7 +2049,7 @@
             "open_issues": 18,
             "owner": "okgrow",
             "repo": "analytics",
-            "stars": 213,
+            "stars": 214,
             "topics": [
               "analytics",
               "google-analytics",
@@ -2320,7 +2320,7 @@
             "id": 341899704,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-18T20:08:28Z",
+            "last_commit": "2026-09-19T21:42:07Z",
             "open_issues": 0,
             "owner": "maka-io",
             "repo": "maka-cli",
@@ -2377,7 +2377,7 @@
             "open_issues": 12,
             "owner": "cleverbeagle",
             "repo": "pup",
-            "stars": 551,
+            "stars": 552,
             "topics": [
               "apollo",
               "app",
@@ -2419,7 +2419,7 @@
             "open_issues": 5,
             "owner": "CaptainN",
             "repo": "meteor-react-starter",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T04:40:27Z",
-            "open_issues": 166,
+            "last_commit": "2026-09-19T20:33:57Z",
+            "open_issues": 165,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21089,
+            "stars": 21090,
             "topics": [
               "docker-image",
               "foss",
@@ -2477,7 +2477,7 @@
             "open_issues": 0,
             "owner": "VulcanJS",
             "repo": "Vulcan",
-            "stars": 7893,
+            "stars": 7894,
             "topics": [
               "graphql",
               "hacktoberfest",
@@ -2984,7 +2984,7 @@
             "open_issues": 1,
             "owner": "Richie765",
             "repo": "meteor-pg",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "meteor",
               "postgresql",
@@ -3227,7 +3227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:48:28.955Z",
+    "last_updated": "2026-09-19T22:29:19.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
