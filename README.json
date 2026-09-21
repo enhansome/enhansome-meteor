@@ -77,7 +77,7 @@
             "open_issues": 47,
             "owner": "jagi",
             "repo": "meteor-astronomy",
-            "stars": 605,
+            "stars": 603,
             "topics": [
               "astronomy",
               "javascript",
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T23:24:11Z",
-            "open_issues": 590,
+            "last_commit": "2026-09-21T22:20:37Z",
+            "open_issues": 584,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52672,
+            "stars": 52674,
             "topics": [
               "angular",
               "capacitor",
@@ -2320,7 +2320,7 @@
             "id": 341899704,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-20T21:55:20Z",
+            "last_commit": "2026-09-21T20:26:07Z",
             "open_issues": 0,
             "owner": "maka-io",
             "repo": "maka-cli",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T20:54:48Z",
+            "last_commit": "2026-09-21T22:03:49Z",
             "open_issues": 164,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21091,
+            "stars": 21093,
             "topics": [
               "docker-image",
               "foss",
@@ -2712,7 +2712,7 @@
             "open_issues": 25,
             "owner": "Urigo",
             "repo": "angular-meteor",
-            "stars": 2334,
+            "stars": 2333,
             "topics": [
               "angular",
               "angular-meteor",
@@ -3227,7 +3227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T22:41:39.173Z",
+    "last_updated": "2026-09-21T23:36:12.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
