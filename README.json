@@ -77,7 +77,7 @@
             "open_issues": 47,
             "owner": "jagi",
             "repo": "meteor-astronomy",
-            "stars": 603,
+            "stars": 602,
             "topics": [
               "astronomy",
               "javascript",
@@ -150,7 +150,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-12-09T23:12:47Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "dburles",
             "repo": "meteor-collection-helpers",
             "stars": 495,
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T22:20:37Z",
-            "open_issues": 584,
+            "last_commit": "2026-09-22T22:37:53Z",
+            "open_issues": 583,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52674,
+            "stars": 52676,
             "topics": [
               "angular",
               "capacitor",
@@ -1742,7 +1742,7 @@
             "open_issues": 68,
             "owner": "martijnwalraven",
             "repo": "meteor-ios",
-            "stars": 735,
+            "stars": 734,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -2320,7 +2320,7 @@
             "id": 341899704,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-21T20:26:07Z",
+            "last_commit": "2026-09-22T12:35:01Z",
             "open_issues": 0,
             "owner": "maka-io",
             "repo": "maka-cli",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T22:03:49Z",
+            "last_commit": "2026-09-22T18:53:20Z",
             "open_issues": 164,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21093,
+            "stars": 21094,
             "topics": [
               "docker-image",
               "foss",
@@ -2557,11 +2557,11 @@
             "id": 160796624,
             "language": "TypeScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-09-16T13:18:17Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-22T18:40:33Z",
+            "open_issues": 53,
             "owner": "unchainedshop",
             "repo": "unchained",
-            "stars": 203,
+            "stars": 204,
             "topics": [
               "cart",
               "digital-commerce",
@@ -3227,7 +3227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T23:36:12.438Z",
+    "last_updated": "2026-09-22T23:15:35.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
