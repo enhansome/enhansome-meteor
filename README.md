@@ -85,7 +85,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Helpers for templates*
 
-* [uniforms](https://github.com/vazco/uniforms) ⭐ 2,103 | 🐛 30 | 🌐 TypeScript | 📅 2026-01-12 - Bunch of React components and helpers to easily generate and validate forms. [Seamlessly integrate with `simpl-schema`](https://uniforms.tools/docs/installation).
+* [uniforms](https://github.com/vazco/uniforms) ⭐ 2,104 | 🐛 30 | 🌐 TypeScript | 📅 2026-01-12 - Bunch of React components and helpers to easily generate and validate forms. [Seamlessly integrate with `simpl-schema`](https://uniforms.tools/docs/installation).
 * [aldeed:autoform](https://github.com/aldeed/meteor-autoform) ⭐ 1,427 | 🐛 24 | 🌐 JavaScript | 📅 2026-04-02 - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
 * [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) ⭐ 219 | 🐛 5 | 🌐 JavaScript | 📅 2017-03-03 - A Meteor package: Replace already defined templates, inherit helpers and events from other templates.
 * [ostrio:templatehelpers](https://github.com/VeliovGroup/Meteor-Template-helpers) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-09 - Utility helpers for your Blaze templates.
@@ -113,7 +113,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for monitoring your Meteor apps*
 
-* [monti-apm-agent](https://github.com/monti-apm/monti-apm-agent) ⭐ 48 | 🐛 17 | 🌐 JavaScript | 📅 2026-08-26 - Performance Monitoring for Meteor
+* [monti-apm-agent](https://github.com/monti-apm/monti-apm-agent) ⭐ 48 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-26 - Performance Monitoring for Meteor
 * [lmachens:kadira](https://github.com/lmachens/kadira) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2019-11-25 - Performance Monitoring for Meteor
 * [kschingiz:meteor-elastic-apm](https://github.com/kschingiz/meteor-elastic-apm) ⭐ 3 | 🐛 0 | 📅 2020-02-12 - Perfomance Monitoring for Meteor based on Elastic APM
 
@@ -121,7 +121,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for speeding up your Meteor apps*
 
-* [cultofcoders:redis-oplog](https://github.com/cult-of-coders/redis-oplog) ⭐ 385 | 🐛 71 | 🌐 JavaScript | 📅 2025-03-27 - Redis Oplog implementation to fully replace MongoDB Oplog in Meteor
+* [cultofcoders:redis-oplog](https://github.com/cult-of-coders/redis-oplog) ⭐ 385 | 🐛 72 | 🌐 JavaScript | 📅 2025-03-27 - Redis Oplog implementation to fully replace MongoDB Oplog in Meteor
 * [staringatlights:fast-render](https://github.com/abecks/meteor-fast-render) ⭐ 58 | 🐛 9 | 🌐 JavaScript | 📅 2020-06-29 - An active fork of fast-render
 * [maestroqadev:pub-sub-lite](https://github.com/adtribute/pub-sub-lite) ⚠️ Archived - Transform publications to be non-reactive.
 * [epotek:method-cache](https://github.com/e-Potek/method-cache) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2023-12-15 - Meteor method caching using DataLoader
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,680 | 🐛 584 | 🌐 TypeScript | 📅 2026-09-23 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,685 | 🐛 582 | 🌐 TypeScript | 📅 2026-09-24 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,503 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -248,20 +248,20 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [msavin:mongol](https://github.com/msavin/Mongol/) ⭐ 818 | 🐛 4 | 🌐 JavaScript | 📅 2019-07-10 - Visual Editing Tool for Meteor for MongoDB Collections.
 * [msavin:jetsetter](https://github.com/msavin/JetSetter) ⭐ 185 | 🐛 3 | 🌐 JavaScript | 📅 2015-07-07 - Visual Get/Set Tool for Meteor Session Variables.
-* [meteor-devtools-evolved](https://github.com/leonardoventurini/meteor-devtools-evolved) ⭐ 177 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-15 - A chrome extension.
+* [meteor-devtools-evolved](https://github.com/leonardoventurini/meteor-devtools-evolved) ⭐ 177 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-24 - A chrome extension.
 * [babrahams:constellation](https://github.com/JackAdams/constellation-distro/) ⭐ 32 | 🐛 2 | 🌐 JavaScript | 📅 2021-07-22 - An extensible dev console for Meteor.
 
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,890 | 🐛 296 | 🌐 Shell | 📅 2026-09-23 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,916 | 🐛 299 | 🌐 Shell | 📅 2026-09-23 - Completion for the meteor command.
 
 ## Scaffolding
 
 *Scaffolding*
 
 * [iron-cli](https://github.com/iron-meteor/iron-cli) ⭐ 636 | 🐛 25 | 🌐 JavaScript | 📅 2020-02-03 - A scaffolding command line tool for Meteor applications.
-* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2026-09-23 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
+* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2026-09-24 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
 * [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor.
 
 ## Tooling
@@ -277,11 +277,11 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,095 | 🐛 163 | 🌐 JavaScript | 📅 2026-09-23 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,094 | 🐛 163 | 🌐 JavaScript | 📅 2026-09-24 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,467 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 274 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-09-20 - Coauthor supercollaboration/discussion forum.
-* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 204 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-23 - Open source Commerce platform developed with Meteor.
+* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 204 | 🐛 51 | 🌐 TypeScript | 📅 2026-09-24 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
 * [Rocket.Chat](https://rocket.chat/) - Realtime chat application built with Meteor.
 
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
