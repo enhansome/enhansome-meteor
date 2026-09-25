@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T20:09:16Z",
-            "open_issues": 582,
+            "last_commit": "2026-09-25T23:30:02Z",
+            "open_issues": 581,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52685,
+            "stars": 52684,
             "topics": [
               "angular",
               "capacitor",
@@ -2320,7 +2320,7 @@
             "id": 341899704,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-24T23:03:36Z",
+            "last_commit": "2026-09-25T17:22:44Z",
             "open_issues": 0,
             "owner": "maka-io",
             "repo": "maka-cli",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T22:48:12Z",
-            "open_issues": 163,
+            "last_commit": "2026-09-25T22:33:42Z",
+            "open_issues": 162,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21094,
+            "stars": 21093,
             "topics": [
               "docker-image",
               "foss",
@@ -2477,7 +2477,7 @@
             "open_issues": 0,
             "owner": "VulcanJS",
             "repo": "Vulcan",
-            "stars": 7894,
+            "stars": 7893,
             "topics": [
               "graphql",
               "hacktoberfest",
@@ -2540,7 +2540,7 @@
             "open_issues": 233,
             "owner": "edemaine",
             "repo": "coauthor",
-            "stars": 274,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -2557,8 +2557,8 @@
             "id": 160796624,
             "language": "TypeScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-09-24T11:54:17Z",
-            "open_issues": 51,
+            "last_commit": "2026-09-25T11:37:41Z",
+            "open_issues": 52,
             "owner": "unchainedshop",
             "repo": "unchained",
             "stars": 204,
@@ -3227,7 +3227,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:26:01.419Z",
+    "last_updated": "2026-09-25T23:32:00.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
