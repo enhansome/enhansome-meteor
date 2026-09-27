@@ -131,7 +131,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for deploying and maintaining Meteor apps*
 
-* [meteor-up](https://github.com/zodern/meteor-up) ⭐ 1,267 | 🐛 226 | 🌐 JavaScript | 📅 2026-02-20 – Meteor Deployments.
+* [meteor-up](https://github.com/zodern/meteor-up) ⭐ 1,266 | 🐛 226 | 🌐 JavaScript | 📅 2026-02-20 – Meteor Deployments.
 * [demeteorizer](https://github.com/onmodulus/demeteorizer) ⭐ 701 | 🐛 15 | 🌐 JavaScript | 📅 2017-04-17 - Converts a Meteor app into a "standard" Node.js application
 * [percolate:migrations](https://github.com/percolatestudio/meteor-migrations) ⭐ 243 | 🐛 17 | 🌐 JavaScript | 📅 2026-02-21 - Simple migration system for Meteor
 * [pm2-meteor](https://github.com/andruschka/pm2-meteor) ⭐ 160 | 🐛 39 | 🌐 CoffeeScript | 📅 2022-04-28 - Simplest way to deploy, scale and run Meteor Apps with PM2.
@@ -154,7 +154,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Routers for Blaze*
 
-* [iron:router](https://github.com/iron-meteor/iron-router) ⭐ 1,959 | 🐛 300 | 🌐 JavaScript | 📅 2017-11-11 - A router that works on the server and the browser, designed specifically for Meteor.
+* [iron:router](https://github.com/iron-meteor/iron-router) ⭐ 1,958 | 🐛 300 | 🌐 JavaScript | 📅 2017-11-11 - A router that works on the server and the browser, designed specifically for Meteor.
 * [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router) ⭐ 202 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-24 - Carefully extended `flow-router` package. Up-to-date version with support of latest Meteor's releases.
 * [meteorhacks:picker](https://github.com/meteorhacks/picker) ⭐ 180 | 🐛 30 | 🌐 JavaScript | 📅 2018-03-21 - Server Side Router for Meteor.
 * [msavin:parrot](https://github.com/msavin/Parrot) ⭐ 74 | 🐛 2 | 🌐 JavaScript | 📅 2018-02-28 - Web router specially designed for building SPAs using Meteor
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,683 | 🐛 584 | 🌐 TypeScript | 📅 2026-09-25 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,684 | 🐛 585 | 🌐 TypeScript | 📅 2026-09-25 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,503 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -246,7 +246,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Debugging Tools*
 
-* [msavin:mongol](https://github.com/msavin/Mongol/) ⭐ 818 | 🐛 4 | 🌐 JavaScript | 📅 2019-07-10 - Visual Editing Tool for Meteor for MongoDB Collections.
+* [msavin:mongol](https://github.com/msavin/Mongol/) ⭐ 817 | 🐛 4 | 🌐 JavaScript | 📅 2019-07-10 - Visual Editing Tool for Meteor for MongoDB Collections.
 * [msavin:jetsetter](https://github.com/msavin/JetSetter) ⭐ 185 | 🐛 3 | 🌐 JavaScript | 📅 2015-07-07 - Visual Get/Set Tool for Meteor Session Variables.
 * [meteor-devtools-evolved](https://github.com/leonardoventurini/meteor-devtools-evolved) ⭐ 177 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-24 - A chrome extension.
 * [babrahams:constellation](https://github.com/JackAdams/constellation-distro/) ⭐ 32 | 🐛 2 | 🌐 JavaScript | 📅 2021-07-22 - An extensible dev console for Meteor.
@@ -254,14 +254,14 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,952 | 🐛 302 | 🌐 Shell | 📅 2026-09-23 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,962 | 🐛 304 | 🌐 Shell | 📅 2026-09-27 - Completion for the meteor command.
 
 ## Scaffolding
 
 *Scaffolding*
 
-* [iron-cli](https://github.com/iron-meteor/iron-cli) ⭐ 636 | 🐛 25 | 🌐 JavaScript | 📅 2020-02-03 - A scaffolding command line tool for Meteor applications.
-* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2026-09-25 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
+* [iron-cli](https://github.com/iron-meteor/iron-cli) ⭐ 635 | 🐛 25 | 🌐 JavaScript | 📅 2020-02-03 - A scaffolding command line tool for Meteor applications.
+* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2026-09-27 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
 * [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor.
 
 ## Tooling
@@ -277,7 +277,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,096 | 🐛 133 | 🌐 JavaScript | 📅 2026-09-26 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,097 | 🐛 130 | 🌐 JavaScript | 📅 2026-09-27 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,467 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 275 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-09-20 - Coauthor supercollaboration/discussion forum.
@@ -354,7 +354,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Websites
 
-* [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq) ⭐ 947 | 🐛 20 | 📅 2019-10-04
+* [Unofficial Meteor FAQ](https://github.com/oortcloud/unofficial-meteor-faq) ⭐ 946 | 🐛 20 | 📅 2019-10-04
 * [Official website](https://www.meteor.com/)
 * [Official Documentation](http://docs.meteor.com/)
 * [Official Guide](http://guide.meteor.com/)
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
