@@ -113,7 +113,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for monitoring your Meteor apps*
 
-* [monti-apm-agent](https://github.com/monti-apm/monti-apm-agent) ⭐ 48 | 🐛 18 | 🌐 JavaScript | 📅 2026-09-28 - Performance Monitoring for Meteor
+* [monti-apm-agent](https://github.com/monti-apm/monti-apm-agent) ⭐ 48 | 🐛 17 | 🌐 JavaScript | 📅 2026-09-29 - Performance Monitoring for Meteor
 * [lmachens:kadira](https://github.com/lmachens/kadira) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2019-11-25 - Performance Monitoring for Meteor
 * [kschingiz:meteor-elastic-apm](https://github.com/kschingiz/meteor-elastic-apm) ⭐ 3 | 🐛 0 | 📅 2020-02-12 - Perfomance Monitoring for Meteor based on Elastic APM
 
@@ -154,7 +154,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Routers for Blaze*
 
-* [iron:router](https://github.com/iron-meteor/iron-router) ⭐ 1,958 | 🐛 300 | 🌐 JavaScript | 📅 2017-11-11 - A router that works on the server and the browser, designed specifically for Meteor.
+* [iron:router](https://github.com/iron-meteor/iron-router) ⭐ 1,959 | 🐛 300 | 🌐 JavaScript | 📅 2017-11-11 - A router that works on the server and the browser, designed specifically for Meteor.
 * [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router) ⭐ 202 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-24 - Carefully extended `flow-router` package. Up-to-date version with support of latest Meteor's releases.
 * [meteorhacks:picker](https://github.com/meteorhacks/picker) ⭐ 180 | 🐛 30 | 🌐 JavaScript | 📅 2018-03-21 - Server Side Router for Meteor.
 * [msavin:parrot](https://github.com/msavin/Parrot) ⭐ 74 | 🐛 2 | 🌐 JavaScript | 📅 2018-02-28 - Web router specially designed for building SPAs using Meteor
@@ -172,7 +172,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Testing tools*
 
-* [meteortesting:mocha](https://github.com/meteortesting/meteor-mocha) ⭐ 66 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-13 - Mocha test driver package for Meteor.
+* [meteortesting:mocha](https://github.com/meteortesting/meteor-mocha) ⭐ 66 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-29 - Mocha test driver package for Meteor.
 * [lmieulet:meteor-coverage](https://github.com/serut/meteor-coverage) ⚠️ Archived - Test coverage for Meteor.
 * [antwaremx:meteorman](https://github.com/antwaremx/meteorman) ⭐ 53 | 🐛 1 | 🌐 Vue | 📅 2026-07-31 - Meteorman: A DDP Client with GUI to test Meteor methods and publications (like Postman).
 * [hubroedu:mocha](https://github.com/hubroedu/meteor-mocha/) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2018-10-24 - Decaffed cultofcoders:mocha fork.
@@ -207,8 +207,8 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,686 | 🐛 580 | 🌐 TypeScript | 📅 2026-09-28 - Official Ionic support for Meteor.
-* [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,504 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,689 | 🐛 579 | 🌐 TypeScript | 📅 2026-09-29 - Official Ionic support for Meteor.
+* [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,505 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
 * [okland:accounts-phone](https://github.com/okland/accounts-phone) ⭐ 119 | 🐛 29 | 🌐 JavaScript | 📅 2016-08-31 - A login service based on mobile phone number for Meteor.
@@ -248,13 +248,13 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [msavin:mongol](https://github.com/msavin/Mongol/) ⭐ 817 | 🐛 4 | 🌐 JavaScript | 📅 2019-07-10 - Visual Editing Tool for Meteor for MongoDB Collections.
 * [msavin:jetsetter](https://github.com/msavin/JetSetter) ⭐ 185 | 🐛 3 | 🌐 JavaScript | 📅 2015-07-07 - Visual Get/Set Tool for Meteor Session Variables.
-* [meteor-devtools-evolved](https://github.com/leonardoventurini/meteor-devtools-evolved) ⭐ 177 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-24 - A chrome extension.
+* [meteor-devtools-evolved](https://github.com/leonardoventurini/meteor-devtools-evolved) ⭐ 177 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-29 - A chrome extension.
 * [babrahams:constellation](https://github.com/JackAdams/constellation-distro/) ⭐ 32 | 🐛 2 | 🌐 JavaScript | 📅 2021-07-22 - An extensible dev console for Meteor.
 
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,982 | 🐛 297 | 🌐 Shell | 📅 2026-09-28 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 189,988 | 🐛 302 | 🌐 Shell | 📅 2026-09-29 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,11 +277,11 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,098 | 🐛 124 | 🌐 JavaScript | 📅 2026-09-28 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,099 | 🐛 115 | 🌐 JavaScript | 📅 2026-09-29 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,467 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 276 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-09-20 - Coauthor supercollaboration/discussion forum.
-* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 204 | 🐛 52 | 🌐 TypeScript | 📅 2026-09-28 - Open source Commerce platform developed with Meteor.
+* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 204 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-29 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
 * [Rocket.Chat](https://rocket.chat/) - Realtime chat application built with Meteor.
 
@@ -343,7 +343,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Tutorials
 
-* [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial) ⭐ 5,087 | 🐛 233 | 🌐 C++ | 📅 2026-09-23
+* [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial) ⭐ 5,089 | 🐛 233 | 🌐 C++ | 📅 2026-09-29
 * [When a Meteor finally hits production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b) - Blog post about deploying Meteor apps
 * [Transform any Meteor App into a PWA](https://dev.to/jankapunkt/transform-any-meteor-app-into-a-pwa-4k44)
 
