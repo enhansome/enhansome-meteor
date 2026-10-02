@@ -163,7 +163,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for Meteor offline support*
 
-* [ground:db](https://github.com/GroundMeteor/db) ⭐ 569 | 🐛 67 | 🌐 JavaScript | 📅 2026-09-16 - GroundDB is a thin layer providing Meteor offline database and methods.
+* [ground:db](https://github.com/GroundMeteor/db) ⭐ 569 | 🐛 69 | 🌐 JavaScript | 📅 2026-10-01 - GroundDB is a thin layer providing Meteor offline database and methods.
 * [meteor-service-worker](https://github.com/NitroBAY/meteor-service-worker) ⭐ 138 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-23 - Meteor specific service worker implementaion.
 * [npdev:collections](https://github.com/CaptainN/npdev-collections) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2020-12-14 - An easy way to create offline collections with SSR for Meteor
 * [quave:pwa](https://github.com/quavedev/pwa) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2020-07-30 - A Meteor package that allows you to configure your PWA.
@@ -187,7 +187,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Handling files in Meteor*
 
-* [ostrio:files](https://github.com/VeliovGroup/Meteor-Files) ⭐ 1,116 | 🐛 19 | 🌐 JavaScript | 📅 2026-09-08 - Upload files via DDP, HTTP and WebRTC/DC. To Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.
+* [ostrio:files](https://github.com/VeliovGroup/Meteor-Files) ⭐ 1,116 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-01 - Upload files via DDP, HTTP and WebRTC/DC. To Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.
 * [netanelgilad:excel](https://github.com/netanelgilad/meteor-excel) ⚠️ Archived - Parsing and generating excel files (xlsx, xls).
 * [@reactioncommerce/file-collections](https://github.com/reactioncommerce/reaction-file-collections) ⚠️ Archived - Reaction FileCollections is a set of NPM packages that provide the ability to support file uploads, storage, and downloads in Node and Meteor apps, and in browser JavaScript.
 * [mikkelking:slingshot](https://github.com/Back2bikes/meteor-slingshot) ⭐ 13 | 🐛 6 | 🌐 JavaScript | 📅 2025-07-19 - Upload files directly to AWS S3, Google Cloud Storage and others in meteor.
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,686 | 🐛 577 | 🌐 TypeScript | 📅 2026-09-30 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,685 | 🐛 575 | 🌐 TypeScript | 📅 2026-10-01 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,505 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -254,14 +254,14 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,014 | 🐛 302 | 🌐 Shell | 📅 2026-09-29 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,028 | 🐛 302 | 🌐 Shell | 📅 2026-09-29 - Completion for the meteor command.
 
 ## Scaffolding
 
 *Scaffolding*
 
 * [iron-cli](https://github.com/iron-meteor/iron-cli) ⭐ 635 | 🐛 25 | 🌐 JavaScript | 📅 2020-02-03 - A scaffolding command line tool for Meteor applications.
-* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2026-09-29 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
+* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2026-10-01 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
 * [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor.
 
 ## Tooling
@@ -277,11 +277,11 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,099 | 🐛 115 | 🌐 JavaScript | 📅 2026-09-30 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,100 | 🐛 114 | 🌐 JavaScript | 📅 2026-10-01 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,467 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 276 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-09-20 - Coauthor supercollaboration/discussion forum.
-* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 204 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-30 - Open source Commerce platform developed with Meteor.
+* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 205 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-30 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
 * [Rocket.Chat](https://rocket.chat/) - Realtime chat application built with Meteor.
 
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
