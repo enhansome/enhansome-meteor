@@ -1030,7 +1030,7 @@
         {
           "node_type": "item",
           "title": "meteor-base",
-          "description": null,
+          "description": "disney/meteor-base",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1055,7 +1055,7 @@
         {
           "node_type": "item",
           "title": "docker-meteor",
-          "description": null,
+          "description": "tozd/docker-meteor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1080,7 +1080,7 @@
         {
           "node_type": "item",
           "title": "meteor-docker",
-          "description": null,
+          "description": "meteor-up/meteor-docker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1678,7 +1678,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T22:56:52Z",
-            "open_issues": 574,
+            "open_issues": 575,
             "owner": "ionic-team",
             "repo": "ionic-framework",
             "stars": 52685,
@@ -2320,7 +2320,7 @@
             "id": 341899704,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-02T17:11:31Z",
+            "last_commit": "2026-10-03T00:24:07Z",
             "open_issues": 0,
             "owner": "maka-io",
             "repo": "maka-cli",
@@ -2338,7 +2338,7 @@
         {
           "node_type": "item",
           "title": "matteodem - meteor-boilerplate",
-          "description": null,
+          "description": "matteodem/meteor-boilerplate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2364,7 +2364,7 @@
         {
           "node_type": "item",
           "title": "Pup",
-          "description": null,
+          "description": "cleverbeagle/pup",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3004,7 +3004,7 @@
             {
               "node_type": "item",
               "title": "Meteor Cookbook",
-              "description": null,
+              "description": "node-on-fhir/cookbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3032,7 +3032,7 @@
             {
               "node_type": "item",
               "title": "Phusion Passenger: Meteor tutorial",
-              "description": null,
+              "description": "phusion/passenger",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3066,7 +3066,7 @@
             {
               "node_type": "item",
               "title": "Unofficial Meteor FAQ",
-              "description": null,
+              "description": "oortcloud/unofficial-meteor-faq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3094,7 +3094,7 @@
             {
               "node_type": "item",
               "title": "Meteor Community Organization Slack Channel",
-              "description": null,
+              "description": "Meteor-Community-Packages/organization",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3122,7 +3122,7 @@
             {
               "node_type": "item",
               "title": "Awesome Meteor Jobs",
-              "description": null,
+              "description": "harryadel/awesome-meteor-jobs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3150,7 +3150,7 @@
             {
               "node_type": "item",
               "title": "Awesome Blaze",
-              "description": null,
+              "description": "arggh/awesome-blaze",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3178,7 +3178,7 @@
             {
               "node_type": "item",
               "title": "Awesome Meteor Developers",
-              "description": null,
+              "description": "harryadel/awesome-meteor-developers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3200,34 +3200,13 @@
           "description": null,
           "node_type": "group",
           "title": "Related"
-        },
-        {
-          "children": [],
-          "description": "Your contributions are always welcome!\nThank you @gillesfabio for creating this repo!",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
-            "homepage": null,
-            "id": 21043164,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2022-03-31T06:03:05Z",
-            "open_issues": 1,
-            "owner": "Urigo",
-            "repo": "awesome-meteor",
-            "stars": 1411,
-            "topics": []
-          },
-          "title": "Contributing",
-          "first_seen": "2026-08-28T04:28:25.409Z"
         }
       ],
       "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:59:04.896Z",
+    "last_updated": "2026-10-03T04:56:05.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
