@@ -163,7 +163,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for Meteor offline support*
 
-* [ground:db](https://github.com/GroundMeteor/db) ⭐ 569 | 🐛 69 | 🌐 JavaScript | 📅 2026-10-01 - GroundDB is a thin layer providing Meteor offline database and methods.
+* [ground:db](https://github.com/GroundMeteor/db) ⭐ 569 | 🐛 68 | 🌐 JavaScript | 📅 2026-10-03 - GroundDB is a thin layer providing Meteor offline database and methods.
 * [meteor-service-worker](https://github.com/NitroBAY/meteor-service-worker) ⭐ 138 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-23 - Meteor specific service worker implementaion.
 * [npdev:collections](https://github.com/CaptainN/npdev-collections) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2020-12-14 - An easy way to create offline collections with SSR for Meteor
 * [quave:pwa](https://github.com/quavedev/pwa) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2020-07-30 - A Meteor package that allows you to configure your PWA.
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,685 | 🐛 575 | 🌐 TypeScript | 📅 2026-10-02 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,687 | 🐛 576 | 🌐 TypeScript | 📅 2026-10-02 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,505 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,046 | 🐛 303 | 🌐 Shell | 📅 2026-09-29 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,083 | 🐛 302 | 🌐 Shell | 📅 2026-09-29 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,7 +277,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,103 | 🐛 112 | 🌐 JavaScript | 📅 2026-10-02 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,102 | 🐛 115 | 🌐 JavaScript | 📅 2026-10-03 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,467 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 276 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-02 - Coauthor supercollaboration/discussion forum.
