@@ -131,7 +131,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for deploying and maintaining Meteor apps*
 
-* [meteor-up](https://github.com/zodern/meteor-up) ⭐ 1,266 | 🐛 226 | 🌐 JavaScript | 📅 2026-02-20 – Meteor Deployments.
+* [meteor-up](https://github.com/zodern/meteor-up) ⭐ 1,265 | 🐛 226 | 🌐 JavaScript | 📅 2026-02-20 – Meteor Deployments.
 * [demeteorizer](https://github.com/onmodulus/demeteorizer) ⭐ 701 | 🐛 15 | 🌐 JavaScript | 📅 2017-04-17 - Converts a Meteor app into a "standard" Node.js application
 * [percolate:migrations](https://github.com/percolatestudio/meteor-migrations) ⭐ 243 | 🐛 17 | 🌐 JavaScript | 📅 2026-02-21 - Simple migration system for Meteor
 * [pm2-meteor](https://github.com/andruschka/pm2-meteor) ⭐ 160 | 🐛 39 | 🌐 CoffeeScript | 📅 2022-04-28 - Simplest way to deploy, scale and run Meteor Apps with PM2.
@@ -146,7 +146,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Docker Images
 
-* [meteor-base](https://github.com/disney/meteor-base) ⭐ 274 | 🐛 1 | 🌐 Shell | 📅 2026-09-14
+* [meteor-base](https://github.com/disney/meteor-base) ⭐ 273 | 🐛 1 | 🌐 Shell | 📅 2026-09-14
 * [docker-meteor](https://github.com/tozd/docker-meteor) ⭐ 54 | 🐛 0 | 🌐 Shell | 📅 2025-06-04
 * [meteor-docker](https://github.com/zodern/meteor-docker) ⭐ 53 | 🐛 6 | 🌐 Shell | 📅 2026-08-14
 
@@ -155,7 +155,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Routers for Blaze*
 
 * [iron:router](https://github.com/iron-meteor/iron-router) ⭐ 1,959 | 🐛 300 | 🌐 JavaScript | 📅 2017-11-11 - A router that works on the server and the browser, designed specifically for Meteor.
-* [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router) ⭐ 202 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-24 - Carefully extended `flow-router` package. Up-to-date version with support of latest Meteor's releases.
+* [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router) ⭐ 201 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-24 - Carefully extended `flow-router` package. Up-to-date version with support of latest Meteor's releases.
 * [meteorhacks:picker](https://github.com/meteorhacks/picker) ⭐ 180 | 🐛 30 | 🌐 JavaScript | 📅 2018-03-21 - Server Side Router for Meteor.
 * [msavin:parrot](https://github.com/msavin/Parrot) ⭐ 74 | 🐛 2 | 🌐 JavaScript | 📅 2018-02-28 - Web router specially designed for building SPAs using Meteor
 
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,686 | 🐛 574 | 🌐 TypeScript | 📅 2026-10-02 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,685 | 🐛 563 | 🌐 TypeScript | 📅 2026-10-06 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,505 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -222,8 +222,8 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Data Visualization in Meteor: charts, maps, tables, etc.*
 
-* [aldeed:tabular](https://github.com/aldeed/meteor-tabular) ⭐ 360 | 🐛 113 | 🌐 JavaScript | 📅 2026-03-25 - Reactive datatables for large or small datasets.
-* [aslagle:reactive-table](https://github.com/aslagle/reactive-table/) ⭐ 327 | 🐛 216 | 🌐 JavaScript | 📅 2024-01-30 - Reactive table for Meteor, using Blaze.
+* [aldeed:tabular](https://github.com/aldeed/meteor-tabular) ⭐ 359 | 🐛 113 | 🌐 JavaScript | 📅 2026-03-25 - Reactive datatables for large or small datasets.
+* [aslagle:reactive-table](https://github.com/aslagle/reactive-table/) ⭐ 326 | 🐛 216 | 🌐 JavaScript | 📅 2024-01-30 - Reactive table for Meteor, using Blaze.
 * [luixal:meteor-apexcharts](https://github.com/luixal/meteor-apexcharts) ⚠️ Archived - Reactive ApexCharts library packaged for Meteor.
 * [luixal:blaze-paginated-custom-list](https://github.com/luixal/meteor-blaze-paginated-custom-list) ⚠️ Archived - Reactive and paginated item list.
 
@@ -254,14 +254,14 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,150 | 🐛 305 | 🌐 Shell | 📅 2026-10-04 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,174 | 🐛 304 | 🌐 Shell | 📅 2026-10-05 - Completion for the meteor command.
 
 ## Scaffolding
 
 *Scaffolding*
 
 * [iron-cli](https://github.com/iron-meteor/iron-cli) ⭐ 635 | 🐛 25 | 🌐 JavaScript | 📅 2020-02-03 - A scaffolding command line tool for Meteor applications.
-* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2026-10-04 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
+* [maka-cli](https://github.com/maka-io/maka-cli) ⭐ 0 | 🐛 0 | 📅 2026-10-05 - Maka-CLI is a command line tool, which organizes a web application's file structure and automates everyday package installation tasks for various application frameworks.
 * [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor.
 
 ## Tooling
@@ -277,11 +277,11 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,106 | 🐛 112 | 🌐 JavaScript | 📅 2026-10-04 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,108 | 🐛 112 | 🌐 JavaScript | 📅 2026-10-05 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,467 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 276 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-04 - Coauthor supercollaboration/discussion forum.
-* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 205 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-02 - Open source Commerce platform developed with Meteor.
+* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 206 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-05 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
 * [Rocket.Chat](https://rocket.chat/) - Realtime chat application built with Meteor.
 
@@ -343,7 +343,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Tutorials
 
-* [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial) ⭐ 5,090 | 🐛 234 | 🌐 C++ | 📅 2026-10-04
+* [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial) ⭐ 5,090 | 🐛 232 | 🌐 C++ | 📅 2026-10-05
 * [When a Meteor finally hits production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b) - Blog post about deploying Meteor apps
 * [Transform any Meteor App into a PWA](https://dev.to/jankapunkt/transform-any-meteor-app-into-a-pwa-4k44)
 
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

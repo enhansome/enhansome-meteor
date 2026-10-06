@@ -751,7 +751,7 @@
             "open_issues": 226,
             "owner": "zodern",
             "repo": "meteor-up",
-            "stars": 1266,
+            "stars": 1265,
             "topics": [
               "deploy",
               "docker",
@@ -1043,7 +1043,7 @@
             "open_issues": 1,
             "owner": "disney",
             "repo": "meteor-base",
-            "stars": 274,
+            "stars": 273,
             "topics": [
               "docker",
               "docker-image",
@@ -1145,7 +1145,7 @@
             "open_issues": 0,
             "owner": "veliovgroup",
             "repo": "flow-router",
-            "stars": 202,
+            "stars": 201,
             "topics": [
               "flow-router",
               "javascript",
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:56:52Z",
-            "open_issues": 574,
+            "last_commit": "2026-10-06T01:22:47Z",
+            "open_issues": 563,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52686,
+            "stars": 52685,
             "topics": [
               "angular",
               "capacitor",
@@ -1942,7 +1942,7 @@
             "open_issues": 113,
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-tabular",
-            "stars": 360,
+            "stars": 359,
             "topics": [
               "blaze",
               "datatable",
@@ -1969,7 +1969,7 @@
             "open_issues": 216,
             "owner": "aslagle",
             "repo": "reactive-table",
-            "stars": 327,
+            "stars": 326,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -2320,7 +2320,7 @@
             "id": 341899704,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-04T23:19:40Z",
+            "last_commit": "2026-10-05T22:03:09Z",
             "open_issues": 0,
             "owner": "maka-io",
             "repo": "maka-cli",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T14:13:54Z",
+            "last_commit": "2026-10-05T18:30:43Z",
             "open_issues": 112,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21106,
+            "stars": 21108,
             "topics": [
               "docker-image",
               "foss",
@@ -2557,11 +2557,11 @@
             "id": 160796624,
             "language": "TypeScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-10-02T12:03:42Z",
+            "last_commit": "2026-10-05T11:44:48Z",
             "open_issues": 46,
             "owner": "unchainedshop",
             "repo": "unchained",
-            "stars": 205,
+            "stars": 206,
             "topics": [
               "cart",
               "digital-commerce",
@@ -3041,8 +3041,8 @@
                 "id": 5625,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-04T22:19:25Z",
-                "open_issues": 234,
+                "last_commit": "2026-10-05T20:52:36Z",
+                "open_issues": 232,
                 "owner": "phusion",
                 "repo": "passenger",
                 "stars": 5090,
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T23:35:26.668Z",
+    "last_updated": "2026-10-06T01:26:48.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
