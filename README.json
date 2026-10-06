@@ -751,7 +751,7 @@
             "open_issues": 226,
             "owner": "zodern",
             "repo": "meteor-up",
-            "stars": 1265,
+            "stars": 1264,
             "topics": [
               "deploy",
               "docker",
@@ -1678,10 +1678,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-06T01:22:47Z",
-            "open_issues": 563,
+            "open_issues": 562,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52685,
+            "stars": 52686,
             "topics": [
               "angular",
               "capacitor",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T18:30:43Z",
-            "open_issues": 112,
+            "last_commit": "2026-10-06T05:04:26Z",
+            "open_issues": 113,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21108,
+            "stars": 21109,
             "topics": [
               "docker-image",
               "foss",
@@ -2557,7 +2557,7 @@
             "id": 160796624,
             "language": "TypeScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-10-05T11:44:48Z",
+            "last_commit": "2026-10-06T09:21:57Z",
             "open_issues": 46,
             "owner": "unchainedshop",
             "repo": "unchained",
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:26:48.869Z",
+    "last_updated": "2026-10-06T10:57:28.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
