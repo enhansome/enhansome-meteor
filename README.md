@@ -64,7 +64,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Helpers and expensions for collections*
 
-* [aldeed:collection2](https://github.com/aldeed/meteor-collection2/) ⭐ 1,015 | 🐛 41 | 🌐 JavaScript | 📅 2026-09-13 - Automatic validation of insert and update operations on the client and server.
+* [aldeed:collection2](https://github.com/aldeed/meteor-collection2/) ⭐ 1,016 | 🐛 41 | 🌐 JavaScript | 📅 2026-10-08 - Automatic validation of insert and update operations on the client and server.
 * [matb33:collection-hooks](https://github.com/Meteor-Community-Packages/meteor-collection-hooks) ⭐ 656 | 🐛 50 | 🌐 JavaScript | 📅 2026-09-12 - Extends Mongo.Collection with before/after hooks for insert/update/remove/find/findOne.
 * [jagi:astronomy](https://github.com/jagi/meteor-astronomy/) ⭐ 602 | 🐛 47 | 🌐 JavaScript | 📅 2023-08-24 - The Model layer for Meteor.
 * [simple-schema](https://github.com/aldeed/simple-schema-js) ⭐ 560 | 🐛 116 | 🌐 TypeScript | 📅 2026-09-13 - A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects.
@@ -85,8 +85,8 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Helpers for templates*
 
-* [uniforms](https://github.com/vazco/uniforms) ⭐ 2,105 | 🐛 30 | 🌐 TypeScript | 📅 2026-01-12 - Bunch of React components and helpers to easily generate and validate forms. [Seamlessly integrate with `simpl-schema`](https://uniforms.tools/docs/installation).
-* [aldeed:autoform](https://github.com/aldeed/meteor-autoform) ⭐ 1,427 | 🐛 24 | 🌐 JavaScript | 📅 2026-04-02 - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
+* [uniforms](https://github.com/vazco/uniforms) ⭐ 2,106 | 🐛 30 | 🌐 TypeScript | 📅 2026-01-12 - Bunch of React components and helpers to easily generate and validate forms. [Seamlessly integrate with `simpl-schema`](https://uniforms.tools/docs/installation).
+* [aldeed:autoform](https://github.com/aldeed/meteor-autoform) ⭐ 1,428 | 🐛 24 | 🌐 JavaScript | 📅 2026-04-02 - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
 * [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) ⭐ 219 | 🐛 5 | 🌐 JavaScript | 📅 2017-03-03 - A Meteor package: Replace already defined templates, inherit helpers and events from other templates.
 * [ostrio:templatehelpers](https://github.com/VeliovGroup/Meteor-Template-helpers) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-09 - Utility helpers for your Blaze templates.
 * [kadira:blaze-layout](https://github.com/TeamGrid/blaze-layout) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2019-02-15 - Layout Manager for Blaze (works well with Meteor FlowRouter)
@@ -207,12 +207,12 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,688 | 🐛 562 | 🌐 TypeScript | 📅 2026-10-07 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,689 | 🐛 555 | 🌐 TypeScript | 📅 2026-10-08 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,505 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
 * [okland:accounts-phone](https://github.com/okland/accounts-phone) ⭐ 119 | 🐛 29 | 🌐 JavaScript | 📅 2016-08-31 - A login service based on mobile phone number for Meteor.
-* [meteor-react-native](https://github.com/TheRealNate/meteor-react-native) ⭐ 67 | 🐛 8 | 🌐 JavaScript | 📅 2025-12-10 - Meteor client for React Native matching Meteor Spec.
+* [meteor-react-native](https://github.com/TheRealNate/meteor-react-native) ⭐ 67 | 🐛 9 | 🌐 JavaScript | 📅 2025-12-10 - Meteor client for React Native matching Meteor Spec.
 * [meteor-push](https://github.com/activitree/meteor-push) ⭐ 28 | 🐛 10 | 🌐 JavaScript | 📅 2024-06-23 - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
 * [okland:camera-ui](https://github.com/okland/camera-ui) ⭐ 28 | 🐛 8 | 🌐 JavaScript | 📅 2017-09-25 - Meteor package for taking photos with user interface, one function call on desktop and mobile. Allows to choose between camera to photoLibrary on mobile.
 * [percolatestudio/cordova-plugin-safe-reload](https://github.com/percolatestudio/cordova-plugin-safe-reload) ⭐ 14 | 🐛 2 | 🌐 JavaScript | 📅 2016-02-11 - Cordova plugin to watch and recover after a broken Meteor Hot Code Push.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,220 | 🐛 306 | 🌐 Shell | 📅 2026-10-06 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,041 | 🐛 302 | 🌐 Shell | 📅 2026-10-09 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,11 +277,11 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,111 | 🐛 112 | 🌐 JavaScript | 📅 2026-10-07 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,110 | 🐛 79 | 🌐 JavaScript | 📅 2026-10-08 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,465 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 276 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-04 - Coauthor supercollaboration/discussion forum.
-* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 206 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-06 - Open source Commerce platform developed with Meteor.
+* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 206 | 🐛 47 | 🌐 TypeScript | 📅 2026-10-08 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
 * [Rocket.Chat](https://rocket.chat/) - Realtime chat application built with Meteor.
 
@@ -295,7 +295,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Alternative Front End Frameworks to Blaze*
 
-* [Angular](https://github.com/Urigo/angular-meteor) ⭐ 2,332 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02 - Working with Angular and Meteor.
+* [Angular](https://github.com/Urigo/angular-meteor) ⭐ 2,331 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02 - Working with Angular and Meteor.
 * [Asteroid](https://github.com/mondora/asteroid) ⭐ 729 | 🐛 47 | 🌐 JavaScript | 📅 2017-08-01 - An alternative client for a Meteor backend.
 * [Famo.us](https://github.com/gadicc/meteor-famous-views/) ⭐ 329 | 🐛 51 | 🌐 JavaScript | 📅 2016-07-27 - Famo.us and Meteor.
 * [Angular 2](https://github.com/Urigo/angular2-meteor) ⭐ 297 | 🐛 5 | 📅 2017-10-16 - Working with Angular 2 and Meteor.
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
