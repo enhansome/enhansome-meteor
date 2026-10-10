@@ -826,7 +826,7 @@
             "open_issues": 39,
             "owner": "andruschka",
             "repo": "pm2-meteor",
-            "stars": 160,
+            "stars": 159,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -1226,7 +1226,7 @@
             "open_issues": 68,
             "owner": "Meteor-Community-Packages",
             "repo": "ground-db",
-            "stars": 569,
+            "stars": 566,
             "topics": [
               "database",
               "ground",
@@ -1440,7 +1440,7 @@
             "open_issues": 13,
             "owner": "veliovgroup",
             "repo": "Meteor-Files",
-            "stars": 1116,
+            "stars": 1114,
             "topics": [
               "aws-s3",
               "dropbox",
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T21:23:57Z",
-            "open_issues": 550,
+            "last_commit": "2026-10-10T02:29:41Z",
+            "open_issues": 551,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52684,
+            "stars": 52688,
             "topics": [
               "angular",
               "capacitor",
@@ -1721,7 +1721,7 @@
             "open_issues": 137,
             "owner": "meteoric",
             "repo": "meteor-ionic",
-            "stars": 1505,
+            "stars": 1504,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -2200,7 +2200,7 @@
             "open_issues": 4,
             "owner": "msavin",
             "repo": "Mongol-meteor-explore-minimongo-devtools",
-            "stars": 817,
+            "stars": 816,
             "topics": [
               "devtool",
               "devtools",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T23:34:05Z",
-            "open_issues": 79,
+            "last_commit": "2026-10-10T20:45:39Z",
+            "open_issues": 65,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21110,
+            "stars": 21111,
             "topics": [
               "docker-image",
               "foss",
@@ -2557,7 +2557,7 @@
             "id": 160796624,
             "language": "TypeScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-10-09T19:44:34Z",
+            "last_commit": "2026-10-10T19:27:48Z",
             "open_issues": 49,
             "owner": "unchainedshop",
             "repo": "unchained",
@@ -3017,7 +3017,7 @@
                 "open_issues": 31,
                 "owner": "node-on-fhir",
                 "repo": "cookbook",
-                "stars": 1664,
+                "stars": 1663,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:25.409Z"
@@ -3045,7 +3045,7 @@
                 "open_issues": 232,
                 "owner": "phusion",
                 "repo": "passenger",
-                "stars": 5091,
+                "stars": 5092,
                 "topics": [
                   "application-server",
                   "appserver",
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T00:18:42.843Z",
+    "last_updated": "2026-10-10T23:48:58.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
@@ -3218,7 +3218,7 @@
       "open_issues": 1,
       "owner": "Urigo",
       "repo": "awesome-meteor",
-      "stars": 1410,
+      "stars": 1409,
       "topics": []
     },
     "original_repository_sha": "070dad0cb587e98ad40d252a9659d8bdcab68772",
