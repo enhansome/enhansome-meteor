@@ -563,7 +563,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-07T19:20:03Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "monti-apm",
             "repo": "monti-apm-agent",
             "stars": 48,
@@ -1440,7 +1440,7 @@
             "open_issues": 13,
             "owner": "veliovgroup",
             "repo": "Meteor-Files",
-            "stars": 1114,
+            "stars": 1113,
             "topics": [
               "aws-s3",
               "dropbox",
@@ -1681,7 +1681,7 @@
             "open_issues": 551,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52688,
+            "stars": 52689,
             "topics": [
               "angular",
               "capacitor",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T20:45:39Z",
+            "last_commit": "2026-10-11T22:32:25Z",
             "open_issues": 65,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21111,
+            "stars": 21110,
             "topics": [
               "docker-image",
               "foss",
@@ -2477,7 +2477,7 @@
             "open_issues": 0,
             "owner": "VulcanJS",
             "repo": "Vulcan",
-            "stars": 7892,
+            "stars": 7891,
             "topics": [
               "graphql",
               "hacktoberfest",
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T23:48:58.230Z",
+    "last_updated": "2026-10-11T23:58:37.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
