@@ -95,7 +95,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for handling users and authentication*
 
-* [accounts-js](https://github.com/accounts-js/accounts) ⭐ 1,502 | 🐛 63 | 🌐 TypeScript | 📅 2024-03-08 - A suite of packages aims to provide all the tools you need to build a flexible authentication and accounts management solution for your application.
+* [accounts-js](https://github.com/accounts-js/accounts) ⭐ 1,501 | 🐛 63 | 🌐 TypeScript | 📅 2024-03-08 - A suite of packages aims to provide all the tools you need to build a flexible authentication and accounts management solution for your application.
 * [alanning:roles](https://github.com/Meteor-Community-Packages/meteor-roles) ⭐ 913 | 🐛 46 | 🌐 JavaScript | 📅 2026-09-16 - Roles support for the built-in accounts packages.
 * [meteor-user-status](https://github.com/Meteor-Community-Packages/meteor-user-status) ⭐ 556 | 🐛 41 | 🌐 JavaScript | 📅 2026-05-19 - Keeps track of users and their meta data.
 * [accounts-ui](https://github.com/e-Potek/accounts-ui/) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-12 - Accounts UI for React in Meteor 1.3+.
@@ -163,7 +163,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for Meteor offline support*
 
-* [ground:db](https://github.com/GroundMeteor/db) ⭐ 566 | 🐛 68 | 🌐 JavaScript | 📅 2026-10-03 - GroundDB is a thin layer providing Meteor offline database and methods.
+* [ground:db](https://github.com/GroundMeteor/db) ⭐ 566 | 🐛 68 | 🌐 JavaScript | 📅 2026-10-15 - GroundDB is a thin layer providing Meteor offline database and methods.
 * [meteor-service-worker](https://github.com/NitroBAY/meteor-service-worker) ⭐ 138 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-23 - Meteor specific service worker implementaion.
 * [npdev:collections](https://github.com/CaptainN/npdev-collections) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2020-12-14 - An easy way to create offline collections with SSR for Meteor
 * [quave:pwa](https://github.com/quavedev/pwa) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2020-07-30 - A Meteor package that allows you to configure your PWA.
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,697 | 🐛 527 | 🌐 TypeScript | 📅 2026-10-14 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,701 | 🐛 517 | 🌐 TypeScript | 📅 2026-10-15 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,504 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,025 | 🐛 293 | 🌐 Shell | 📅 2026-10-13 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,033 | 🐛 297 | 🌐 Shell | 📅 2026-10-13 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,10 +277,10 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,116 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-14 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,120 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
-* [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,464 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
-* [coauthor](https://github.com/edemaine/coauthor) ⭐ 277 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-09 - Coauthor supercollaboration/discussion forum.
+* [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,463 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
+* [coauthor](https://github.com/edemaine/coauthor) ⭐ 276 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-09 - Coauthor supercollaboration/discussion forum.
 * [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 204 | 🐛 55 | 🌐 TypeScript | 📅 2026-10-14 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
 * [Rocket.Chat](https://rocket.chat/) - Realtime chat application built with Meteor.
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
