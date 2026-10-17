@@ -254,7 +254,7 @@
             "open_issues": 30,
             "owner": "vazco",
             "repo": "uniforms",
-            "stars": 2103,
+            "stars": 2102,
             "topics": [
               "component-library",
               "components",
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T22:43:57Z",
-            "open_issues": 522,
+            "last_commit": "2026-10-17T02:38:40Z",
+            "open_issues": 525,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52702,
+            "stars": 52707,
             "topics": [
               "angular",
               "capacitor",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T21:46:52Z",
+            "last_commit": "2026-10-17T20:48:37Z",
             "open_issues": 0,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21124,
+            "stars": 21123,
             "topics": [
               "docker-image",
               "foss",
@@ -3041,7 +3041,7 @@
                 "id": 5625,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-16T21:56:54Z",
+                "last_commit": "2026-10-17T19:52:39Z",
                 "open_issues": 232,
                 "owner": "phusion",
                 "repo": "passenger",
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:00:32.375Z",
+    "last_updated": "2026-10-17T22:38:58.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
