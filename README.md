@@ -65,7 +65,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Helpers and expensions for collections*
 
 * [aldeed:collection2](https://github.com/aldeed/meteor-collection2/) ⭐ 1,016 | 🐛 41 | 🌐 JavaScript | 📅 2026-10-08 - Automatic validation of insert and update operations on the client and server.
-* [matb33:collection-hooks](https://github.com/Meteor-Community-Packages/meteor-collection-hooks) ⭐ 656 | 🐛 50 | 🌐 JavaScript | 📅 2026-09-12 - Extends Mongo.Collection with before/after hooks for insert/update/remove/find/findOne.
+* [matb33:collection-hooks](https://github.com/Meteor-Community-Packages/meteor-collection-hooks) ⭐ 656 | 🐛 51 | 🌐 JavaScript | 📅 2026-10-18 - Extends Mongo.Collection with before/after hooks for insert/update/remove/find/findOne.
 * [jagi:astronomy](https://github.com/jagi/meteor-astronomy/) ⭐ 602 | 🐛 47 | 🌐 JavaScript | 📅 2023-08-24 - The Model layer for Meteor.
 * [simple-schema](https://github.com/aldeed/simple-schema-js) ⭐ 560 | 🐛 116 | 🌐 TypeScript | 📅 2026-09-13 - A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects.
 * [reywood:publish-composite](https://github.com/Meteor-Community-Packages/meteor-publish-composite) ⭐ 548 | 🐛 16 | 🌐 JavaScript | 📅 2026-01-21 - publish a set of related documents from various collections using a reactive join.
@@ -95,7 +95,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for handling users and authentication*
 
-* [accounts-js](https://github.com/accounts-js/accounts) ⭐ 1,501 | 🐛 63 | 🌐 TypeScript | 📅 2024-03-08 - A suite of packages aims to provide all the tools you need to build a flexible authentication and accounts management solution for your application.
+* [accounts-js](https://github.com/accounts-js/accounts) ⭐ 1,500 | 🐛 63 | 🌐 TypeScript | 📅 2024-03-08 - A suite of packages aims to provide all the tools you need to build a flexible authentication and accounts management solution for your application.
 * [alanning:roles](https://github.com/Meteor-Community-Packages/meteor-roles) ⭐ 913 | 🐛 46 | 🌐 JavaScript | 📅 2026-09-16 - Roles support for the built-in accounts packages.
 * [meteor-user-status](https://github.com/Meteor-Community-Packages/meteor-user-status) ⭐ 556 | 🐛 41 | 🌐 JavaScript | 📅 2026-05-19 - Keeps track of users and their meta data.
 * [accounts-ui](https://github.com/e-Potek/accounts-ui/) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-12 - Accounts UI for React in Meteor 1.3+.
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,707 | 🐛 525 | 🌐 TypeScript | 📅 2026-10-17 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,709 | 🐛 531 | 🌐 TypeScript | 📅 2026-10-17 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,504 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,057 | 🐛 298 | 🌐 Shell | 📅 2026-10-13 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,067 | 🐛 300 | 🌐 Shell | 📅 2026-10-18 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,7 +277,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,123 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-17 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,124 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-18 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,463 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 276 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-09 - Coauthor supercollaboration/discussion forum.
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
