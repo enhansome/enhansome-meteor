@@ -77,7 +77,7 @@
             "open_issues": 47,
             "owner": "jagi",
             "repo": "meteor-astronomy",
-            "stars": 602,
+            "stars": 601,
             "topics": [
               "astronomy",
               "javascript",
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T02:38:40Z",
-            "open_issues": 531,
+            "last_commit": "2026-10-19T21:56:28Z",
+            "open_issues": 522,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52709,
+            "stars": 52710,
             "topics": [
               "angular",
               "capacitor",
@@ -2443,10 +2443,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-18T20:52:43Z",
-            "open_issues": 0,
+            "open_issues": 5,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21124,
+            "stars": 21128,
             "topics": [
               "docker-image",
               "foss",
@@ -3041,7 +3041,7 @@
                 "id": 5625,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-17T19:52:39Z",
+                "last_commit": "2026-10-19T18:17:03Z",
                 "open_issues": 232,
                 "owner": "phusion",
                 "repo": "passenger",
@@ -3079,7 +3079,7 @@
                 "open_issues": 20,
                 "owner": "oortcloud",
                 "repo": "unofficial-meteor-faq",
-                "stars": 946,
+                "stars": 942,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:25.409Z"
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:35:24.551Z",
+    "last_updated": "2026-10-19T23:55:51.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
