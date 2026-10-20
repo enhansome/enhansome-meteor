@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T21:56:28Z",
-            "open_issues": 522,
+            "last_commit": "2026-10-20T23:10:43Z",
+            "open_issues": 516,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52710,
+            "stars": 52714,
             "topics": [
               "angular",
               "capacitor",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T20:52:43Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-20T15:04:49Z",
+            "open_issues": 0,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21128,
+            "stars": 21130,
             "topics": [
               "docker-image",
               "foss",
@@ -2505,7 +2505,7 @@
             "open_issues": 19,
             "owner": "nosqlclient",
             "repo": "nosqlclient",
-            "stars": 3463,
+            "stars": 3462,
             "topics": [
               "cross-platform",
               "database-management",
@@ -2557,8 +2557,8 @@
             "id": 160796624,
             "language": "TypeScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-10-16T08:26:13Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-20T18:17:41Z",
+            "open_issues": 56,
             "owner": "unchainedshop",
             "repo": "unchained",
             "stars": 204,
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:55:51.028Z",
+    "last_updated": "2026-10-20T23:23:41.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
