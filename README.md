@@ -138,7 +138,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [mup-aws-beanstalk](https://github.com/zodern/mup-aws-beanstalk) ⭐ 124 | 🐛 45 | 🌐 JavaScript | 📅 2024-05-02 - Deploy Meteor apps to AWS Elastic Beanstalk using Meteor Up
 * [meteor-azure](https://github.com/fractal-code/meteor-azure) ⭐ 66 | 🐛 5 | 🌐 JavaScript | 📅 2024-12-08 - Automate Meteor deployments on Azure App Service
 * [meteor-kubernetes-guide](https://github.com/Gregivy/meteor-kubernetes-guide) ⭐ 41 | 🐛 2 | 📅 2019-05-06 - Deploy a Meteor app with Kubernetes.
-* [meteor-hero](https://github.com/jkrup/meteor-hero) ⭐ 38 | 🐛 23 | 🌐 JavaScript | 📅 2023-01-04 - Deploy MeteorJS applications for free with one command utilizing Heroku's service.
+* [meteor-hero](https://github.com/jkrup/meteor-hero) ⭐ 38 | 🐛 22 | 🌐 JavaScript | 📅 2023-01-04 - Deploy MeteorJS applications for free with one command utilizing Heroku's service.
 * [meteor-google-cloud](https://github.com/EducationLink/meteor-google-cloud) ⭐ 29 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-03 - Automate Meteor deployments on Google Cloud App Engine Flexible
 * [waveshosting](https://github.com/nicolaslopezj/waveshosting) ⭐ 12 | 🐛 2 | 🌐 JavaScript | 📅 2022-01-10 - Web application to manage meteor deployments.
 * [yamup](https://github.com/bordalix/yamup) ⭐ 10 | 🐛 3 | 🌐 JavaScript | 📅 2026-01-21 - Deploy Meteor apps to your own Ubuntu server (EC2, ...) without dockers
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,714 | 🐛 516 | 🌐 TypeScript | 📅 2026-10-20 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,716 | 🐛 517 | 🌐 TypeScript | 📅 2026-10-21 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,504 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,079 | 🐛 290 | 🌐 Shell | 📅 2026-10-20 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,103 | 🐛 289 | 🌐 Shell | 📅 2026-10-21 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,9 +277,9 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,130 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-20 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,131 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-21 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
-* [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,462 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
+* [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,461 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 276 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-09 - Coauthor supercollaboration/discussion forum.
 * [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 204 | 🐛 56 | 🌐 TypeScript | 📅 2026-10-20 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
@@ -322,7 +322,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Books
 
-* [Meteor Cookbook](https://github.com/awatson1978/meteor-cookbook) ⭐ 1,663 | 🐛 31 | 🌐 Shell | 📅 2022-01-04
+* [Meteor Cookbook](https://github.com/awatson1978/meteor-cookbook) ⭐ 1,664 | 🐛 31 | 🌐 Shell | 📅 2022-01-04
 * [Meteor Explained](https://gumroad.com/l/meteor-explained)
 * [Secure Meteor](https://www.securemeteor.com/)
 * [meteor-tuts](https://www.meteor-tuts.com/) - Free
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

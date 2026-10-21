@@ -913,7 +913,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2023-01-04T10:50:43Z",
-            "open_issues": 23,
+            "open_issues": 22,
             "owner": "jkrup",
             "repo": "meteor-hero",
             "stars": 38,
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T23:10:43Z",
-            "open_issues": 516,
+            "last_commit": "2026-10-21T23:33:38Z",
+            "open_issues": 517,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52714,
+            "stars": 52716,
             "topics": [
               "angular",
               "capacitor",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T15:04:49Z",
+            "last_commit": "2026-10-21T15:30:59Z",
             "open_issues": 0,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21130,
+            "stars": 21131,
             "topics": [
               "docker-image",
               "foss",
@@ -2477,7 +2477,7 @@
             "open_issues": 0,
             "owner": "VulcanJS",
             "repo": "Vulcan",
-            "stars": 7892,
+            "stars": 7891,
             "topics": [
               "graphql",
               "hacktoberfest",
@@ -2505,7 +2505,7 @@
             "open_issues": 19,
             "owner": "nosqlclient",
             "repo": "nosqlclient",
-            "stars": 3462,
+            "stars": 3461,
             "topics": [
               "cross-platform",
               "database-management",
@@ -3017,7 +3017,7 @@
                 "open_issues": 31,
                 "owner": "node-on-fhir",
                 "repo": "cookbook",
-                "stars": 1663,
+                "stars": 1664,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:28:25.409Z"
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:23:41.724Z",
+    "last_updated": "2026-10-21T23:36:55.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
