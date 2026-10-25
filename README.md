@@ -146,7 +146,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Docker Images
 
-* [meteor-base](https://github.com/disney/meteor-base) ⭐ 274 | 🐛 1 | 🌐 Shell | 📅 2026-09-14
+* [meteor-base](https://github.com/disney/meteor-base) ⭐ 275 | 🐛 1 | 🌐 Shell | 📅 2026-09-14
 * [docker-meteor](https://github.com/tozd/docker-meteor) ⭐ 54 | 🐛 0 | 🌐 Shell | 📅 2025-06-04
 * [meteor-docker](https://github.com/zodern/meteor-docker) ⭐ 53 | 🐛 6 | 🌐 Shell | 📅 2026-08-14
 
@@ -207,12 +207,12 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,717 | 🐛 518 | 🌐 TypeScript | 📅 2026-10-24 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,718 | 🐛 519 | 🌐 TypeScript | 📅 2026-10-24 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,503 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
 * [okland:accounts-phone](https://github.com/okland/accounts-phone) ⭐ 119 | 🐛 29 | 🌐 JavaScript | 📅 2016-08-31 - A login service based on mobile phone number for Meteor.
-* [meteor-react-native](https://github.com/TheRealNate/meteor-react-native) ⭐ 67 | 🐛 10 | 🌐 JavaScript | 📅 2025-12-10 - Meteor client for React Native matching Meteor Spec.
+* [meteor-react-native](https://github.com/TheRealNate/meteor-react-native) ⭐ 67 | 🐛 11 | 🌐 JavaScript | 📅 2025-12-10 - Meteor client for React Native matching Meteor Spec.
 * [meteor-push](https://github.com/activitree/meteor-push) ⭐ 28 | 🐛 10 | 🌐 JavaScript | 📅 2024-06-23 - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
 * [okland:camera-ui](https://github.com/okland/camera-ui) ⭐ 28 | 🐛 8 | 🌐 JavaScript | 📅 2017-09-25 - Meteor package for taking photos with user interface, one function call on desktop and mobile. Allows to choose between camera to photoLibrary on mobile.
 * [percolatestudio/cordova-plugin-safe-reload](https://github.com/percolatestudio/cordova-plugin-safe-reload) ⭐ 14 | 🐛 2 | 🌐 JavaScript | 📅 2016-02-11 - Cordova plugin to watch and recover after a broken Meteor Hot Code Push.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,146 | 🐛 292 | 🌐 Shell | 📅 2026-10-24 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,162 | 🐛 294 | 🌐 Shell | 📅 2026-10-25 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,11 +277,11 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,132 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-24 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,137 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-25 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,462 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 276 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-09 - Coauthor supercollaboration/discussion forum.
-* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 204 | 🐛 56 | 🌐 TypeScript | 📅 2026-10-24 - Open source Commerce platform developed with Meteor.
+* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 204 | 🐛 56 | 🌐 TypeScript | 📅 2026-10-25 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
 * [Rocket.Chat](https://rocket.chat/) - Realtime chat application built with Meteor.
 
@@ -298,7 +298,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [Angular](https://github.com/Urigo/angular-meteor) ⭐ 2,331 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02 - Working with Angular and Meteor.
 * [Asteroid](https://github.com/mondora/asteroid) ⭐ 729 | 🐛 47 | 🌐 JavaScript | 📅 2017-08-01 - An alternative client for a Meteor backend.
 * [Famo.us](https://github.com/gadicc/meteor-famous-views/) ⭐ 329 | 🐛 51 | 🌐 JavaScript | 📅 2016-07-27 - Famo.us and Meteor.
-* [Angular 2](https://github.com/Urigo/angular2-meteor) ⭐ 297 | 🐛 5 | 📅 2017-10-16 - Working with Angular 2 and Meteor.
+* [Angular 2](https://github.com/Urigo/angular2-meteor) ⭐ 296 | 🐛 5 | 📅 2017-10-16 - Working with Angular 2 and Meteor.
 * [frozeman:build-client](https://github.com/frozeman/meteor-build-client) ⭐ 277 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-03 - A tool to bundle the client part of a Meteor app.
 * [ddp.js](https://github.com/mondora/ddp.js) ⭐ 210 | 🐛 13 | 🌐 JavaScript | 📅 2018-03-17 - Isomorphic JavaScript DDP client.
 * [Svelte](https://github.com/zodern/melte) ⭐ 33 | 🐛 14 | 🌐 JavaScript | 📅 2025-03-19 - Build cybernetically enhanced web apps with Meteor and Svelte.
@@ -343,7 +343,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Tutorials
 
-* [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial) ⭐ 5,091 | 🐛 231 | 🌐 C++ | 📅 2026-10-19
+* [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial) ⭐ 5,092 | 🐛 231 | 🌐 C++ | 📅 2026-10-19
 * [When a Meteor finally hits production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b) - Blog post about deploying Meteor apps
 * [Transform any Meteor App into a PWA](https://dev.to/jankapunkt/transform-any-meteor-app-into-a-pwa-4k44)
 
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
