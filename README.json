@@ -103,8 +103,8 @@
             "id": 62351270,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T01:56:44Z",
-            "open_issues": 107,
+            "last_commit": "2026-10-27T16:23:17Z",
+            "open_issues": 106,
             "owner": "longshotlabs",
             "repo": "simpl-schema",
             "stars": 560,
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T23:25:17Z",
-            "open_issues": 515,
+            "last_commit": "2026-10-27T23:47:13Z",
+            "open_issues": 517,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52722,
+            "stars": 52724,
             "topics": [
               "angular",
               "capacitor",
@@ -2351,7 +2351,7 @@
             "open_issues": 10,
             "owner": "matteodem",
             "repo": "meteor-boilerplate",
-            "stars": 818,
+            "stars": 817,
             "topics": [
               "boilerplate",
               "javascript",
@@ -2442,7 +2442,7 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T13:41:18Z",
+            "last_commit": "2026-10-27T22:48:06Z",
             "open_issues": 0,
             "owner": "wekan",
             "repo": "wekan",
@@ -2712,7 +2712,7 @@
             "open_issues": 25,
             "owner": "Urigo",
             "repo": "angular-meteor",
-            "stars": 2331,
+            "stars": 2330,
             "topics": [
               "angular",
               "angular-meteor",
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T00:04:12.974Z",
+    "last_updated": "2026-10-27T23:59:26.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",

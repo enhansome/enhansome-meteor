@@ -67,7 +67,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [aldeed:collection2](https://github.com/aldeed/meteor-collection2/) ⭐ 1,016 | 🐛 41 | 🌐 JavaScript | 📅 2026-10-08 - Automatic validation of insert and update operations on the client and server.
 * [matb33:collection-hooks](https://github.com/Meteor-Community-Packages/meteor-collection-hooks) ⭐ 656 | 🐛 51 | 🌐 JavaScript | 📅 2026-10-18 - Extends Mongo.Collection with before/after hooks for insert/update/remove/find/findOne.
 * [jagi:astronomy](https://github.com/jagi/meteor-astronomy/) ⭐ 601 | 🐛 47 | 🌐 JavaScript | 📅 2023-08-24 - The Model layer for Meteor.
-* [simple-schema](https://github.com/aldeed/simple-schema-js) ⭐ 560 | 🐛 107 | 🌐 TypeScript | 📅 2026-10-24 - A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects.
+* [simple-schema](https://github.com/aldeed/simple-schema-js) ⭐ 560 | 🐛 106 | 🌐 TypeScript | 📅 2026-10-27 - A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects.
 * [reywood:publish-composite](https://github.com/Meteor-Community-Packages/meteor-publish-composite) ⭐ 548 | 🐛 18 | 🌐 JavaScript | 📅 2026-01-21 - publish a set of related documents from various collections using a reactive join.
 * [dburles:collection-helpers](https://github.com/dburles/meteor-collection-helpers/) ⭐ 495 | 🐛 11 | 🌐 JavaScript | 📅 2024-12-09 – Transform your collections with helpers that you define.
 * [cultofcoders:grapher](https://github.com/cult-of-coders/grapher) ⭐ 276 | 🐛 67 | 🌐 JavaScript | 📅 2024-08-12 - Grapher: Meteor Collection Joins + Reactive GraphQL like queries.
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,722 | 🐛 515 | 🌐 TypeScript | 📅 2026-10-26 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,724 | 🐛 517 | 🌐 TypeScript | 📅 2026-10-27 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,503 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,180 | 🐛 297 | 🌐 Shell | 📅 2026-10-25 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,192 | 🐛 299 | 🌐 Shell | 📅 2026-10-27 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -270,14 +270,14 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Boilerplate
 
-* [matteodem - meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate) ⭐ 818 | 🐛 10 | 🌐 JavaScript | 📅 2026-01-26
+* [matteodem - meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate) ⭐ 817 | 🐛 10 | 🌐 JavaScript | 📅 2026-01-26
 * [Pup](https://github.com/cleverbeagle/pup) ⭐ 552 | 🐛 12 | 🌐 JavaScript | 📅 2023-03-07
 * [CaptainN - meteor-react-starter](https://github.com/CaptainN/meteor-react-starter) ⭐ 45 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-07 - A starter project on Meteor with React.
 * [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,142 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-26 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,142 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-27 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,462 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 276 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-09 - Coauthor supercollaboration/discussion forum.
@@ -295,7 +295,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Alternative Front End Frameworks to Blaze*
 
-* [Angular](https://github.com/Urigo/angular-meteor) ⭐ 2,331 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02 - Working with Angular and Meteor.
+* [Angular](https://github.com/Urigo/angular-meteor) ⭐ 2,330 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02 - Working with Angular and Meteor.
 * [Asteroid](https://github.com/mondora/asteroid) ⭐ 729 | 🐛 47 | 🌐 JavaScript | 📅 2017-08-01 - An alternative client for a Meteor backend.
 * [Famo.us](https://github.com/gadicc/meteor-famous-views/) ⭐ 329 | 🐛 51 | 🌐 JavaScript | 📅 2016-07-27 - Famo.us and Meteor.
 * [Angular 2](https://github.com/Urigo/angular2-meteor) ⭐ 296 | 🐛 5 | 📅 2017-10-16 - Working with Angular 2 and Meteor.
