@@ -254,7 +254,7 @@
             "open_issues": 30,
             "owner": "vazco",
             "repo": "uniforms",
-            "stars": 2102,
+            "stars": 2103,
             "topics": [
               "component-library",
               "components",
@@ -1124,7 +1124,7 @@
             "open_issues": 300,
             "owner": "iron-meteor",
             "repo": "iron-router",
-            "stars": 1959,
+            "stars": 1960,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T03:09:41Z",
-            "open_issues": 519,
+            "last_commit": "2026-10-26T23:25:17Z",
+            "open_issues": 515,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52718,
+            "stars": 52722,
             "topics": [
               "angular",
               "capacitor",
@@ -2200,7 +2200,7 @@
             "open_issues": 4,
             "owner": "msavin",
             "repo": "Mongol-meteor-explore-minimongo-devtools",
-            "stars": 815,
+            "stars": 816,
             "topics": [
               "devtool",
               "devtools",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T16:13:44Z",
+            "last_commit": "2026-10-26T13:41:18Z",
             "open_issues": 0,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21137,
+            "stars": 21142,
             "topics": [
               "docker-image",
               "foss",
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T22:48:03.998Z",
+    "last_updated": "2026-10-27T00:04:12.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
