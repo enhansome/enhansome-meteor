@@ -146,7 +146,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Docker Images
 
-* [meteor-base](https://github.com/disney/meteor-base) ⭐ 275 | 🐛 2 | 🌐 Shell | 📅 2026-09-14
+* [meteor-base](https://github.com/disney/meteor-base) ⭐ 275 | 🐛 1 | 🌐 Shell | 📅 2026-10-30
 * [docker-meteor](https://github.com/tozd/docker-meteor) ⭐ 54 | 🐛 0 | 🌐 Shell | 📅 2025-06-04
 * [meteor-docker](https://github.com/zodern/meteor-docker) ⭐ 53 | 🐛 6 | 🌐 Shell | 📅 2026-08-14
 
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,730 | 🐛 516 | 🌐 TypeScript | 📅 2026-10-28 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,727 | 🐛 515 | 🌐 TypeScript | 📅 2026-10-29 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,503 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,215 | 🐛 302 | 🌐 Shell | 📅 2026-10-27 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,234 | 🐛 302 | 🌐 Shell | 📅 2026-10-27 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,11 +277,11 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,145 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-28 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,145 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-29 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,462 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
-* [coauthor](https://github.com/edemaine/coauthor) ⭐ 276 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-09 - Coauthor supercollaboration/discussion forum.
-* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 204 | 🐛 56 | 🌐 TypeScript | 📅 2026-10-28 - Open source Commerce platform developed with Meteor.
+* [coauthor](https://github.com/edemaine/coauthor) ⭐ 278 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-09 - Coauthor supercollaboration/discussion forum.
+* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 204 | 🐛 57 | 🌐 TypeScript | 📅 2026-10-28 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
 * [Rocket.Chat](https://rocket.chat/) - Realtime chat application built with Meteor.
 
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
