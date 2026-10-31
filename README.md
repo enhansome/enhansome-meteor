@@ -146,7 +146,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Docker Images
 
-* [meteor-base](https://github.com/disney/meteor-base) ⭐ 275 | 🐛 1 | 🌐 Shell | 📅 2026-10-30
+* [meteor-base](https://github.com/disney/meteor-base) ⭐ 275 | 🐛 0 | 🌐 Shell | 📅 2026-10-30
 * [docker-meteor](https://github.com/tozd/docker-meteor) ⭐ 54 | 🐛 0 | 🌐 Shell | 📅 2025-06-04
 * [meteor-docker](https://github.com/zodern/meteor-docker) ⭐ 53 | 🐛 6 | 🌐 Shell | 📅 2026-08-14
 
@@ -187,7 +187,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Handling files in Meteor*
 
-* [ostrio:files](https://github.com/VeliovGroup/Meteor-Files) ⭐ 1,113 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-01 - Upload files via DDP, HTTP and WebRTC/DC. To Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.
+* [ostrio:files](https://github.com/VeliovGroup/Meteor-Files) ⭐ 1,114 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-01 - Upload files via DDP, HTTP and WebRTC/DC. To Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.
 * [netanelgilad:excel](https://github.com/netanelgilad/meteor-excel) ⚠️ Archived - Parsing and generating excel files (xlsx, xls).
 * [@reactioncommerce/file-collections](https://github.com/reactioncommerce/reaction-file-collections) ⚠️ Archived - Reaction FileCollections is a set of NPM packages that provide the ability to support file uploads, storage, and downloads in Node and Meteor apps, and in browser JavaScript.
 * [mikkelking:slingshot](https://github.com/Back2bikes/meteor-slingshot) ⭐ 13 | 🐛 6 | 🌐 JavaScript | 📅 2025-07-19 - Upload files directly to AWS S3, Google Cloud Storage and others in meteor.
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,732 | 🐛 515 | 🌐 TypeScript | 📅 2026-10-30 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,734 | 🐛 515 | 🌐 TypeScript | 📅 2026-10-30 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,503 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -246,7 +246,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Debugging Tools*
 
-* [msavin:mongol](https://github.com/msavin/Mongol/) ⭐ 815 | 🐛 4 | 🌐 JavaScript | 📅 2019-07-10 - Visual Editing Tool for Meteor for MongoDB Collections.
+* [msavin:mongol](https://github.com/msavin/Mongol/) ⭐ 816 | 🐛 4 | 🌐 JavaScript | 📅 2019-07-10 - Visual Editing Tool for Meteor for MongoDB Collections.
 * [msavin:jetsetter](https://github.com/msavin/JetSetter) ⭐ 185 | 🐛 3 | 🌐 JavaScript | 📅 2015-07-07 - Visual Get/Set Tool for Meteor Session Variables.
 * [meteor-devtools-evolved](https://github.com/leonardoventurini/meteor-devtools-evolved) ⭐ 177 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-29 - A chrome extension.
 * [babrahams:constellation](https://github.com/JackAdams/constellation-distro/) ⭐ 32 | 🐛 2 | 🌐 JavaScript | 📅 2021-07-22 - An extensible dev console for Meteor.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,254 | 🐛 303 | 🌐 Shell | 📅 2026-10-27 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,269 | 🐛 303 | 🌐 Shell | 📅 2026-10-27 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,7 +277,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,146 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,148 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-31 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,463 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 278 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-09 - Coauthor supercollaboration/discussion forum.

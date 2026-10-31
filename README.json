@@ -1040,7 +1040,7 @@
             "language": "Shell",
             "license": "NOASSERTION",
             "last_commit": "2026-10-30T21:02:37Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "disney",
             "repo": "meteor-base",
             "stars": 275,
@@ -1440,7 +1440,7 @@
             "open_issues": 13,
             "owner": "veliovgroup",
             "repo": "Meteor-Files",
-            "stars": 1113,
+            "stars": 1114,
             "topics": [
               "aws-s3",
               "dropbox",
@@ -1681,7 +1681,7 @@
             "open_issues": 515,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52732,
+            "stars": 52734,
             "topics": [
               "angular",
               "capacitor",
@@ -2200,7 +2200,7 @@
             "open_issues": 4,
             "owner": "msavin",
             "repo": "Mongol-meteor-explore-minimongo-devtools",
-            "stars": 815,
+            "stars": 816,
             "topics": [
               "devtool",
               "devtools",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T20:27:17Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-31T20:39:35Z",
+            "open_issues": 2,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21146,
+            "stars": 21148,
             "topics": [
               "docker-image",
               "foss",
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:02:09.939Z",
+    "last_updated": "2026-10-31T23:43:27.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
