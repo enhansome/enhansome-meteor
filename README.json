@@ -798,7 +798,7 @@
             "id": 15802298,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T12:55:54Z",
+            "last_commit": "2026-11-05T12:14:39Z",
             "open_issues": 18,
             "owner": "meteor",
             "repo": "meteor-migrations",
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T00:27:19Z",
-            "open_issues": 522,
+            "last_commit": "2026-11-06T00:10:56Z",
+            "open_issues": 527,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52741,
+            "stars": 52744,
             "topics": [
               "angular",
               "capacitor",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T18:59:00Z",
+            "last_commit": "2026-11-06T00:07:12Z",
             "open_issues": 0,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21153,
+            "stars": 21154,
             "topics": [
               "docker-image",
               "foss",
@@ -2540,7 +2540,7 @@
             "open_issues": 233,
             "owner": "edemaine",
             "repo": "coauthor",
-            "stars": 279,
+            "stars": 280,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -2557,11 +2557,11 @@
             "id": 160796624,
             "language": "TypeScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-11-04T08:41:59Z",
-            "open_issues": 57,
+            "last_commit": "2026-11-05T09:03:04Z",
+            "open_issues": 58,
             "owner": "unchainedshop",
             "repo": "unchained",
-            "stars": 204,
+            "stars": 205,
             "topics": [
               "cart",
               "digital-commerce",
@@ -3045,7 +3045,7 @@
                 "open_issues": 231,
                 "owner": "phusion",
                 "repo": "passenger",
-                "stars": 5091,
+                "stars": 5092,
                 "topics": [
                   "application-server",
                   "appserver",
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:02:23.750Z",
+    "last_updated": "2026-11-06T01:06:55.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
