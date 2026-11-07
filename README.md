@@ -85,7 +85,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Helpers for templates*
 
-* [uniforms](https://github.com/vazco/uniforms) ⭐ 2,103 | 🐛 30 | 🌐 TypeScript | 📅 2026-01-12 - Bunch of React components and helpers to easily generate and validate forms. [Seamlessly integrate with `simpl-schema`](https://uniforms.tools/docs/installation).
+* [uniforms](https://github.com/vazco/uniforms) ⭐ 2,103 | 🐛 31 | 🌐 TypeScript | 📅 2026-01-12 - Bunch of React components and helpers to easily generate and validate forms. [Seamlessly integrate with `simpl-schema`](https://uniforms.tools/docs/installation).
 * [aldeed:autoform](https://github.com/aldeed/meteor-autoform) ⭐ 1,428 | 🐛 24 | 🌐 JavaScript | 📅 2026-04-02 - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
 * [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) ⭐ 219 | 🐛 5 | 🌐 JavaScript | 📅 2017-03-03 - A Meteor package: Replace already defined templates, inherit helpers and events from other templates.
 * [ostrio:templatehelpers](https://github.com/VeliovGroup/Meteor-Template-helpers) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-09 - Utility helpers for your Blaze templates.
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,746 | 🐛 524 | 🌐 TypeScript | 📅 2026-11-06 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,746 | 🐛 528 | 🌐 TypeScript | 📅 2026-11-06 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,503 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,333 | 🐛 311 | 🌐 Shell | 📅 2026-11-06 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,351 | 🐛 312 | 🌐 Shell | 📅 2026-11-07 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,7 +277,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,158 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-06 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,159 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-07 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,462 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 280 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-09 - Coauthor supercollaboration/discussion forum.

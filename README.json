@@ -251,7 +251,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-01-12T11:11:31Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "vazco",
             "repo": "uniforms",
             "stars": 2103,
@@ -1678,7 +1678,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-06T10:43:09Z",
-            "open_issues": 524,
+            "open_issues": 528,
             "owner": "ionic-team",
             "repo": "ionic-framework",
             "stars": 52746,
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T23:05:30Z",
+            "last_commit": "2026-11-07T23:52:12Z",
             "open_issues": 0,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21158,
+            "stars": 21159,
             "topics": [
               "docker-image",
               "foss",
@@ -2477,7 +2477,7 @@
             "open_issues": 0,
             "owner": "VulcanJS",
             "repo": "Vulcan",
-            "stars": 7889,
+            "stars": 7890,
             "topics": [
               "graphql",
               "hacktoberfest",
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:19:10.440Z",
+    "last_updated": "2026-11-07T23:56:36.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
