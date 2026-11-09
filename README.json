@@ -46,8 +46,8 @@
             "id": 10413561,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T10:56:19Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-08T11:55:07Z",
+            "open_issues": 50,
             "owner": "Meteor-Community-Packages",
             "repo": "meteor-collection-hooks",
             "stars": 656,
@@ -1440,7 +1440,7 @@
             "open_issues": 13,
             "owner": "veliovgroup",
             "repo": "Meteor-Files",
-            "stars": 1114,
+            "stars": 1113,
             "topics": [
               "aws-s3",
               "dropbox",
@@ -1681,7 +1681,7 @@
             "open_issues": 528,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52746,
+            "stars": 52745,
             "topics": [
               "angular",
               "capacitor",
@@ -2442,8 +2442,8 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T23:52:12Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-08T04:56:35Z",
+            "open_issues": 1,
             "owner": "wekan",
             "repo": "wekan",
             "stars": 21159,
@@ -2505,7 +2505,7 @@
             "open_issues": 19,
             "owner": "nosqlclient",
             "repo": "nosqlclient",
-            "stars": 3462,
+            "stars": 3461,
             "topics": [
               "cross-platform",
               "database-management",
@@ -2557,7 +2557,7 @@
             "id": 160796624,
             "language": "TypeScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-11-05T09:03:04Z",
+            "last_commit": "2026-11-08T13:43:50Z",
             "open_issues": 58,
             "owner": "unchainedshop",
             "repo": "unchained",
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T23:56:36.374Z",
+    "last_updated": "2026-11-09T00:00:06.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
