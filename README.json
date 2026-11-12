@@ -254,7 +254,7 @@
             "open_issues": 31,
             "owner": "vazco",
             "repo": "uniforms",
-            "stars": 2103,
+            "stars": 2102,
             "topics": [
               "component-library",
               "components",
@@ -394,7 +394,7 @@
             "open_issues": 63,
             "owner": "accounts-js",
             "repo": "accounts",
-            "stars": 1500,
+            "stars": 1499,
             "topics": [
               "accounts",
               "graphql",
@@ -1039,8 +1039,8 @@
             "id": 135494942,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T21:02:37Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-11T23:44:16Z",
+            "open_issues": 1,
             "owner": "disney",
             "repo": "meteor-base",
             "stars": 275,
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T00:11:41Z",
+            "last_commit": "2026-11-12T01:35:59Z",
             "open_issues": 534,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52750,
+            "stars": 52752,
             "topics": [
               "angular",
               "capacitor",
@@ -2351,7 +2351,7 @@
             "open_issues": 10,
             "owner": "matteodem",
             "repo": "meteor-boilerplate",
-            "stars": 818,
+            "stars": 817,
             "topics": [
               "boilerplate",
               "javascript",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T22:50:49Z",
+            "last_commit": "2026-11-11T20:33:54Z",
             "open_issues": 0,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21167,
+            "stars": 21168,
             "topics": [
               "docker-image",
               "foss",
@@ -2505,7 +2505,7 @@
             "open_issues": 19,
             "owner": "nosqlclient",
             "repo": "nosqlclient",
-            "stars": 3461,
+            "stars": 3460,
             "topics": [
               "cross-platform",
               "database-management",
@@ -2540,7 +2540,7 @@
             "open_issues": 233,
             "owner": "edemaine",
             "repo": "coauthor",
-            "stars": 280,
+            "stars": 281,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -2557,8 +2557,8 @@
             "id": 160796624,
             "language": "TypeScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-11-10T19:49:25Z",
-            "open_issues": 59,
+            "last_commit": "2026-11-11T16:29:39Z",
+            "open_issues": 54,
             "owner": "unchainedshop",
             "repo": "unchained",
             "stars": 205,
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:53:47.450Z",
+    "last_updated": "2026-11-12T01:59:44.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
