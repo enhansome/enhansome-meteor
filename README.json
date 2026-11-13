@@ -1040,7 +1040,7 @@
             "language": "Shell",
             "license": "NOASSERTION",
             "last_commit": "2026-11-11T23:44:16Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "disney",
             "repo": "meteor-base",
             "stars": 275,
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T01:35:59Z",
-            "open_issues": 534,
+            "last_commit": "2026-11-13T00:04:45Z",
+            "open_issues": 515,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52752,
+            "stars": 52751,
             "topics": [
               "angular",
               "capacitor",
@@ -1721,7 +1721,7 @@
             "open_issues": 137,
             "owner": "meteoric",
             "repo": "meteor-ionic",
-            "stars": 1503,
+            "stars": 1502,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -2351,7 +2351,7 @@
             "open_issues": 10,
             "owner": "matteodem",
             "repo": "meteor-boilerplate",
-            "stars": 817,
+            "stars": 816,
             "topics": [
               "boilerplate",
               "javascript",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T20:33:54Z",
+            "last_commit": "2026-11-12T19:08:04Z",
             "open_issues": 0,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21168,
+            "stars": 21169,
             "topics": [
               "docker-image",
               "foss",
@@ -2477,7 +2477,7 @@
             "open_issues": 0,
             "owner": "VulcanJS",
             "repo": "Vulcan",
-            "stars": 7891,
+            "stars": 7889,
             "topics": [
               "graphql",
               "hacktoberfest",
@@ -2505,7 +2505,7 @@
             "open_issues": 19,
             "owner": "nosqlclient",
             "repo": "nosqlclient",
-            "stars": 3460,
+            "stars": 3461,
             "topics": [
               "cross-platform",
               "database-management",
@@ -2557,7 +2557,7 @@
             "id": 160796624,
             "language": "TypeScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-11-11T16:29:39Z",
+            "last_commit": "2026-11-12T14:24:24Z",
             "open_issues": 54,
             "owner": "unchainedshop",
             "repo": "unchained",
@@ -3042,7 +3042,7 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-10T16:00:35Z",
-                "open_issues": 232,
+                "open_issues": 233,
                 "owner": "phusion",
                 "repo": "passenger",
                 "stars": 5093,
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:59:44.701Z",
+    "last_updated": "2026-11-13T01:27:48.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
