@@ -563,7 +563,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-07T19:20:03Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "monti-apm",
             "repo": "monti-apm-agent",
             "stars": 48,
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T00:04:45Z",
+            "last_commit": "2026-11-14T00:23:21Z",
             "open_issues": 515,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52751,
+            "stars": 52752,
             "topics": [
               "angular",
               "capacitor",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T19:08:04Z",
+            "last_commit": "2026-11-13T18:22:02Z",
             "open_issues": 0,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21169,
+            "stars": 21171,
             "topics": [
               "docker-image",
               "foss",
@@ -2477,7 +2477,7 @@
             "open_issues": 0,
             "owner": "VulcanJS",
             "repo": "Vulcan",
-            "stars": 7889,
+            "stars": 7888,
             "topics": [
               "graphql",
               "hacktoberfest",
@@ -2540,7 +2540,7 @@
             "open_issues": 233,
             "owner": "edemaine",
             "repo": "coauthor",
-            "stars": 281,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:27:48.895Z",
+    "last_updated": "2026-11-14T01:01:44.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
