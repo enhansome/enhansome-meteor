@@ -104,7 +104,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for administrating your Meteor apps*
 
-* [yogiben:admin](https://github.com/yogiben/meteor-admin) ⭐ 822 | 🐛 171 | 🌐 CoffeeScript | 📅 2017-06-23 - A complete admin dashboard solution.
+* [yogiben:admin](https://github.com/yogiben/meteor-admin) ⭐ 823 | 🐛 171 | 🌐 CoffeeScript | 📅 2017-06-23 - A complete admin dashboard solution.
 * [houston:admin](https://github.com/gterrono/houston) ⭐ 802 | 🐛 129 | 🌐 CoffeeScript | 📅 2017-05-16 - A zero-config, Django Admin-like admin for Meteor.
 * [zodern:pure-admin](https://github.com/zodern/meteor-pure-admin) ⭐ 20 | 🐛 1 | 🌐 TypeScript | 📅 2023-08-31 - An isolated, customizable admin panel for Meteor.
 * [Meteor Candy](https://www.meteorcandy.com/) - Fastest and easier way to add an admin panel to your app.
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,752 | 🐛 515 | 🌐 TypeScript | 📅 2026-11-14 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,755 | 🐛 516 | 🌐 TypeScript | 📅 2026-11-14 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,502 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,604 | 🐛 312 | 🌐 Shell | 📅 2026-11-09 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,622 | 🐛 311 | 🌐 Shell | 📅 2026-11-09 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,7 +277,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,171 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-13 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,170 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-14 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,461 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 282 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-09 - Coauthor supercollaboration/discussion forum.
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
