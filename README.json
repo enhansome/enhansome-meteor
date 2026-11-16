@@ -1145,7 +1145,7 @@
             "open_issues": 0,
             "owner": "veliovgroup",
             "repo": "flow-router",
-            "stars": 201,
+            "stars": 200,
             "topics": [
               "flow-router",
               "javascript",
@@ -1681,7 +1681,7 @@
             "open_issues": 516,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52755,
+            "stars": 52756,
             "topics": [
               "angular",
               "capacitor",
@@ -1791,7 +1791,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2016-08-31T13:34:32Z",
-            "open_issues": 29,
+            "open_issues": 28,
             "owner": "okland",
             "repo": "accounts-phone",
             "stars": 119,
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T23:54:24Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-15T01:36:23Z",
+            "open_issues": 3,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21170,
+            "stars": 21172,
             "topics": [
               "docker-image",
               "foss",
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T00:15:26.812Z",
+    "last_updated": "2026-11-16T00:21:10.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",

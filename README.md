@@ -155,7 +155,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Routers for Blaze*
 
 * [iron:router](https://github.com/iron-meteor/iron-router) ⭐ 1,960 | 🐛 300 | 🌐 JavaScript | 📅 2017-11-11 - A router that works on the server and the browser, designed specifically for Meteor.
-* [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router) ⭐ 201 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-24 - Carefully extended `flow-router` package. Up-to-date version with support of latest Meteor's releases.
+* [ostrio:flow-router-extra](https://github.com/VeliovGroup/flow-router) ⭐ 200 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-24 - Carefully extended `flow-router` package. Up-to-date version with support of latest Meteor's releases.
 * [meteorhacks:picker](https://github.com/meteorhacks/picker) ⭐ 180 | 🐛 30 | 🌐 JavaScript | 📅 2018-03-21 - Server Side Router for Meteor.
 * [msavin:parrot](https://github.com/msavin/Parrot) ⭐ 74 | 🐛 2 | 🌐 JavaScript | 📅 2018-02-28 - Web router specially designed for building SPAs using Meteor
 
@@ -207,11 +207,11 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,755 | 🐛 516 | 🌐 TypeScript | 📅 2026-11-14 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,756 | 🐛 516 | 🌐 TypeScript | 📅 2026-11-14 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,502 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
-* [okland:accounts-phone](https://github.com/okland/accounts-phone) ⭐ 119 | 🐛 29 | 🌐 JavaScript | 📅 2016-08-31 - A login service based on mobile phone number for Meteor.
+* [okland:accounts-phone](https://github.com/okland/accounts-phone) ⭐ 119 | 🐛 28 | 🌐 JavaScript | 📅 2016-08-31 - A login service based on mobile phone number for Meteor.
 * [meteor-react-native](https://github.com/TheRealNate/meteor-react-native) ⭐ 67 | 🐛 11 | 🌐 JavaScript | 📅 2025-12-10 - Meteor client for React Native matching Meteor Spec.
 * [meteor-push](https://github.com/activitree/meteor-push) ⭐ 28 | 🐛 10 | 🌐 JavaScript | 📅 2024-06-23 - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
 * [okland:camera-ui](https://github.com/okland/camera-ui) ⭐ 28 | 🐛 8 | 🌐 JavaScript | 📅 2017-09-25 - Meteor package for taking photos with user interface, one function call on desktop and mobile. Allows to choose between camera to photoLibrary on mobile.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,622 | 🐛 311 | 🌐 Shell | 📅 2026-11-09 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,658 | 🐛 313 | 🌐 Shell | 📅 2026-11-15 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,7 +277,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,170 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-14 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,172 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-15 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,461 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 282 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-09 - Coauthor supercollaboration/discussion forum.
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
