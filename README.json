@@ -254,7 +254,7 @@
             "open_issues": 31,
             "owner": "vazco",
             "repo": "uniforms",
-            "stars": 2100,
+            "stars": 2099,
             "topics": [
               "component-library",
               "components",
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T22:19:08Z",
-            "open_issues": 481,
+            "last_commit": "2026-11-24T04:20:44Z",
+            "open_issues": 490,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52776,
+            "stars": 52770,
             "topics": [
               "angular",
               "capacitor",
@@ -2442,11 +2442,11 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-22T23:45:50Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-23T22:00:35Z",
+            "open_issues": 0,
             "owner": "wekan",
             "repo": "wekan",
-            "stars": 21175,
+            "stars": 21176,
             "topics": [
               "docker-image",
               "foss",
@@ -2540,7 +2540,7 @@
             "open_issues": 233,
             "owner": "edemaine",
             "repo": "coauthor",
-            "stars": 283,
+            "stars": 284,
             "topics": []
           },
           "first_seen": "2026-08-28T04:28:25.409Z"
@@ -2557,8 +2557,8 @@
             "id": 160796624,
             "language": "TypeScript",
             "license": "EUPL-1.2",
-            "last_commit": "2026-11-21T16:52:18Z",
-            "open_issues": 55,
+            "last_commit": "2026-11-23T17:29:39Z",
+            "open_issues": 57,
             "owner": "unchainedshop",
             "repo": "unchained",
             "stars": 205,
@@ -2712,7 +2712,7 @@
             "open_issues": 25,
             "owner": "Urigo",
             "repo": "angular-meteor",
-            "stars": 2331,
+            "stars": 2330,
             "topics": [
               "angular",
               "angular-meteor",
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T01:07:20.261Z",
+    "last_updated": "2026-11-24T04:58:15.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
@@ -3215,7 +3215,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2022-03-31T06:03:05Z",
-      "open_issues": 3,
+      "open_issues": 1,
       "owner": "Urigo",
       "repo": "awesome-meteor",
       "stars": 1407,
