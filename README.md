@@ -95,7 +95,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for handling users and authentication*
 
-* [accounts-js](https://github.com/accounts-js/accounts) ⭐ 1,498 | 🐛 63 | 🌐 TypeScript | 📅 2024-03-08 - A suite of packages aims to provide all the tools you need to build a flexible authentication and accounts management solution for your application.
+* [accounts-js](https://github.com/accounts-js/accounts) ⭐ 1,497 | 🐛 63 | 🌐 TypeScript | 📅 2024-03-08 - A suite of packages aims to provide all the tools you need to build a flexible authentication and accounts management solution for your application.
 * [alanning:roles](https://github.com/Meteor-Community-Packages/meteor-roles) ⭐ 913 | 🐛 46 | 🌐 JavaScript | 📅 2026-09-16 - Roles support for the built-in accounts packages.
 * [meteor-user-status](https://github.com/Meteor-Community-Packages/meteor-user-status) ⭐ 556 | 🐛 41 | 🌐 JavaScript | 📅 2026-05-19 - Keeps track of users and their meta data.
 * [accounts-ui](https://github.com/e-Potek/accounts-ui/) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2022-05-12 - Accounts UI for React in Meteor 1.3+.
@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,770 | 🐛 490 | 🌐 TypeScript | 📅 2026-11-24 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,768 | 🐛 495 | 🌐 TypeScript | 📅 2026-11-25 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,502 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,789 | 🐛 321 | 🌐 Shell | 📅 2026-11-24 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,841 | 🐛 196 | 🌐 Shell | 📅 2026-11-25 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -277,7 +277,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,176 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-23 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,176 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-25 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,460 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 284 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-09 - Coauthor supercollaboration/discussion forum.
@@ -343,7 +343,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Tutorials
 
-* [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial) ⭐ 5,091 | 🐛 230 | 🌐 C++ | 📅 2026-11-20
+* [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial) ⭐ 5,090 | 🐛 230 | 🌐 C++ | 📅 2026-11-20
 * [When a Meteor finally hits production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b) - Blog post about deploying Meteor apps
 * [Transform any Meteor App into a PWA](https://dev.to/jankapunkt/transform-any-meteor-app-into-a-pwa-4k44)
 
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._

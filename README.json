@@ -394,7 +394,7 @@
             "open_issues": 63,
             "owner": "accounts-js",
             "repo": "accounts",
-            "stars": 1498,
+            "stars": 1497,
             "topics": [
               "accounts",
               "graphql",
@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T04:20:44Z",
-            "open_issues": 490,
+            "last_commit": "2026-11-25T00:37:54Z",
+            "open_issues": 495,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52770,
+            "stars": 52768,
             "topics": [
               "angular",
               "capacitor",
@@ -2442,7 +2442,7 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T22:00:35Z",
+            "last_commit": "2026-11-25T02:17:37Z",
             "open_issues": 0,
             "owner": "wekan",
             "repo": "wekan",
@@ -3045,7 +3045,7 @@
                 "open_issues": 230,
                 "owner": "phusion",
                 "repo": "passenger",
-                "stars": 5091,
+                "stars": 5090,
                 "topics": [
                   "application-server",
                   "appserver",
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:58:15.700Z",
+    "last_updated": "2026-11-25T03:43:34.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
