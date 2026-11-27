@@ -207,7 +207,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Mobile Development*
 
-* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,769 | 🐛 494 | 🌐 TypeScript | 📅 2026-11-26 - Official Ionic support for Meteor.
+* [driftyco:ionic](https://github.com/driftyco/ionic) ⭐ 52,771 | 🐛 495 | 🌐 TypeScript | 📅 2026-11-27 - Official Ionic support for Meteor.
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) ⭐ 1,502 | 🐛 137 | 🌐 JavaScript | 📅 2022-08-15 - Ionic components for Meteor.
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) ⚠️ Archived - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) ⭐ 274 | 🐛 22 | 🌐 Java | 📅 2018-07-12 - DDP for clients on Android.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,895 | 🐛 193 | 🌐 Shell | 📅 2026-11-25 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,920 | 🐛 183 | 🌐 Shell | 📅 2026-11-26 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -271,17 +271,17 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Boilerplate
 
 * [matteodem - meteor-boilerplate](https://github.com/matteodem/meteor-boilerplate) ⭐ 815 | 🐛 10 | 🌐 JavaScript | 📅 2026-01-26
-* [Pup](https://github.com/cleverbeagle/pup) ⭐ 552 | 🐛 12 | 🌐 JavaScript | 📅 2023-03-07
+* [Pup](https://github.com/cleverbeagle/pup) ⭐ 551 | 🐛 12 | 🌐 JavaScript | 📅 2023-03-07
 * [CaptainN - meteor-react-starter](https://github.com/CaptainN/meteor-react-starter) ⭐ 45 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-07 - A starter project on Meteor with React.
 * [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
 
 ## Open source apps
 
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,178 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-26 - Open source Trello-like kanban.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,178 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-27 - Open source Trello-like kanban.
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,460 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 284 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-09 - Coauthor supercollaboration/discussion forum.
-* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 205 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-25 - Open source Commerce platform developed with Meteor.
+* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 205 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-25 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
 * [Rocket.Chat](https://rocket.chat/) - Realtime chat application built with Meteor.
 
@@ -295,8 +295,8 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Alternative Front End Frameworks to Blaze*
 
-* [Angular](https://github.com/Urigo/angular-meteor) ⭐ 2,330 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02 - Working with Angular and Meteor.
-* [Asteroid](https://github.com/mondora/asteroid) ⭐ 729 | 🐛 47 | 🌐 JavaScript | 📅 2017-08-01 - An alternative client for a Meteor backend.
+* [Angular](https://github.com/Urigo/angular-meteor) ⭐ 2,329 | 🐛 25 | 🌐 Dockerfile | 📅 2023-05-02 - Working with Angular and Meteor.
+* [Asteroid](https://github.com/mondora/asteroid) ⭐ 729 | 🐛 46 | 🌐 JavaScript | 📅 2017-08-01 - An alternative client for a Meteor backend.
 * [Famo.us](https://github.com/gadicc/meteor-famous-views/) ⭐ 329 | 🐛 51 | 🌐 JavaScript | 📅 2016-07-27 - Famo.us and Meteor.
 * [Angular 2](https://github.com/Urigo/angular2-meteor) ⭐ 296 | 🐛 5 | 📅 2017-10-16 - Working with Angular 2 and Meteor.
 * [frozeman:build-client](https://github.com/frozeman/meteor-build-client) ⭐ 277 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-03 - A tool to bundle the client part of a Meteor app.
@@ -343,7 +343,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Tutorials
 
-* [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial) ⭐ 5,090 | 🐛 230 | 🌐 C++ | 📅 2026-11-20
+* [Phusion Passenger: Meteor tutorial](https://github.com/phusion/passenger/wiki/Phusion-Passenger:-Meteor-tutorial) ⭐ 5,091 | 🐛 230 | 🌐 C++ | 📅 2026-11-20
 * [When a Meteor finally hits production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b) - Blog post about deploying Meteor apps
 * [Transform any Meteor App into a PWA](https://dev.to/jankapunkt/transform-any-meteor-app-into-a-pwa-4k44)
 
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

@@ -1677,11 +1677,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T00:37:50Z",
-            "open_issues": 494,
+            "last_commit": "2026-11-27T02:53:52Z",
+            "open_issues": 495,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52769,
+            "stars": 52771,
             "topics": [
               "angular",
               "capacitor",
@@ -2377,7 +2377,7 @@
             "open_issues": 12,
             "owner": "cleverbeagle",
             "repo": "pup",
-            "stars": 552,
+            "stars": 551,
             "topics": [
               "apollo",
               "app",
@@ -2442,7 +2442,7 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T00:52:27Z",
+            "last_commit": "2026-11-27T01:40:19Z",
             "open_issues": 0,
             "owner": "wekan",
             "repo": "wekan",
@@ -2477,7 +2477,7 @@
             "open_issues": 0,
             "owner": "VulcanJS",
             "repo": "Vulcan",
-            "stars": 7887,
+            "stars": 7885,
             "topics": [
               "graphql",
               "hacktoberfest",
@@ -2558,7 +2558,7 @@
             "language": "TypeScript",
             "license": "EUPL-1.2",
             "last_commit": "2026-11-25T17:46:48Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "unchainedshop",
             "repo": "unchained",
             "stars": 205,
@@ -2712,7 +2712,7 @@
             "open_issues": 25,
             "owner": "Urigo",
             "repo": "angular-meteor",
-            "stars": 2330,
+            "stars": 2329,
             "topics": [
               "angular",
               "angular-meteor",
@@ -2737,7 +2737,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2017-08-01T14:00:09Z",
-            "open_issues": 47,
+            "open_issues": 46,
             "owner": "mondora",
             "repo": "asteroid",
             "stars": 729,
@@ -3045,7 +3045,7 @@
                 "open_issues": 230,
                 "owner": "phusion",
                 "repo": "passenger",
-                "stars": 5090,
+                "stars": 5091,
                 "topics": [
                   "application-server",
                   "appserver",
@@ -3206,7 +3206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:05:33.769Z",
+    "last_updated": "2026-11-27T03:15:38.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated, community driven list of awesome Meteor packages, libraries, resources and shiny things",
