@@ -85,7 +85,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Helpers for templates*
 
-* [uniforms](https://github.com/vazco/uniforms) ⭐ 2,099 | 🐛 31 | 🌐 TypeScript | 📅 2026-01-12 - Bunch of React components and helpers to easily generate and validate forms. [Seamlessly integrate with `simpl-schema`](https://uniforms.tools/docs/installation).
+* [uniforms](https://github.com/vazco/uniforms) ⭐ 2,100 | 🐛 32 | 🌐 TypeScript | 📅 2026-01-12 - Bunch of React components and helpers to easily generate and validate forms. [Seamlessly integrate with `simpl-schema`](https://uniforms.tools/docs/installation).
 * [aldeed:autoform](https://github.com/aldeed/meteor-autoform) ⭐ 1,427 | 🐛 24 | 🌐 JavaScript | 📅 2026-04-02 - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
 * [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) ⭐ 219 | 🐛 5 | 🌐 JavaScript | 📅 2017-03-03 - A Meteor package: Replace already defined templates, inherit helpers and events from other templates.
 * [ostrio:templatehelpers](https://github.com/VeliovGroup/Meteor-Template-helpers) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-09 - Utility helpers for your Blaze templates.
@@ -254,7 +254,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 ## Editor Plugins
 
 * [meteor-api](https://atom.io/packages/meteor-api) - Meteor addons for Atom.
-* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,920 | 🐛 183 | 🌐 Shell | 📅 2026-11-26 - Completion for the meteor command.
+* [meteor-zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#meteor) ⭐ 190,874 | 🐛 116 | 🌐 Shell | 📅 2026-11-28 - Completion for the meteor command.
 
 ## Scaffolding
 
@@ -281,7 +281,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) ⚠️ Archived - A toolkit to quickly build apps with React, GraphQL & Meteor.
 * [Nosqlclient](https://github.com/nosqlclient/nosqlclient) ⭐ 3,460 | 🐛 19 | 🌐 JavaScript | 📅 2023-08-15 - MongoDB management tool.
 * [coauthor](https://github.com/edemaine/coauthor) ⭐ 284 | 🐛 233 | 🌐 CoffeeScript | 📅 2026-10-09 - Coauthor supercollaboration/discussion forum.
-* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 205 | 🐛 54 | 🌐 TypeScript | 📅 2026-11-25 - Open source Commerce platform developed with Meteor.
+* [Unchained Shop](https://github.com/unchainedshop/unchained) ⭐ 205 | 🐛 55 | 🌐 TypeScript | 📅 2026-11-25 - Open source Commerce platform developed with Meteor.
 * [radgrad2](https://github.com/radgrad/radgrad2) ⭐ 9 | 🐛 39 | 🌐 TypeScript | 📅 2023-03-04 - Meteor based education management system.
 * [Rocket.Chat](https://rocket.chat/) - Realtime chat application built with Meteor.
 
@@ -423,4 +423,4 @@ Thank you @gillesfabio for creating this repo!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
